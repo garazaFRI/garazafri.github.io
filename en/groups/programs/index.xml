@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on FRI Garage | Student technology accelerator</title>
+    <link>https://garaza.io/en/groups/programs/index.xml</link>
+    <description>Recent content in Programs on FRI Garage | Student technology accelerator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/en/groups/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Student accelerator</title>
+      <link>https://garaza.io/programs/accelerator</link>
+      <pubDate>Sun, 01 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programs/accelerator</guid>
+      <description>&lt;p&gt;The most important Garage activity. Selected student teams build their ideas in the accelerator programs.
+&lt;/p&gt;
+
+&lt;p&gt;Do you have a great idea for a project? In the Garage, we will help to transform it from an idea to reality.&lt;/p&gt;
+
+&lt;p&gt;We offer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;workspace&lt;/li&gt;
+&lt;li&gt;mentoring for project (mentors from faculty or industry)&lt;/li&gt;
+&lt;li&gt;infrastructure&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garaza.io/faq/accelerator/microgrants&#34;&gt;microgrants&lt;/a&gt; (read: funds for the purchase of necessary equipment / services / software that you need for the project)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How do you apply your project:
+- send the idea together with a description, timeframe and team members to &lt;a href=&#34;mailto:garaza@fri.uni-lj.si&#34;&gt;our email&lt;/a&gt; or our personal emails in the Garage or on faculty
+- if you are accepted in Garage, we specify the details together (finding a mentor, set the timing, resources, milestones of the project)&lt;/p&gt;
+
+&lt;p&gt;What we expect:
+- regularly working on the project (your team should meet and work at least once a week)
+- visible progress of the project (for example: repository on Github)
+- &lt;strong&gt;do not neglect your study commitments&lt;/strong&gt; while working on your project&lt;/p&gt;
+
+&lt;p&gt;Milestones will therefore be set to adapt to your expected study obligations (eg. in a week, where there are many exams, you plan less activity on the project).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&#34;Under the hood&#34; workshops</title>
+      <link>https://garaza.io/programs/workshops</link>
+      <pubDate>Mon, 02 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programs/workshops</guid>
+      <description>&lt;p&gt;Practical (&amp;rdquo;&lt;em&gt;hands-on&lt;/em&gt;&amp;rdquo;) workshops on current technical topics.
+&lt;/p&gt;
+
+&lt;p&gt;In workshops &amp;ldquo;&lt;em&gt;Under the hood&lt;/em&gt;&amp;rdquo; we will together look under the hood and descend into the
+details of the latest IT technology.&lt;/p&gt;
+
+&lt;p&gt;Lecturers will be experts from industry, staff from faculty and of course, experienced students.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;up to 15 participants&lt;/li&gt;
+&lt;li&gt;made public in advanced:
+
+&lt;ul&gt;
+&lt;li&gt;agenda&lt;/li&gt;
+&lt;li&gt;duration&lt;/li&gt;
+&lt;li&gt;difficulty level&lt;/li&gt;
+&lt;li&gt;require prior knowledge&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;participants generally prefer to work on their computers, of course, there will be also computers in the Garage available to use.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming challenges and other competitions</title>
+      <link>https://garaza.io/programs/programming-challenges</link>
+      <pubDate>Tue, 10 May 2016 14:53:00 +0200</pubDate>
+      
+      <guid>https://garaza.io/programs/programming-challenges</guid>
+      <description>&lt;p&gt;Our faculty cooperates with different companies and works with them to prepare
+our students a number of different challenges. All students, who participate in one of the challenges
+can for the duration of the challenge use the premises of Garage for work.
+&lt;/p&gt;
+
+&lt;p&gt;In the Garage, we will also carry out several technical &lt;a href=&#34;https://garaza.io/programs/workshops/&#34;&gt;workshops&lt;/a&gt;, led by experts from industry who launch the challenge.
+They are intended to be for both those who participate in the challenges as well as others who are only interested in the topic.&lt;/p&gt;
+
+&lt;p&gt;Programming challenges are published on &lt;a href=&#34;http://www.fri.uni-lj.si/si/raziskave/studentski_izzivi/&#34;&gt;a separate page&lt;/a&gt;,
+where you can get more information about the challenge. Most of the programming challenges also have published all their material on the &lt;a href=&#34;https://ucilnica.fri.uni-lj.si/course/index.php?categoryid=24&#34;&gt;Faculty classroom&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Group brainstorming and BoF sessions</title>
+      <link>https://garaza.io/programs/bof-meetings</link>
+      <pubDate>Wed, 04 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programs/bof-meetings</guid>
+      <description>&lt;p&gt;Brainstorming and BoF sessions are networking events with the aim to identify
+ideas that are then used in the Garage or in a group to learn any new technology.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)&#34;&gt;BoF sessions&lt;/a&gt;
+and brainstorming are in comparison with the workshops &lt;a href=&#34;https://garaza.io/programs/workshops/&#34;&gt;&amp;ldquo;&lt;em&gt;Under the hood&lt;/em&gt;&amp;ldquo;&lt;/a&gt;
+more informal, non-structured activities and without a prepared detailed agenda.&lt;/p&gt;
+
+&lt;p&gt;Good ideas and interesting problems that are still looking for a team that would have &amp;ldquo;adopted&amp;rdquo;
+them and park in the &lt;em&gt;Park of ideas&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

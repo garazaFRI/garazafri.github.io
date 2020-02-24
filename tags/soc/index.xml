@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soc on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/soc/index.xml</link>
+    <description>Recent content in Soc on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/soc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Iz teorije v prakso: Lovljenje hekerjev ali kako postati varnostni analitik</title>
+      <link>https://garaza.io/event/20181212-NIL-soc/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181212-NIL-soc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Vid Tovornik Marolt, Analitik kibernetske varnosti, NIL d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Vas zanima kariera na področju kibernetske varnosti, a ne veste, kje in kako začeti? Katera znanja vam pri tem najbolj koristijo in kje jih pridobite? Bi radi spoznali najboljše slovenske strokovnjake za kibernetsko varnost ter izvedeli iz prve roke, kaj točno delajo in s kakšnimi incidenti se srečujejo? Bi se jim želeli pridružiti?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Če ste na katero od teh vprašanj odgovorili pritrdilno vas vabimo na predavanje &lt;strong&gt;Lovljenje hekerjev v praksi ali kako postati varnostni analitik&lt;/strong&gt;, v katerem vam bo &lt;strong&gt;Vid Tovornik Marolt&lt;/strong&gt; iz prve roke pojasnil, kako narediti prve korake v uspešni karierni na področju kibernetske varnosti.
+V predavanju vam bomo predstavili delo v varnostno operativnem centru (SOC), ki skrbi za zaznavanje in odziv na kibernetske incidente, kaj točno počnejo varnostni analitiki, katera orodja uporabljajo in kakšne so karierne možnosti in priložnosti v NIL-ovem varnostno operativnem centru.&lt;/p&gt;
+
+&lt;p&gt;Svoje izkušnje in znanje s področja informacijske varnosti bo z udeleženci delil tudi &lt;strong&gt;mag. Matevž Mesojednik&lt;/strong&gt;, vodja NIL-ovega SOC-a.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Predstavitev NIL-ovega varnostno operativnega centra ter dela v njem&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DEMO: prikaz etičnega vdora, zaznave in začetka sanacije incidenta&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Diskusija s predavateljema&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-lovljenje-hekerjev-v-praksi-ali-kako-postati-varnostni-analitik-tickets-53093686646&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

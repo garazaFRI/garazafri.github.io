@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on FRI Garage | Student technology accelerator</title>
+    <link>https://garaza.io/en/post/index.xml</link>
+    <description>Recent content in Post on FRI Garage | Student technology accelerator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 May 2016 17:00:00 +0100</lastBuildDate>
+    <atom:link href="https://garaza.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FRI Garage opens its doors.</title>
+      <link>https://garaza.io/en/post/odprtje-garaze/</link>
+      <pubDate>Wed, 25 May 2016 17:00:00 +0100</pubDate>
+      
+      <guid>https://garaza.io/en/post/odprtje-garaze/</guid>
+      <description>&lt;p&gt;On May, FRI Garage opens its doors for all students who are not interested in only studying.&lt;/p&gt;
+
+&lt;p&gt;In the first student technology accelerator at FRI, students will have the opportunity to bring their ideas to life, for which they did not have the appropriate knowledge, equipment, space for work or technology until now.&lt;/p&gt;
+
+&lt;p&gt;Are you interested in what FRI Garage offers and what is happening here? Check out our about &lt;a href=&#34;https://garaza.io/about/&#34;&gt;page&lt;/a&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

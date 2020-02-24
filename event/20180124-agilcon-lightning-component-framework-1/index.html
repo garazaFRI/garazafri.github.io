@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.18.1" />
+
+  <title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 1.del &middot; Garaža FRI | Študentski tehnološki pospeševalnik</title>
+
+
+  <link href="https://garaza.io/css/bootstrap.css" rel="stylesheet">
+  <link href="https://garaza.io/css/site.css" rel="stylesheet">
+  <link href="https://garaza.io/css/font-awesome.css" rel="stylesheet">
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+  <script src="https://garaza.io/js/bootstrap.min.js"></script>
+
+  <link rel="shortcut icon" href="https://garaza.io/img/favicon.ico" type="image/x-icon" />
+  
+
+
+</head>
+
+
+<body>
+
+  <nav class="navbar navbar-fri navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://garaza.io/">
+                <img src="https://garaza.io/img/PNG_GARAZA_LOGOTIP_II.png">
+                <b>Kjer ideje postanejo resničnost</b>
+            </a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <div class="language-selection">
+                    <a href="https://garaza.io/">SI</a> |
+                    <a href="https://garaza.io/en">EN</a>
+                </div>
+                
+                <li><a href="https://garaza.io/ogarazi/">O Garaži</a></li>
+                
+                <li><a href="https://garaza.io/programi">Programi</a></li>
+                
+                <li><a href="https://garaza.io/event/">Dogodki</a></li>
+                
+                <li><a href="https://garaza.io/ekipe/">Ekipe</a></li>
+                
+                <li><a href="https://garaza.io/pridruzise/">Pridruži Se</a></li>
+                
+                <li><a href="https://garaza.io/faq/">FAQ</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+  <div id="main">
+
+<section>
+  <img src="https://garaza.io/img/cover3.jpg" alt="" class="cover">
+</section>
+
+<section id="notifications-container" class="notification">
+    <div class="container">
+        <ul>
+            <li>
+                <h2>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 1.del</h2>
+            </li>
+        </ul>
+        <p class="description"></p>
+    </div>
+</section>
+
+<main class="container">
+    <div class="skip-medium">
+        <div class="skip-small">
+            <div class="element">
+                <div class="element-podatki">
+                    <p><strong>Trajanje:</strong> od 14:00-16:00</p>
+
+<p><strong>Predava:</strong> Simon Repar, solution arhitect, Agilcon</p>
+
+<p>Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?</p>
+
+<p>Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.</p>
+
+<p></p>
+
+<p>Vsak problem lahko rešimo na veliko različnih načinov, pravo vprašanje pa je kateri način je za določen problem pravi. To je vse prej kot lahka odločitev. Vedno pa je na koncu pomembna dodana vrednost, ki ga ima naš trud za ljudi, ki bodo naš produkt uporabljali.</p>
+
+<p>Na delavnici se bomo seznanili z ekosistemom Salesforce in z njim povezana orodja. Poizkusili bomo izvedeti za katere probleme je to optimalna platforma in na kakšen način jo lahko uporabimo pri razvoju naše ideje za razvoj aplikacije (mobilne ali web). Predstavljeno bomo moderno javascript frontend ogrodje Lightning Component, ki ga Salesforce danes uporablja pri razvoju lastnih web in mobilnih aplikacij kot tudi ogrodje, ki ga lahko uporabimo razvijalci za realizacijo naše ideje. Pri tem bomo spoznali tudi tehnologije, ki so širše uporabljene v industriji (javascript, spletni servisi, geolocation API, CSS).
+Delavnica bo potekala v dveh delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in frameworkom Lightning Component in začeli s praktično delavnico, na drugem delu pa bomo dokončali aplikacijo do te mere, da bomo z aplikacijo lahko iskali restavracije v naši bližini.</p>
+
+<p>Priporočljiva je udeležba na 1. delu delavnice, v kolikor se nameravate udeležiti 2. dela, ni pa to pogoj.</p>
+
+<p><strong>Naučili se bomo</strong>: Javascript, Lightning Component Framework, Platforma Force.com (APEX), Webservices (REST), Geolocation API, CSS, Salesforce1 mobilna aplikacija</p>
+
+<p><strong>Zahteve</strong>:</p>
+
+<ul>
+<li>osnovno znanje programiranja</li>
+<li>prenosni računalnik</li>
+<li>Sublime Text ali Atom ali VSC in nameščen dodatek Mavensmate (<a href="https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip">https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip</a>)</li>
+</ul>
+
+<p><strong>Agenda</strong>:</p>
+
+<ol>
+<li><p>del</p>
+
+<ul>
+<li>Osnove Salesforce platforme (podatkovna baza, backend, frontend)</li>
+<li>Lightning Component framework</li>
+<li>APEX z REST API</li>
+<li>Priprava okolja za razvoj</li>
+</ul></li>
+
+<li><p>del</p>
+
+<ul>
+<li>Implementacija geolokacijske komponente</li>
+<li>Uporaba Lightning Component Framework</li>
+<li>Dokončanje aplikacije za iskanje restavracij v naši bližini</li>
+</ul></li>
+</ol>
+
+<p><a href="https://www.eventbrite.com/e/delavnica-spoznavanje-salesforce-mobilnega-sveta-s-pomocjo-lightning-component-frameworka-tickets-42211887893">Prijava na Eventbrite-u</a>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+</div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <img src="https://garaza.io/img/fri.png" alt="" width="250px">
+                </div>
+                <div class="col-md-4 col-sm-6 fri-info">
+                    <p>UNIVERZA V LJUBLJANI</p>
+                    <p>Fakulteta za računalništvo in informatiko</p>
+                    <p>Večna pot 113, 1000 Ljubljana</p>
+                    <p>Garaža UL FRI</p>
+                    <p>Študentski tehnološki pospeševalnik</p>
+                    <a href="mailto:garaza@fri.uni-lj.si"><i class="fa fa-envelope" aria-hidden="true"></i> garaza@fri.uni-lj.si</a>
+                </div>
+                <div class="col-md-4 col-sm-6 social-info">
+                    <div >
+  <ul class="list-unstyled">
+
+    <li class="pure-menu-item">
+      <a href="https://garaza.io/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
+    </li>
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://twitter.com/garazaFRI" target="_blank"><i class="fa fa-twitter fa-fw"></i>Twitter</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://facebook.com/ulfri" target="_blank"><i class="fa fa-facebook fa-fw"></i>Facebook</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://instagram.com/garazafri" target="_blank"><i class="fa fa-instagram fa-fw"></i>Instagram</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/garazaFRI" target="_blank"><i class="fa fa-github-alt fa-fw"></i>Github</a>
+    </li>
+    
+
+    
+
+    
+
+  </ul>
+</div>
+                </div>
+            </div>
+    </div>
+</footer>
+
+</body>
+</html>
+

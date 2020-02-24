@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Challenge on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/programming-challenge/index.xml</link>
+    <description>Recent content in Programming Challenge on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/programming-challenge/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Programerski izziv: Zemanta - srečanje z inženirji</title>
+      <link>https://garaza.io/event/20171128-zemanta-izziv2/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20171128-zemanta-izziv2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kako odgovoriti na dražbi z najprimernejšim spletnim oglasom v 10 ms?&lt;/li&gt;
+&lt;li&gt;Kako avtomatsko prepoznati sumljiv promet na internetu?&lt;/li&gt;
+&lt;li&gt;Kakšne so danes najboljše inženirske prakse pri razvoju in vzdrževanju spletnih storitev?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O takšnih in drugačnih vprašanjih se bomo pogovarjali ob toplem &lt;strong&gt;čaju&lt;/strong&gt; in turški &lt;strong&gt;kavi&lt;/strong&gt; v &lt;strong&gt;torek 28.11.2017&lt;/strong&gt; od 14. ure
+dalje na Zemantini čajanki v Garaži. Pridružite se lahko kadarkoli!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programerski izziv: Celtra - posvetovalni sestanek</title>
+      <link>https://garaza.io/event/20171123-celtra-izziv2/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20171123-celtra-izziv2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:15-15:15&lt;/p&gt;
+
+&lt;p&gt;V četrtek, 23.11. ob 14h bomo v Garaži FRI organizirali posvetovalni sestanek.
+Rok za oddajo vaših rešitev bo kmalu tu, zato je to idealna priložnost za vprašanja in nasvete.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programerski izziv: Celtra - predstavitev izziva</title>
+      <link>https://garaza.io/event/20171106-celtra-izziv/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20171106-celtra-izziv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 11:15-12:00&lt;/p&gt;
+
+&lt;p&gt;Podjetje Celtra v sodelovanju s Fakulteto za računalništvo in informatiko UL spet pripravlja
+tekmovanje za najboljšo programersko rešitev, v kateri lahko študenti osvojijo atraktivne nagrade
+v višini 1000 evrov.&lt;/p&gt;
+
+&lt;p&gt;Več informacij o izzivu bo na voljo &lt;strong&gt;6. novembra 2017 ob 11:15&lt;/strong&gt; v &lt;strong&gt;študentskem
+pospeševalniku Garaža&lt;/strong&gt; na Fakulteti za računalništvo in informatiko UL. Pridite vsi zainteresirani!&lt;/p&gt;
+
+&lt;p&gt;Rok za prijavo je 10. november 2017.&lt;/p&gt;
+
+&lt;p&gt;Svojo rešitev lahko razvijate do 30. novembra 2017. Zmagovalci izziva bodo znani do 11. decembra 2017.&lt;/p&gt;
+
+&lt;p&gt;Prijave preko epošte students@celtra.com.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Letošnja naloga zahteva, da implementirate oblačno aplikacijo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Izdelajte oblačno aplikacijo z uporabo storitev AWS - dostop do AWS priskrbimo mi!&lt;/li&gt;
+&lt;li&gt;Zagotovite high-availability in zero-downtime ob posodabljanju aplikacije.&lt;/li&gt;
+&lt;li&gt;Za implementacijo lahko uporabite frontend/backend tehnologijo po izbiri.&lt;/li&gt;
+&lt;li&gt;Rešite problem, ki vas zanima - odprti smo za dobre in zanimive ideje.&lt;/li&gt;
+&lt;li&gt;Delate lahko sami ali v paru!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vse informacije v zvezi z izzivom bodo na voljo na &lt;a href=&#34;https://ucilnica.fri.uni-lj.si/celtra&#34;&gt;https://ucilnica.fri.uni-lj.si/celtra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;V izzivu bodo lahko sodelovali študenti Univerze v Ljubljani, Univerze v Mariboru, Univerze na Primorskem in Univerze na Reki.&lt;/p&gt;
+
+&lt;p&gt;Prijave zbirajo na e-mail naslovu students@celtra.com.&lt;/p&gt;
+
+&lt;p&gt;Nagrade:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bon za 1000 evrov, ki ga lahko vnovčite za storitve AWS ali Heroku.&lt;/li&gt;
+&lt;li&gt;Obisk konference po dogovoru, npr. AWS Summit &amp;amp; technical bootcamp.&lt;/li&gt;
+&lt;li&gt;Plačana praksa v podjetju Celtra v Ljubljani, kjer boste lahko nadgradili pridobljeno
+znanje!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programerski izziv: Zemanta - predstavitev izziva</title>
+      <link>https://garaza.io/event/20171025-zemanta-izziv/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20171025-zemanta-izziv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:15-14:00&lt;/p&gt;
+
+&lt;p&gt;Zemanta v sodelovanju s Fakulteto za računalništvo in informatiko UL pripravlja tekmovanje za najboljšo programersko rešitev, v katerem lahko osvojiš super nagrade: Google Pixel 2, Google Home Max in možnost opravljanja plačane prakse v podjetju Zemanta.&lt;/p&gt;
+
+&lt;p&gt;Letošnje naloge so:
+Generator alternativnih naslovov oglasov
+Poslovna inteligenca v realnem času&lt;/p&gt;
+
+&lt;p&gt;Vabljeni na predstvitev izziva v sredo, 25.10.2017, ob 13:15 v Garaži, FRI.&lt;/p&gt;
+
+&lt;p&gt;Rok za prijavo je 6. 11. 2017, rok za oddajo pa 11. 12. 2017. Podelitev nagrad bo 21. 12. 2017 na Zemanti.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ucilnica.fri.uni-lj.si/zemanta&#34;&gt;Prijava v učilnici&lt;/a&gt; ali preko epošte izziv@zemanta.com.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

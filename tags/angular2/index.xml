@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular2 on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/angular2/index.xml</link>
+    <description>Recent content in Angular2 on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/angular2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Framework Angular 2 - 2.del</title>
+      <link>https://garaza.io/event/20161221-Framework-Angular-2-2/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20161221-Framework-Angular-2-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;
+
+&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.
+Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Na drugem delu delavnice bomo nadaljevali z našim Tour Of Heroes vodičem. Pogledali si bomo še routing in HTTP modul.&lt;/p&gt;
+
+&lt;p&gt;Spodaj so navodila, če prejšnjo sredo niste uspeli slediti in bi radi nadaljevali z izdelavo vodiča.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Prenosni računalnik&lt;/strong&gt; z nameščenim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NodeJS(LTS) - &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;https://nodejs.org/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: npm install -g angular-cli&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: git clone &lt;a href=&#34;https://github.com/jamzi/Angular2Workshop-1part.git&#34;&gt;https://github.com/jamzi/Angular2Workshop-1part.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: cd Angular2Workshop-1part&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: npm install&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: ng serve
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Opcijsko&lt;/strong&gt; si lahko tudi namestite:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Visual Studio Code - zelo popularen urejevalnik kode za razvoj Angular 2 aplikacij
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Navigacija&lt;/li&gt;
+&lt;li&gt;HTTP&lt;/li&gt;
+&lt;li&gt;Zaključek (nadaljni viri in povezave)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Framework Angular 2 - 1.del</title>
+      <link>https://garaza.io/event/20161214-Framework-Angular-2-1/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20161214-Framework-Angular-2-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;
+
+&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.
+Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Najprej si bomo pogledali kratek teoretičen uvod v framework Angular 2 in njegove sestavne dele. Potem se bomo pa kar hitro prestavili
+na Tour of Heroes vodič, kjer bomo spoznali glavni sestavni del Angular 2 - komponente. Kreirali bomo več komponent, jih logično razporedili, dodali servise za dostop do podatkov (services),
+navigacijo (routing) in na koncu spoznali še modul za kreiranje omrežnih zahtev HTTP (promises, observables).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Prenosni računalnik&lt;/strong&gt; z nameščenim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NodeJS(LTS) - &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;https://nodejs.org/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: npm install -g angular-cli&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: ng new Angular2Workshop&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: cd Angular2Workshop&lt;/li&gt;
+&lt;li&gt;V ukazni vrstici poženite: ng serve (če se pokaže stran z tekstom - app works, ste uspešno pripravili okolje)&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Opcijsko&lt;/strong&gt; si lahko tudi namestite:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Visual Studio Code - zelo popularen urejevalnik kode za razvoj Angular 2 aplikacij
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teoretični uvod v framework Angular 2 - pregled glavnih sestavnih delov&lt;/li&gt;
+&lt;li&gt;Hands-on delavnica vodiča Tour of Heroes z uporabo orodja angular-cli (&lt;a href=&#34;https://github.com/jamzi/Angular2Workshop&#34;&gt;Povezava do vodiča&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;Priprava okolja (1. del delavnice)&lt;/li&gt;
+&lt;li&gt;Uvod (1. del delavnice)&lt;/li&gt;
+&lt;li&gt;Dodajanje več junakov (1. del delavnice)&lt;/li&gt;
+&lt;li&gt;Več komponent (1. del delavnice)&lt;/li&gt;
+&lt;li&gt;Servisi (1. del delavnice)&lt;/li&gt;
+&lt;li&gt;Navigacija (2. del delavnice)&lt;/li&gt;
+&lt;li&gt;HTTP (2. del delavnice)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;V primeru obiska obeh delov delavnice, boste lahko na drugem delu nadaljevali z izdelavo Tour Of Heroes vodiča.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

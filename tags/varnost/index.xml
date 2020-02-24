@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varnost on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/varnost/index.xml</link>
+    <description>Recent content in Varnost on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/varnost/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Poletna šola: (Ne)varni internet stvari (IoT)</title>
+      <link>https://garaza.io/event/20160906-LRK-nevarni-iot/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160906-LRK-nevarni-iot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 3 dni, od 9:00-15:00, 6.9. do 8.9.2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavatelja:&lt;/strong&gt; Andrej Krevl (Stanford University), Boštjan Špehonja (Unistar LC)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Namenjena je:&lt;/strong&gt; študentom&lt;/p&gt;
+
+&lt;p&gt;Laboratorij za računalniške komunikacije tudi letos organizira zanimivo in zabavno poletno šolo za študente
+FRI. V prvih dveh dneh se boste naučili programirati Arduino in z njim na primer prižigati luči, komunicirati
+z napravami BLE (Bluetooth low energy), sprogramirali boste tudi oblačno storitev, prek katere boste nazadnje
+prižigali in ugašali luči. Zadnji dan boste postali napadalci in boste na več načinov vdrli v svoj (ali sosedov)
+sistem, mu prisluškovali in ugašali luči, nazadnje pa ga boste seveda tudi primerno zavarovali, tako da boste
+po zaključku poletne šole lahko mirno spali.
+&lt;/p&gt;
+
+&lt;p&gt;Howard iz TV serije Veliki pokovci (Big Bang Theory) pravi: &amp;ldquo;Poslal bom ukaz iz mojega prenosnika,
+priključenega na našega ponudnika internetnih storitev, ki ga bo s svetlobno hitrostjo poslal po optičnem kablu
+do San Francisca, preko satelita v geosinhroni orbiti do Lizbone na Portugalskem, kjer se bodo paketi razvrstili
+na podocensko povezavo, ki se zaključi v Halifaxu, v Kanadi, od koder se bo poslal na drugo stran ZDA po
+mikrovalovnih povezavah nazaj do našega ponudnika internetnih storitev, in do sprejemnika X10, ki bo prižgal
+to&amp;hellip; luč.&lt;/p&gt;
+
+&lt;iframe width=&#34;854&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/mqp8_ROAIJY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;V resnici vsi vemo, da se za podatkovni promet med Evropo in ZDA satelitske povezave praktično ne uporabljajo,
+da se večina čezatlantskih povezav zaključi v New Yorku in da so mikrovalovne povezave čez ZDA zamenjali optični
+kabli. Ampak, imeti luč, ki jo lahko prižgemo preko Interneta, je pa kul. Še boljši pa je občutek, ko tak sistem
+postavimo sami in se lučka dejansko prižge. Sprejemnik X10 bo zamenjal Arduino z modrim zobom, prenosnik nekaj
+kode v Pythonu, Lizbono pa storitev v oblaku, ravno tako v Python-u. Da nam nepridipravi ne bi povzročili
+previsokega računa za elektriko bomo podrobno pregledali in skušali napasti vsak del sistema in poiskali
+načine za varovanje pred vsiljivci.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Arduino, Bluetooth LE, bluePy, Tornado, Websockets, REST, Wireshark&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potrebno predznanje:&lt;/strong&gt; osnove programiranja&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Arduino, RFduino, Raspberry Pi in druga vgradna druščina&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Arduino&lt;/li&gt;
+&lt;li&gt;Moj prvi Arduino program&lt;/li&gt;
+&lt;li&gt;LED diode, gumbi in žičke&lt;/li&gt;
+&lt;li&gt;Arduino dobi modri zob (Bluetooth)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Domače stičišče (hub) in težave interneta stvari&lt;/li&gt;
+&lt;li&gt;Tudi Python dobi modri zob&lt;/li&gt;
+&lt;li&gt;Pozdravljen Arduino, jaz sem Python&lt;/li&gt;
+&lt;li&gt;Računalniški oblak, kaj je REST in zakaj je kul&lt;/li&gt;
+&lt;li&gt;Procesi, niti, dogodki in Tornado&lt;/li&gt;
+&lt;li&gt;Razvoj spletne storitve za &amp;ldquo;nadzor doma&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Potiskanje, vleka in trajne povezave&lt;/li&gt;
+&lt;li&gt;Pozdravljen interent, jaz sem lučka&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;3. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Pozdravljena lučka, I h4X0r&lt;/li&gt;
+&lt;li&gt;Kako nevarne so stvari&lt;/li&gt;
+&lt;li&gt;TLS in zakaj ga moramo imeti&lt;/li&gt;
+&lt;li&gt;Varovanje naše storitve v oblaku&lt;/li&gt;
+&lt;li&gt;Napadimo stičišče&lt;/li&gt;
+&lt;li&gt;Analiza protokola Bluetooth LE&lt;/li&gt;
+&lt;li&gt;Arduino in kako lahko majhna napaka postane velik problem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/poletna-sola-nevarni-internet-stvari-iot-tickets-27325702913&#34;&gt;Prijava na delavnico&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1080074902061083&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

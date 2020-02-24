@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pospeševalnik on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/pospe%C5%A1evalnik/index.xml</link>
+    <description>Recent content in Pospeševalnik on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/pospe%C5%A1evalnik/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kako je z lastništvom kode/projekta/izdelka, narejenega v Garaži?</title>
+      <link>https://garaza.io/faq/accelerator/lastnistvo/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/accelerator/lastnistvo/</guid>
+      <description>&lt;p&gt;Študentska ekipa zadrži &lt;strong&gt;vse&lt;/strong&gt; avtorske pravice.&lt;/p&gt;
+
+&lt;p&gt;Prav tako vam &lt;strong&gt;ne&lt;/strong&gt; bo potrebno po FRIju poimenovati svojih prvorojencev.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Za uresničitev našega projekta nujno potrebujemo določeno opremo/softver/storitev. Je možno pridobiti sredstva za ta namen?</title>
+      <link>https://garaza.io/faq/accelerator/microgrants/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/accelerator/microgrants/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Da, tudi to je možno!&lt;/strong&gt; Garaža FRI ima na voljo sredstva (&lt;em&gt;hvala sponzorji!&lt;/em&gt;), ki so namenjena &lt;strong&gt;vam in vašim&lt;/strong&gt;
+projektom.&lt;/p&gt;
+
+&lt;p&gt;Ima pa takšno financiranje opreme/programja eno &amp;ldquo;omejitev&amp;rdquo;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;po končanju projekta bo oprema ostala v Garaži, da jo bodo lahko uporabljale še ostale ekipe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To ne velja v primeru, če je vaš projekt ravno izdelava prototipa kakšne naprave, v tem primeru se seveda lahko
+dogovorimo drugače.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

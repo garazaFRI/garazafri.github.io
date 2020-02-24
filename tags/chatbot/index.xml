@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbot on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/chatbot/index.xml</link>
+    <description>Recent content in Chatbot on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Izdelaj svojega chatbota: s SAP Conversational AI, v samo dveh urah!</title>
+      <link>https://garaza.io/event/20191217-sap-chatbot/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20191217-sap-chatbot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Delavnico smo zaradi odsotnosti predavatelja prestavili na 14.1.2020.&lt;/strong&gt; (Matevž, iskrene čestitke!!! :) )&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 16:00-18:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.)&lt;/p&gt;
+
+&lt;p&gt;Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.&lt;/p&gt;
+
+&lt;p&gt;Ste že kdaj poskusili izdelati svojega chatbota? Vas zanima, kako ga s pomočjo aplikacije &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;SAP Conversational AI&lt;/a&gt; izdelate v samo dveh urah?&lt;/p&gt;
+
+&lt;p&gt;Na delavnici boste pod vodstvom strokovnjakov iz družb &lt;a href=&#34;https://www.sap.com/slovenia/about.html&#34;&gt;SAP Slovenija&lt;/a&gt; in &lt;a href=&#34;https://www.sapphir.si/&#34;&gt;Sapphir d.o.o&lt;/a&gt;. naredili svojega prvega chatbota ter ga naučili nekaj vljudnostnih fraz, pa tudi kakšne šale. Seveda ga boste prav tako naučili kako naj se primerno odzove :)&lt;/p&gt;
+
+&lt;p&gt;Več o tehnološki platformi, na kateri bo nastal vaš chatbot: &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;Conversational AI&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Vljudno vabljeni!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-izdelaj-svojega-chatbota-s-sap-conversational-ai-v-samo-dveh-urah-tickets-84848497139&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
+      <link>https://garaza.io/event/20190313-agilcon-chatko/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;
+
+&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;
+
+&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;
+&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
+&lt;li&gt;LiveAgent in Chatbot&lt;/li&gt;
+&lt;li&gt;Razvoj (data model, APEX, chatbot decision tree) - prepoznavanje besedila&lt;/li&gt;
+&lt;li&gt;Povezovanje s third-party sistemi po prepoznavi besedilaa&lt;/li&gt;
+&lt;li&gt;Dodatno: povezava na druge AI platforme (IBM Watson, Google Cloud Cloud Natural Language)&lt;/li&gt;
+&lt;li&gt;Dodatno: chatko v mobilni aplikaciji&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/chatko-optimizacija-kontakt-centra-s-pomocjo-naprednega-ai-klepetalnika-tickets-58161621977&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

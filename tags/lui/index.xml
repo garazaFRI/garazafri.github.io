@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lui on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/lui/index.xml</link>
+    <description>Recent content in Lui on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/lui/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Kako pri razvoju produkta/storitve upoštevati trg in kupca</title>
+      <link>https://garaza.io/event/20161124-LUI-trg-pri-razvoju-produkta/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20161124-LUI-trg-pri-razvoju-produkta/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Matej Stevanovič, Ljubljanski univerzitetni inkubator (LUI)&lt;/p&gt;
+
+&lt;p&gt;Razvoj produktov v zadnjih letih poteka tesno povezan z informacijami, ki jih
+dobimo s trga. Razvijalci se vzporedno s tehničnim razvojem ukvarjajo tudi z
+vsebino, ki jo bodo ponudili kupcu in se ob raziskovanju trga sprašujejo,
+kakšno bolečino ima kupec in kaj kupci želijo. Zakaj je to pomembno?
+Poznavanje kupca in razvoj produkta/storitve, ki jih bo kupec prepoznal kot
+rešitev njegovega problema, bo ključno pripomoglo k temu, da bo produkt razvit
+za kupca in da bo kupec v njem zaznal vrednost. Vrednost za kupca se kupcu
+sicer sporoča kasneje, v fazi oglaševanja, vendar pa mora biti tudi ob razvoju
+produkta ta vključena oz. mora razvojnik o njej razmišljati. S tem produkt
+približa kupcu in mu doda komercialno dimenzijo.&lt;/p&gt;
+
+&lt;p&gt;Izvedeli boste, &lt;strong&gt;na kaj morate biti pozorni&lt;/strong&gt; pri razvoju, &lt;strong&gt;kako vključevati
+podatke s trga&lt;/strong&gt; v razvoj in &lt;strong&gt;kako raziskati trg&lt;/strong&gt;. Spoznali boste &lt;strong&gt;orodje za razvoj
+vrednosti za kupca&lt;/strong&gt; in pogledali, kako se le-to vklaplja v širšo sliko poslovnega
+modela, ki zajema še ostale dimenzije poslovanja. Na podlagi &lt;strong&gt;primerov&lt;/strong&gt; boste
+spoznali pomembnost poznavanja vrednosti za razvijalca in pravilnega komuniciranja
+vrednosti kupcu.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-kako-pri-razvoju-produktastoritve-upostevati-trg-in-kupca-tickets-29279303184&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- [Slike z delavnice]() --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

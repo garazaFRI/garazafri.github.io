@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ms on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/ms/index.xml</link>
+    <description>Recent content in Ms on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/ms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Kako narediti pametnega &#34;bota&#34;?</title>
+      <link>https://garaza.io/event/20161006-MS-bot-framework/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20161006-MS-bot-framework/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00-17:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Martin Pregl, Microsoft&lt;/p&gt;
+
+&lt;p&gt;Pametni asistenti, chatboti, oziroma na kratko &lt;em&gt;boti&lt;/em&gt; so z nami že mnogo let. Zakaj so ravno zdaj postali hitro razvijajoče področje? Razlog tiči v tem, da so
+&amp;ldquo;messaging&amp;rdquo; aplikacije vedno popularnejše, nekateri celo trdijo, da so boti nove aplikacije. Nova paradigma pomeni novo priložnost.&lt;/p&gt;
+
+&lt;p&gt;Spoznali bomo Microsoft Bot Framework, platformo za gradnjo pametnih botov. Ključni deli delavnice bodo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kako lahko naredimo enostavnega bota&lt;/li&gt;
+&lt;li&gt;Dodajanje kanalov (Facebook, Slack, SMS, Email…)&lt;/li&gt;
+&lt;li&gt;Prepoznavanje uporabnikov&lt;/li&gt;
+&lt;li&gt;Dialogi&lt;/li&gt;
+&lt;li&gt;Dodajanje &amp;ldquo;pameti&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Razumevanje jezika in učenje ukazov&lt;/li&gt;
+&lt;li&gt;Integracija z zalednimi storitvami&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Prenosni računalnik&lt;/strong&gt; z nameščenim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Operacijskim sistemom Windows 10 - &lt;a href=&#34;http://www.windows.com&#34;&gt;http://www.windows.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Studio 2015 Community ali več (Professional, Ultimate) - &lt;a href=&#34;http://www.visualstudio.com&#34;&gt;http://www.visualstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nameščeni vsi popravki za Visual Studio (Tools-&amp;gt;Extensions in Updates-&amp;gt;Updates )&lt;/li&gt;
+&lt;li&gt;Azure SDK za razvojno okolje Microsoft Visual Studio 2015 - &lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkId=617168&#34;&gt;http://go.microsoft.com/fwlink/?LinkId=617168&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prenesite Bot Application predlogo tu: &lt;a href=&#34;http://aka.ms/bf-bc-vstemplate&#34;&gt;http://aka.ms/bf-bc-vstemplate&lt;/a&gt; in skopirajte zip datoteko v Template mapo (običajno &lt;code&gt;&amp;quot;%USERPROFILE%\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\&amp;quot;&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;MicrosoftID (oz LiveID) - &lt;a href=&#34;https://login.live.com/&#34;&gt;https://login.live.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Opcijsko&lt;/strong&gt; si lahko tudi namestite:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Azure naročnina (v kolikor je nimate, jo boste dobili in aktivirali na sami delavnici)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Delavnica bo potekala v okolju C#, kdor pa želi, pa lahko razvija bota tudi v platformi node.JS. V tem primeru vas naprošamo,
+da is ogledate in namestite zahteve na tem spletnem naslovu &lt;a href=&#34;https://blogs.msdn.microsoft.com/sarahsays/2016/06/01/microsoft-bot-framework-part-1/&#34;&gt;https://blogs.msdn.microsoft.com/sarahsays/2016/06/01/microsoft-bot-framework-part-1/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-kako-narediti-pametnega-bota-tickets-27930842903&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1104484686286771&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Azure IoT v praksi</title>
+      <link>https://garaza.io/event/20160920-MS-azure-iot-v-praksi/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160920-MS-azure-iot-v-praksi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-15:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;
+
+&lt;p&gt;Želite spoznati, kaj je buzz word &lt;em&gt;&amp;ldquo;internet of things&amp;rdquo;&lt;/em&gt;? Kako ga Microsoft vidi in kaj vam je kot
+razvijalcem na voljo? Se želite poigrati s storitvami Microsoft Azure in napravo Raspberry PI?
+Želite videti v realnem času in spremljati spremembe podatkov iz senzorjev ter hkrati razviti rešitev,
+ki odreagira na te podatke? Želite obvestiti uporabnika s potisnimi sporočili, ko je dosežen pogoj?&lt;/p&gt;
+
+&lt;p&gt;Skozi vodeno delavnico bomo spoznavali tehnološko podporo konceptu Internet of Things z uporabo tehnologij
+na platformi Microsoft Azure.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Prenosni računalnik&lt;/strong&gt; z nameščenim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Operacijskim sistemom Windows 10 - &lt;a href=&#34;http://www.windows.com&#34;&gt;http://www.windows.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Studio 2015 Community ali več (Professional, Ultimate) - &lt;a href=&#34;http://www.visualstudio.com&#34;&gt;http://www.visualstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkID=708576&#34;&gt;Windows IoT Core dashboard&lt;/a&gt; in &lt;a href=&#34;https://developer.microsoft.com/en-us/windows/iot/Downloads.htm&#34;&gt;Windows 10 IOT core
+za Raspberry PI 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Odjemalec Git - &lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;https://git-scm.com/downloads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Connected Service for IoT Hub - &lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/e254a3a5-d72e-488e-9bd3-8fee8e0cd1d6&#34;&gt;https://visualstudiogallery.msdn.microsoft.com/e254a3a5-d72e-488e-9bd3-8fee8e0cd1d6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Azure SDK za razvojno okolje Microsoft Visual Studio 2015 - &lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkId=617168&#34;&gt;http://go.microsoft.com/fwlink/?LinkId=617168&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Opcijsko si lahko tudi namestite:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Primere uporabe za &lt;a href=&#34;https://github.com/Microsoft/Windows-universal-samples&#34;&gt;Windows 10&lt;/a&gt;,
+&lt;a href=&#34;https://www.hackster.io/stepanb/fez-hat-windows-10-iot-core-and-azure-iot-hub-1172b5&#34;&gt;Fezhat&lt;/a&gt; ter
+&lt;a href=&#34;https://github.com/ms-iot/samples&#34;&gt;Windows IoT Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/55b357e1-a533-43ad-82a5-a88ac4b01dec&#34;&gt;Windows 10 IoT core project templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/5741a548-5179-4a77-ad96-fca71535774d&#34;&gt;Browser Sync&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;V kolikor boste delali na Linux sistemu, sporočite vnaprej (askdxslovenia@microsoft.com), da vam podamo
+ločena navodila. Poudarek predavanj je na tehnološki podpori konceptu IoT, ne pa na raznovrstnih napravah
+ter raznolikosti senzorjev. Na vajah bomo uporabljali Raspberry PI 2 vključno z
+&lt;a href=&#34;https://www.ghielectronics.com/catalog/product/500&#34;&gt;FezHat shield-om&lt;/a&gt; za
+pridobivanje podatkov iz senzorjev, gumbov ter raznolikih akcij.&lt;/p&gt;
+
+&lt;p&gt;Delali bomo sledeče &lt;a href=&#34;http://aka.ms/iot-ctd-field-labs&#34;&gt;vaje&lt;/a&gt;, opremo (razen računalnika) prinesemo mi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-azure-iot-v-praksi-tickets-27599858921&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1091654567569783&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Kako razviti spletno aplikacijo za 10, 1000 ali pa 10.000.000 uporabnikov? (Microsoft)</title>
+      <link>https://garaza.io/event/20160706-MS-skalabilnost-spletnih-aplikacij-azure/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160706-MS-skalabilnost-spletnih-aplikacij-azure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;
+
+&lt;p&gt;Pri gradnji aplikacij se osredotočamo na funkcionalnosti, hiter, učinkovit razvoj in čim hitrejšo prilaganje
+uporabniku. Ko uporaba aplikacije raste, se s tem povečajo tudi potrebe po kapacitetah, ki jim moramo na
+najhitrejši možni način ugoditi, sicer lahko to za nas predstavlja nedelovanje aplikacije in poslovno izgubo.
+Uporabniki so vedno bolj zahtevni in pri raznolikem naboru rešitev na spletu moramo biti zaradi konkurence
+prilagodljivi marsikateri situaciji.&lt;/p&gt;
+
+&lt;p&gt;Na praktični &amp;ldquo;hands on&amp;rdquo; delavnici si bomo pogledali, kako lahko izkoriščamo oblačno platformo, ko število uporabnikov hitro narašča
+z nekaj 10, 100, 1000 na 1.000.000 ali več ter ob tem poskrbimo za delovanje na
+najenostavnejši možni način, brez popravka izvorne kode, ki jo shranjujemo v  sistemu za upravljanje z
+različicami (git, mercurial, TFS, …). Poudarek je na aplikaciji in njenih funkcionalnostih, ne pa železju,
+na katerem aplikacija teče.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/&#34;&gt;Microsoft Visual Studio 2015&lt;/a&gt; (min. Community edition)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/downloads/&#34;&gt;Prenos SDK za Azure za .NET&lt;/a&gt; (glede na verzijo programske
+opreme) - &lt;a href=&#34;https://go.microsoft.com/fwlink/?linkid=518003&amp;amp;clcid=0x409&#34;&gt;prenos za Visual Studio 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Naloge s primeri so na voljo &lt;a href=&#34;https://github.com/Azure-Readiness/DevCamp&#34;&gt;tukaj&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/photos/a.141471039254812.30327.103673816367868/1036971866371387/?type=3&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

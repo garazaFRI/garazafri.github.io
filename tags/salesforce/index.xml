@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salesforce on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/salesforce/index.xml</link>
+    <description>Recent content in Salesforce on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/salesforce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
+      <link>https://garaza.io/event/20200226-agilcon-LWC/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20200226-agilcon-LWC/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Matic Repše in Jan Terzer (Agilcon)&lt;/p&gt;
+
+&lt;p&gt;Razvoj frontend-a brez dodatnih JS frameworkov kot so Angular, React, Vue,&amp;hellip;? Ja, z Web components je tudi to mogoče. Spletni razvoj se je dramatično spremenil v zadnjih letih. Danes bolj kot kadarkoli prej, želimo pri razvoju “frontend” aplikacij komponente uporabiti na večih koncih. Kako lahko to naredimo?&lt;/p&gt;
+
+&lt;p&gt;Salesforce je kot vodilni na področju SaaS aplikacij vgradil standard &lt;a href=&#34;https://www.webcomponents.org/introduction&#34;&gt;Web Components&lt;/a&gt; v jedro svoje frontend platforme in predstavil t.i. LWC (Lightning Web Components). Na delavnici se bomo seznanili kaj so Web Components ter kako jih je Salesforce uporabil na svoji enterprise platformi. Za Salesforce je to prelomna tehnologija, kajti pridobljeno znanje na tem področju ni omejeno samo na Salesforce ampak prenosljivo tudi drugam, kjer se uporablja standard Web Components.&lt;/p&gt;
+
+&lt;p&gt;Večino časa delavnice bomo posvetili preizkušanju konceptov in razvoju modulov z Web Components v Salesforce razvojnem okolju. Za delujočo končno rešitev se bomo spogledali še s Salesforcem podatkovnim modelom in zalednim programskim jezikom APEX.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; (Lightning) Web components, SOQL, programski jezik APEX, Lightning Platform&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (JS, HTML)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Visual Studio Code (&lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;https://code.visualstudio.com/download&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;Trailhead račun&lt;/a&gt; na: &lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;https://trailhead.salesforce.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uvod v Web Components&lt;/li&gt;
+&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
+&lt;li&gt;Lightning Web Components (kako začeti)&lt;/li&gt;
+&lt;li&gt;Delni podatkovni model&lt;/li&gt;
+&lt;li&gt;Povezava razvitih komponent s podatki iz Salesforce platforme (uporaba APEX programskega jezika)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lightning-web-components-izdelava-javascript-komponent-za-ponovno-uporabo-tickets-92479826651&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
+      <link>https://garaza.io/event/20190313-agilcon-chatko/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;
+
+&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;
+
+&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;
+&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
+&lt;li&gt;LiveAgent in Chatbot&lt;/li&gt;
+&lt;li&gt;Razvoj (data model, APEX, chatbot decision tree) - prepoznavanje besedila&lt;/li&gt;
+&lt;li&gt;Povezovanje s third-party sistemi po prepoznavi besedilaa&lt;/li&gt;
+&lt;li&gt;Dodatno: povezava na druge AI platforme (IBM Watson, Google Cloud Cloud Natural Language)&lt;/li&gt;
+&lt;li&gt;Dodatno: chatko v mobilni aplikaciji&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/chatko-optimizacija-kontakt-centra-s-pomocjo-naprednega-ai-klepetalnika-tickets-58161621977&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+      <link>https://garaza.io/event/20181017-agilcon-iot-2/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181017-agilcon-iot-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-50774823865&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+      <link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+      <link>https://garaza.io/event/20180628-agilcon-iot-2/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180628-agilcon-iot-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-47016203731&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+      <link>https://garaza.io/event/20180621-agilcon-iot-1/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180621-agilcon-iot-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-47014233839&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 2.del</title>
+      <link>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;
+
+&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;
+
+&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsak problem lahko rešimo na veliko različnih načinov, pravo vprašanje pa je kateri način je za določen problem pravi. To je vse prej kot lahka odločitev. Vedno pa je na koncu pomembna dodana vrednost, ki ga ima naš trud za ljudi, ki bodo naš produkt uporabljali.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo seznanili z ekosistemom Salesforce in z njim povezana orodja. Poizkusili bomo izvedeti za katere probleme je to optimalna platforma in na kakšen način jo lahko uporabimo pri razvoju naše ideje za razvoj aplikacije (mobilne ali web). Predstavljeno bomo moderno javascript frontend ogrodje Lightning Component, ki ga Salesforce danes uporablja pri razvoju lastnih web in mobilnih aplikacij kot tudi ogrodje, ki ga lahko uporabimo razvijalci za realizacijo naše ideje. Pri tem bomo spoznali tudi tehnologije, ki so širše uporabljene v industriji (javascript, spletni servisi, geolocation API, CSS).
+Delavnica bo potekala v dveh delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in frameworkom Lightning Component in začeli s praktično delavnico, na drugem delu pa bomo dokončali aplikacijo do te mere, da bomo z aplikacijo lahko iskali restavracije v naši bližini.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice, v kolikor se nameravate udeležiti 2. dela, ni pa to pogoj.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Javascript, Lightning Component Framework, Platforma Force.com (APEX), Webservices (REST), Geolocation API, CSS, Salesforce1 mobilna aplikacija&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;Sublime Text ali Atom ali VSC in nameščen dodatek Mavensmate (&lt;a href=&#34;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&#34;&gt;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove Salesforce platforme (podatkovna baza, backend, frontend)&lt;/li&gt;
+&lt;li&gt;Lightning Component framework&lt;/li&gt;
+&lt;li&gt;APEX z REST API&lt;/li&gt;
+&lt;li&gt;Priprava okolja za razvoj&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija geolokacijske komponente&lt;/li&gt;
+&lt;li&gt;Uporaba Lightning Component Framework&lt;/li&gt;
+&lt;li&gt;Dokončanje aplikacije za iskanje restavracij v naši bližini&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-spoznavanje-salesforce-mobilnega-sveta-s-pomocjo-lightning-component-frameworka-tickets-42212127610&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 1.del</title>
+      <link>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;
+
+&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;
+
+&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsak problem lahko rešimo na veliko različnih načinov, pravo vprašanje pa je kateri način je za določen problem pravi. To je vse prej kot lahka odločitev. Vedno pa je na koncu pomembna dodana vrednost, ki ga ima naš trud za ljudi, ki bodo naš produkt uporabljali.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo seznanili z ekosistemom Salesforce in z njim povezana orodja. Poizkusili bomo izvedeti za katere probleme je to optimalna platforma in na kakšen način jo lahko uporabimo pri razvoju naše ideje za razvoj aplikacije (mobilne ali web). Predstavljeno bomo moderno javascript frontend ogrodje Lightning Component, ki ga Salesforce danes uporablja pri razvoju lastnih web in mobilnih aplikacij kot tudi ogrodje, ki ga lahko uporabimo razvijalci za realizacijo naše ideje. Pri tem bomo spoznali tudi tehnologije, ki so širše uporabljene v industriji (javascript, spletni servisi, geolocation API, CSS).
+Delavnica bo potekala v dveh delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in frameworkom Lightning Component in začeli s praktično delavnico, na drugem delu pa bomo dokončali aplikacijo do te mere, da bomo z aplikacijo lahko iskali restavracije v naši bližini.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice, v kolikor se nameravate udeležiti 2. dela, ni pa to pogoj.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Javascript, Lightning Component Framework, Platforma Force.com (APEX), Webservices (REST), Geolocation API, CSS, Salesforce1 mobilna aplikacija&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;Sublime Text ali Atom ali VSC in nameščen dodatek Mavensmate (&lt;a href=&#34;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&#34;&gt;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove Salesforce platforme (podatkovna baza, backend, frontend)&lt;/li&gt;
+&lt;li&gt;Lightning Component framework&lt;/li&gt;
+&lt;li&gt;APEX z REST API&lt;/li&gt;
+&lt;li&gt;Priprava okolja za razvoj&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija geolokacijske komponente&lt;/li&gt;
+&lt;li&gt;Uporaba Lightning Component Framework&lt;/li&gt;
+&lt;li&gt;Dokončanje aplikacije za iskanje restavracij v naši bližini&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-spoznavanje-salesforce-mobilnega-sveta-s-pomocjo-lightning-component-frameworka-tickets-42211887893&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce</title>
+      <link>https://garaza.io/event/20170629-agilcon-react-native/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170629-agilcon-react-native/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-18:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente&lt;/li&gt;
+&lt;li&gt;Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.&lt;/li&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-tickets-35560562600&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce - 2.del</title>
+      <link>https://garaza.io/event/20170524-agilcon-react-native-2/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170524-agilcon-react-native-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v dveh delih. Na prvi se bomo spoznali z React Native in Salesforce Mobile SDK, na drugem delu pa bomo dokončali aplikacijo do te mere, da bo možno izvesti elektronski podpis.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice v kolikor se nameravate udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente
+-Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-2del-tickets-34313188671&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce - 1.del</title>
+      <link>https://garaza.io/event/20170517-agilcon-react-native-1/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170517-agilcon-react-native-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v dveh delih. Na prvi se bomo spoznali z React Native in Salesforce Mobile SDK, na drugem delu pa bomo dokončali aplikacijo do te mere, da bo možno izvesti elektronski podpis.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice v kolikor se nameravate udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente
+-Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-1del-tickets-34313096395&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 2.del</title>
+      <link>https://garaza.io/event/20170118-salesforce-einstein-2/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170118-salesforce-einstein-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz
+Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še
+preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem
+prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir
+energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre
+in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;
+
+&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni
+inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z
+vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven
+način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne
+inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano
+globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne
+objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Nedavni izid produkta Salesforce Einstein omogoča uporabo umetne inteligence v
+praktičnem smislu. Pri razvoju bomo spoznali tudi Salesforce kot platformo za
+razvoj spletnih ter mobilnih aplikacij v oblaku.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnic v kolikor se nameravate
+udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Platforma force.com (APEX, VisualForce), Webservices (REST),
+razvoj HTML5 mobilne aplikacije&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja.&lt;/li&gt;
+&lt;li&gt;prenosni računalnik (ni potrebno imeti nameščenih posebnih aplikacij)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teoretični uvod v platformo Salesforce (1. del)&lt;/li&gt;
+&lt;li&gt;CRM + AI (1.del)&lt;/li&gt;
+&lt;li&gt;Bolj podrobna predstavitev koncepta “Deep learning” kot veje strojnega učenja (1. del)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Razvoj HTML5 mobilne aplikacije in učenje aplikacije za prepoznavanje
+objektov v Ljubljani oz. na poljubnem kraju (1. in 2. del):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Priprava okolja&lt;/li&gt;
+&lt;li&gt;Izdelava komponente za fotografiranje&lt;/li&gt;
+&lt;li&gt;Uporaba AI (spletni servis)&lt;/li&gt;
+&lt;li&gt;Učenje AI z uporabo datasetov&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-uporaba-salesforce-einstein-a-v-mobilni-aplikaciji-2del-tickets-30839920031&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 1.del</title>
+      <link>https://garaza.io/event/20170111-salesforce-einstein-1/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170111-salesforce-einstein-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz
+Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še
+preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem
+prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir
+energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre
+in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;
+
+&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni
+inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z
+vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven
+način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne
+inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano
+globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne
+objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Nedavni izid produkta Salesforce Einstein omogoča uporabo umetne inteligence v
+praktičnem smislu. Pri razvoju bomo spoznali tudi Salesforce kot platformo za
+razvoj spletnih ter mobilnih aplikacij v oblaku.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnic v kolikor se nameravate
+udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Platforma force.com (APEX, VisualForce), Webservices (REST),
+razvoj HTML5 mobilne aplikacije&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja.&lt;/li&gt;
+&lt;li&gt;prenosni računalnik (ni potrebno imeti nameščenih posebnih aplikacij)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teoretični uvod v platformo Salesforce (1. del)&lt;/li&gt;
+&lt;li&gt;CRM + AI (1.del)&lt;/li&gt;
+&lt;li&gt;Bolj podrobna predstavitev koncepta “Deep learning” kot veje strojnega učenja (1. del)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Razvoj HTML5 mobilne aplikacije in učenje aplikacije za prepoznavanje
+objektov v Ljubljani oz. na poljubnem kraju (1. in 2. del):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Priprava okolja&lt;/li&gt;
+&lt;li&gt;Izdelava komponente za fotografiranje&lt;/li&gt;
+&lt;li&gt;Uporaba AI (spletni servis)&lt;/li&gt;
+&lt;li&gt;Učenje AI z uporabo datasetov&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-uporaba-salesforce-einstein-a-v-mobilni-aplikaciji-1del-tickets-30839855839&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

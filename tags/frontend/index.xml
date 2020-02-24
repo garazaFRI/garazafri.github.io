@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/frontend/index.xml</link>
+    <description>Recent content in Frontend on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Vue.js v praksi</title>
+      <link>https://garaza.io/event/20190416-celtra-vuejs/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20190416-celtra-vuejs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;
+
+&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potrebno JavaScript predznanje&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;objekti&lt;/li&gt;
+&lt;li&gt;array funkcije: map, filter, includes&lt;/li&gt;
+&lt;li&gt;kontekst (this)&lt;/li&gt;
+&lt;li&gt;osnovna ES6 sintaksa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;zadnja verzija node&lt;/li&gt;
+&lt;li&gt;VSCode z Vetur razširitvijo&lt;/li&gt;
+&lt;li&gt;Chrome z Vue Dev Tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Vue.js v praksi</title>
+      <link>https://garaza.io/event/20181211-celtra-vuejs/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181211-celtra-vuejs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;
+
+&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potrebno JavaScript predznanje&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;objekti&lt;/li&gt;
+&lt;li&gt;array funkcije: map, filter, includes&lt;/li&gt;
+&lt;li&gt;kontekst (this)&lt;/li&gt;
+&lt;li&gt;osnovna ES6 sintaksa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;zadnja verzija node&lt;/li&gt;
+&lt;li&gt;VSCode z Vetur razširitvijo&lt;/li&gt;
+&lt;li&gt;Chrome z Vue Dev Tools&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-53050744204&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React Native on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/react-native/index.xml</link>
+    <description>Recent content in React Native on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce</title>
+      <link>https://garaza.io/event/20170629-agilcon-react-native/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170629-agilcon-react-native/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-18:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente&lt;/li&gt;
+&lt;li&gt;Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.&lt;/li&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-tickets-35560562600&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce - 2.del</title>
+      <link>https://garaza.io/event/20170524-agilcon-react-native-2/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170524-agilcon-react-native-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v dveh delih. Na prvi se bomo spoznali z React Native in Salesforce Mobile SDK, na drugem delu pa bomo dokončali aplikacijo do te mere, da bo možno izvesti elektronski podpis.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice v kolikor se nameravate udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente
+-Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-2del-tickets-34313188671&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: React Native in Salesforce - 1.del</title>
+      <link>https://garaza.io/event/20170517-agilcon-react-native-1/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170517-agilcon-react-native-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;
+
+&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.
+V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.
+Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.
+Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v dveh delih. Na prvi se bomo spoznali z React Native in Salesforce Mobile SDK, na drugem delu pa bomo dokončali aplikacijo do te mere, da bo možno izvesti elektronski podpis.&lt;/p&gt;
+
+&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice v kolikor se nameravate udeležiti 2. dela, ni pa pogoj.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Osnove React Native, Javascript, Platforma force.com (APEX), Webservices (REST), Salesforce Mobile SDK&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (javascript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;prednameščen Node, Android Studio ali Xcode (&lt;a href=&#34;https://facebook.github.io/react-native/docs/getting-started.html&#34;&gt;https://facebook.github.io/react-native/docs/getting-started.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Osnove React Native (razlike med klasičnim React za razvoj web aplikacij)&lt;/li&gt;
+&lt;li&gt;React Native komponente
+-Salesforce Mobile SDK&lt;/li&gt;
+&lt;li&gt;Priprava okolja in hello world app.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;del&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija podpisne komponente in prenos v obliki slike v zaledje&lt;/li&gt;
+&lt;li&gt;REST API&lt;/li&gt;
+&lt;li&gt;Salesforce OAuth2&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-react-native-in-salesforce-1del-tickets-34313096395&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

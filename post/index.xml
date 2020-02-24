@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/post/index.xml</link>
+    <description>Recent content in Post on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 May 2016 17:00:00 +0100</lastBuildDate>
+    <atom:link href="https://garaza.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Garaža odpira svoja vrata</title>
+      <link>https://garaza.io/post/odprtje-garaze/</link>
+      <pubDate>Wed, 25 May 2016 17:00:00 +0100</pubDate>
+      
+      <guid>https://garaza.io/post/odprtje-garaze/</guid>
+      <description>&lt;p&gt;V mesecu maju Garaža FRI odpira svoja vrata vsem nadobudnim študentom, ki jim študij ni dovolj.
+V okviru prvega tehnološkega pospeševalnika na FRI bodo študenti uresničili svoje ideje,
+za katere do sedaj bodisi ni bilo znanja, opreme, prostora za delo ali pa niso poznali
+primerne tehnologije.&lt;/p&gt;
+
+&lt;p&gt;Te zanima kaj Garaža sploh je in kaj se v njej dogaja? Pobrskaj po &lt;a href=&#34;https://garaza.io/ogarazi/&#34;&gt;strani&lt;/a&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

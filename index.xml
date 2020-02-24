@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/index.xml</link>
+    <description>Recent content on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Dec 2016 12:50:21 +0200</lastBuildDate>
+    <atom:link href="https://garaza.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Svarog Games</title>
+      <link>https://garaza.io/ekipe/svarog-games/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/svarog-games/</guid>
+      <description>&lt;p&gt;Video igre za pametne televizije in Chromecast.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jure Demšar&lt;/li&gt;
+&lt;li&gt;Miha Goršin&lt;/li&gt;
+&lt;li&gt;Jure Kolenko&lt;/li&gt;
+&lt;li&gt;Luka Ločniškar&lt;/li&gt;
+&lt;li&gt;Juš Lozej&lt;/li&gt;
+&lt;li&gt;Nina Perovič&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipa-svarog.png&#34; alt=&#34;Ekipa Svarog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Smo študentje Fakultete za računalništvo in informatiko, Akademije za likovno umetnost ter Fakultete za družbene vede. Multidisciplinarno ekipo smo ustanovili v želji razvijanja video iger. Trenutno smo osredotočeni na igre za pametne televizije in napravo Chromecast. Trenutno imamo v razvoju tri igre, kot svojo prvo igro nameravamo izdati Six Shooter Showdown.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-facebook fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://www.facebook.com/svaroggames/&#34;&gt;Povezava do Facebook profila&lt;/a&gt;&lt;br /&gt;
+&lt;i class=&#34;fa fa-twitter fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://twitter.com/Svarog_Games&#34;&gt;Povezava do Twitter profila&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kdaj lahko delam v Garaži?</title>
+      <link>https://garaza.io/faq/general/kdaj-lahko-delam/</link>
+      <pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/general/kdaj-lahko-delam/</guid>
+      <description>&lt;p&gt;Ko pridobite svoj ključek za odklepanje prostorov, lahko v Garaži delate kadarkoli želite - 24/7/365.
+Ključek za dostop vam odpira samo prostore Garaže, ne pa tudi kakšnih drugih prostorov.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tehnološki pospeševalnik</title>
+      <link>https://garaza.io/programi/pospesevalnik/</link>
+      <pubDate>Sun, 01 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programi/pospesevalnik/</guid>
+      <description>&lt;p&gt;Najpomembnejša dejavnost Garaže. Izbrane študentske ekipe v programu Pospeševalnika gradijo svoje ideje.
+&lt;/p&gt;
+
+&lt;p&gt;Imate dobro idejo za projekt? V Garaži vam bomo pomagali, da ga uresničite!&lt;/p&gt;
+
+&lt;p&gt;Kaj vam ponujemo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;prostore za delo&lt;/li&gt;
+&lt;li&gt;mentoriranje pri projektu (mentorji iz FRI in industrije)&lt;/li&gt;
+&lt;li&gt;infrastrukturo&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://garaza.io/faq/accelerator/microgrants&#34;&gt;mikrodotacije&lt;/a&gt; (beri: sredstva za nakup potrebne opreme/storitev/programja, ki ga potrebujete za projekt)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kako poteka prijava projekta:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;idejo za projekt skupaj z opisom, časovnimi okviri in ekipo pošlješ na
+&lt;a href=&#34;mailto:garaza@fri.uni-lj.si&#34;&gt;naš email&lt;/a&gt; ali nas osebno poiščeš v Garaži ali na FRI&lt;/li&gt;
+&lt;li&gt;če ste sprejeti v Garažo, skupaj dorečemo podrobnosti (določitev mentorja,
+časovni okviri končanja projekta, potrebni viri, mejniki, itd.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kaj od vas pričakujemo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;da redno delate na projektu (vaša skupina se dobi vsaj enkrat tedensko)&lt;/li&gt;
+&lt;li&gt;da je viden napredek v npr. repozitoriju vašega projekta v git-u&lt;/li&gt;
+&lt;li&gt;da zaradi projekta &lt;strong&gt;ne zanemarite vaših študijskih obveznosti&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mejnike boste torej lahko že od vsega začetka prilagodili pričakovanim študijskim obveznostim (npr. v tednih,
+ko so običajno kolokviji/izpiti, planirate manj aktivnosti na projektu).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fundtickr</title>
+      <link>https://garaza.io/ekipe/fundhub/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/fundhub/</guid>
+      <description>&lt;p&gt;Želimo digitalizirati dolgoročno investiranje.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Klemen Kozjek&lt;/li&gt;
+&lt;li&gt;Kristjan Sešek&lt;/li&gt;
+&lt;li&gt;Peter Gabrovšek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fundtickr je sestavljen iz pogovornega asistenta in seznama skladov iz celega sveta, ki jih lahko filtriramo in sortiramo glede na naše želje.
+Pogovorni asistent uporabnika uči osnov dolgoročnega varčevanja oz. investiranja. Fundtickr se osredotoča predvsem na izobrazbo za dolgoročno varčevanje z čim manj tveganja, čim manj stroški in čim več prihranjenega uporabnikovega časa.&lt;/p&gt;
+
+&lt;p&gt;Boljša izobrazba o osebnih financah neposredno vpliva na odmik od potrošniške družbe h bolj kakovostnemu življnenju posameznika in družbe kot celote.&lt;/p&gt;
+
+&lt;p&gt;Ideja izhaja iz osebne želje po dolgoročnem investiranju. Spoznali smo, da je investicija v samostojna podjetja zelo tvegana, saj je praktično nemogoče vedeti, kaj se bo s tem podjetjem zgodilo čez 15 ali 20 let. Odločili smo se za investiranje v sklade in raziskali kakšni skladi so na voljo. Sklad razprši tveganje in naenkrat investira v ogromno podjetij. Spoznali smo aktivne in pasivne sklade in po veliko prebranih akademskih člankih ugotovili, da so v povprečju pasivni indeksni skladi boljši, ker imajo veliko manjše stroške, ki jih aktivni skladi težko nadoknadijo z boljšo rastjo.
+Želeli smo investirati v pasivni indeksni sklad, a nismo vedeli v katerega. Pasivnih indeksnih skladov je več tisoč in nikjer jih ni možno sortirati in filtrirati po dolgoročnih atributih (stroški, dolgoročna rast, starost, velikost). Aplikacija Fundtickr to omogoča. Uporabnik lahko torej sam najde sklad z čim manjšimi stroški, dobro dolgoročno rastjo in določeno stabilnostjo in vanj investira.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://fundtickr.com&#34;&gt;Fundtickr.com&lt;/a&gt;&lt;br /&gt;
+&lt;i class=&#34;fa fa-facebook fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://www.facebook.com/fundtickr&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kako dobim ključek za odklepanje in kako je urejen dostop do prostorov Garaže?</title>
+      <link>https://garaza.io/faq/general/dostop-do-garaze/</link>
+      <pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/general/dostop-do-garaze/</guid>
+      <description>&lt;p&gt;Do ključka za odklepanje so upravičeni vsi študentje, ki sodelujejo v enem izmed &lt;a href=&#34;https://garaza.io/program/&#34;&gt;programov&lt;/a&gt;
+Garaže. Ker je v prostorih Garaže že sedaj kar nekaj opreme, tekom delovanja pa je bo na voljo še veliko več,
+prostori ne morejo biti nezaklenjeni v času, ko v njej ni nikogar.&lt;/p&gt;
+
+&lt;p&gt;Protokol za pridobitev ključka:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;priključi se enemu izmed programov Garaže&lt;/li&gt;
+&lt;li&gt;tvoje ime posredujemo v FRIjevo Kadrovsko službo (dekanat FRI v tretjem nadstropju)&lt;/li&gt;
+&lt;li&gt;svoj novi ključek za Garažo tam tudi prevzameš&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ko imate svoj ključek, lahko delate v Garaži poljubno dolgo, razen v primeru, ko je prostor rezerviran
+za eno izmed aktivnosti, recimo delavnico. V tem primeru lahko delate v manjši sobi, da ne motite delavnice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delavnice &#34;Pod havbo&#34;</title>
+      <link>https://garaza.io/programi/delavnice/</link>
+      <pubDate>Mon, 02 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programi/delavnice/</guid>
+      <description>&lt;p&gt;Praktične (&amp;rdquo;&lt;em&gt;hands-on&lt;/em&gt;&amp;rdquo;) delavnice o aktualnih strokovnih temah.
+&lt;/p&gt;
+
+&lt;p&gt;V delavnicah &amp;ldquo;&lt;em&gt;Pod havbo&lt;/em&gt;&amp;rdquo; bomo skupaj dvignili pokrov motorja in se spustili v drobovje
+najnovejših IT tehologij.&lt;/p&gt;
+
+&lt;p&gt;Predavatelji bodo izkušeni strokovnjaki iz industrije, FRIjevci in seveda tudi izkušeni
+študenti.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;do 15 sodelujočih&lt;/li&gt;
+&lt;li&gt;vnaprej objavljena:
+
+&lt;ul&gt;
+&lt;li&gt;agenda&lt;/li&gt;
+&lt;li&gt;trajanje&lt;/li&gt;
+&lt;li&gt;predvidena težavnostna stopnja&lt;/li&gt;
+&lt;li&gt;potrebna predznanja&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;udeleženci večinoma najraje delajo kar na svojih računalnikih, seveda pa bodo tudi v
+Garaži na voljo računalniki.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shopster, Indoor Solutions</title>
+      <link>https://garaza.io/ekipe/shopster/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/shopster/</guid>
+      <description>&lt;p&gt;Re-definiramo proces nakupovanja v trgovinah in trgovskih centrih.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Urban Cvek&lt;/li&gt;
+&lt;li&gt;Stanko Devič&lt;/li&gt;
+&lt;li&gt;Miha Škrokov&lt;/li&gt;
+&lt;li&gt;Nejc Smolej&lt;/li&gt;
+&lt;li&gt;Sebastjan Novinšek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipa-shopster.jpg&#34; alt=&#34;Ekipa Shopster&#34; style=&#34;width: 200px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;S pomočjo magnetnega polja kupcem omogočamo vodeno, personalizirano in nepozabno uporabniško izkušnjo. Že pri naslednjem nakupu boste s pomočjo Shopster platforme poiskali vse tiste izdelke, ki jih v trgovini ne najdete.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://shopster.io&#34;&gt;shopster.io&lt;/a&gt;
+&lt;i class=&#34;fa fa-facebook fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://www.facebook.com/shopsterdotio&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Za kakšne namene lahko uporabljamo prostore?</title>
+      <link>https://garaza.io/faq/general/uporaba-prostorov/</link>
+      <pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/general/uporaba-prostorov/</guid>
+      <description>&lt;p&gt;Garaža je sestavljena iz dveh delov:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;večji osrednji &amp;ldquo;&lt;em&gt;coworking&lt;/em&gt; prostor (za cca do 15 ljudi)
+
+&lt;ul&gt;
+&lt;li&gt;tu se bodo izvajale delavnice, viharjenja, BoF sestanki, itd.&lt;/li&gt;
+&lt;li&gt;del prostora je tudi kotiček s kavčem in čajno kuhinjo&lt;/li&gt;
+&lt;li&gt;tri mize so električno dvižne, možno je delo stoje ali sede&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ločena manjša soba (za cca. 5 ljudi)
+
+&lt;ul&gt;
+&lt;li&gt;idealen za sestanke/videokonference, kjer potrebujete malo več miru
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Oba prostora je možno &lt;strong&gt;rezervirati&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programerski izzivi in druga tekmovanja</title>
+      <link>https://garaza.io/programi/programerski-izzivi/</link>
+      <pubDate>Tue, 10 May 2016 14:53:00 +0200</pubDate>
+      
+      <guid>https://garaza.io/programi/programerski-izzivi/</guid>
+      <description>&lt;p&gt;FRI sodeluje z različnimi podjetji in v sodelovanju z njimi pripravlja za svoje študente več različnih izzivov.
+Vsi študenti, ki sodelujejo v enem od izzivov, lahko v času trajanja izziva uporabljajo prostore Garaže za
+delo.
+&lt;/p&gt;
+
+&lt;p&gt;V Garaži bomo tudi izvedli več tehničnih &lt;a href=&#34;https://garaza.io/program/delavnice/&#34;&gt;delavnic&lt;/a&gt;, ki jih bodo vodili strokovnjaki iz podjetij,
+ki so izzive razpisala. Namenjene bodo tako tistim, ki sodelujejo na izzivu kot tudi drugim, ki jih samo zanima
+tematika.&lt;/p&gt;
+
+&lt;p&gt;Programerski izzivi so objavljeni na &lt;a href=&#34;http://www.fri.uni-lj.si/si/raziskave/studentski_izzivi/&#34;&gt;ločeni strani&lt;/a&gt;,
+kjer dobite tudi več informacij o samem izzivu. Večina Programerskih izzivov tudi objavlja vse materiale
+v &lt;a href=&#34;https://ucilnica.fri.uni-lj.si/course/index.php?categoryid=24&#34;&gt;FRIjevi učilnici&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kako je z lastništvom kode/projekta/izdelka, narejenega v Garaži?</title>
+      <link>https://garaza.io/faq/accelerator/lastnistvo/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/accelerator/lastnistvo/</guid>
+      <description>&lt;p&gt;Študentska ekipa zadrži &lt;strong&gt;vse&lt;/strong&gt; avtorske pravice.&lt;/p&gt;
+
+&lt;p&gt;Prav tako vam &lt;strong&gt;ne&lt;/strong&gt; bo potrebno po FRIju poimenovati svojih prvorojencev.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kdo lahko dela v Garaži?</title>
+      <link>https://garaza.io/faq/general/kdo-lahko-dela/</link>
+      <pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/general/kdo-lahko-dela/</guid>
+      <description>&lt;p&gt;Garaža je primarno namenjena:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;vsem študentom UL&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;dodipomskim&lt;/li&gt;
+&lt;li&gt;podiplomskim&lt;/li&gt;
+&lt;li&gt;doktorskim študentom&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;zaposlenim na UL&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Poleg teh v njej sodelujejo kot mentorji in predavatelji tudi eksperti iz industrije.&lt;/p&gt;
+
+&lt;p&gt;Ni pa Garaža kar &amp;ldquo;podaljšek&amp;rdquo; avle, v njej lahko delate, če se priključite enemu izmed
+&lt;a href=&#34;https://garaza.io/program/&#34;&gt;programov&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Včasih ne potrebujete ključka za odklep. Na primer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sodelujete na eni izmed brezplačnih &lt;a href=&#34;https://garaza.io/program/delavnice&#34;&gt;delavnic&lt;/a&gt; (na delavnice se morate prej prijaviti)&lt;/li&gt;
+&lt;li&gt;pridete na debato v okviru &lt;a href=&#34;https://garaza.io/program/BoF-sestanki&#34;&gt;BoF sestanka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;kakšna druga organizirana dejavnost, kjer vam prostor odklene organizator dogodka&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Za popolnoma samostojno delo pa &lt;a href=&#34;https://garaza.io/faq/general/dostop-do-garaze/&#34;&gt;potrebujete ključek&lt;/a&gt;, s katerim
+si lahko sami odklenete in zaklenete Garažo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skupinsko viharjenje in BoF sestanki</title>
+      <link>https://garaza.io/programi/BoF-sestanki/</link>
+      <pubDate>Wed, 04 May 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/programi/BoF-sestanki/</guid>
+      <description>&lt;p&gt;Skupinsko viharjenje (&amp;rdquo;&lt;em&gt;brainstorming&lt;/em&gt;&amp;rdquo;) in BoF sestanki sta mreženje s ciljem identificirati
+ideje, ki se bodo potem uporabile v Garaži ali se v skupini zainteresiranih skupaj naučiti
+kakšne nove tehnologije.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)&#34;&gt;BoF sestanki&lt;/a&gt;
+in viharjenje sta v primerjavi z delavnicami &lt;a href=&#34;https://garaza.io/program/delavnice/&#34;&gt;&amp;ldquo;&lt;em&gt;Pod havbo&lt;/em&gt;&amp;ldquo;&lt;/a&gt;
+bolj neformalni, nesrukturirani dejavnosti in brez vnaprej pripravljene podrobne
+agende.&lt;/p&gt;
+
+&lt;p&gt;Dobre ideje in zanimive probleme, ki še iščejo ekipo, ki bi jih &amp;ldquo;posvojila&amp;rdquo;,
+parkiramo v &lt;em&gt;Parkirišče idej&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planet Lia</title>
+      <link>https://garaza.io/ekipe/planet-lia/</link>
+      <pubDate>Sun, 13 Mar 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/planet-lia/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipe/planet-lia.png&#34; alt=&#34;Ekipa Lia&#34; style=&#34;max-width: 200px&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;padding: 10px;&#34;&gt;
+Platforma za tekmovanja v programiranju botov, s katerimi se programerji drug proti drugemu borijo v igranju video iger.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aljaž Švigelj&lt;/li&gt;
+&lt;li&gt;Gregor Krmelj&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Planet Lia je platforma za tekmovanja v programiranju in umetni inteligenci, kjer tako začetniki kot napredni programerji tekmujejo v programiranju botov v video igrah.
+Njihova naloga je napisati program oz. bota, ki namesto njih igra izbrano video igro in se bori z boti ostalih programerjev.
+Planet Lia ponuja zabaven in interaktiven način vaje programiranja ter hkrati spodbuja druženje in deljenje znanja.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://planetlia.com&#34;&gt;planetlia.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cell Designer</title>
+      <link>https://garaza.io/ekipe/celldesigner/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/celldesigner/</guid>
+      <description>&lt;p&gt;Hitrejše in uporabniku bolj prijazno naročanje genskih konstruktov.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nik Franko&lt;/li&gt;
+&lt;li&gt;Žiga Pušnik&lt;/li&gt;
+&lt;li&gt;Anže Verbič&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Smo študentje Fakultete za računalništvo in informatiko ter Biotehniške
+fakultete. Razvijamo informacijski sistem za lažje in hitrejše naročanje
+genskih konstruktov.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Za uresničitev našega projekta nujno potrebujemo določeno opremo/softver/storitev. Je možno pridobiti sredstva za ta namen?</title>
+      <link>https://garaza.io/faq/accelerator/microgrants/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/faq/accelerator/microgrants/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Da, tudi to je možno!&lt;/strong&gt; Garaža FRI ima na voljo sredstva (&lt;em&gt;hvala sponzorji!&lt;/em&gt;), ki so namenjena &lt;strong&gt;vam in vašim&lt;/strong&gt;
+projektom.&lt;/p&gt;
+
+&lt;p&gt;Ima pa takšno financiranje opreme/programja eno &amp;ldquo;omejitev&amp;rdquo;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;po končanju projekta bo oprema ostala v Garaži, da jo bodo lahko uporabljale še ostale ekipe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To ne velja v primeru, če je vaš projekt ravno izdelava prototipa kakšne naprave, v tem primeru se seveda lahko
+dogovorimo drugače.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

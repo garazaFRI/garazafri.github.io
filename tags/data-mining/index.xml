@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/data-mining/index.xml</link>
+    <description>Recent content in Data Mining on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: White Hat Hacker (NIL)</title>
+      <link>https://garaza.io/event/20160629-NIL-white-hat-hacker/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160629-NIL-white-hat-hacker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;
+
+&lt;p&gt;Podatki o prometu v omrežju pa niso uporabni samo za iskanje vzorcev. Danes večina aplikacij tako
+ali drugače komunicira z oddaljenimi viri po omrežju, zato igra njihova varnost še posebej pomembno
+vlogo. Vedno več podjetij se zato poslužuje neodvisnega testiranja varnosti, s katerim v kodi programov
+odkrivajo luknje ali napake, ki bi jih bilo mogoče zlorabiti. Izvedba takšnih penetracijskih testov je
+zahtevna, saj so testi tipično ročno prilagojeni aplikaciji, ki je predmet testiranja.&lt;/p&gt;
+
+&lt;p&gt;Vendar obstaja tudi druga pot. Če imamo, na primer, dostop do podatkov v omrežju, kot so IP‑paketi,
+lahko podatke prestrežemo in spremenimo. Če te podatke malo »pokvarimo«, lahko opazujemo, kako se aplikacija
+odzove na nepričakovane vhode.
+Hitro se izkaže, da zgolj s spreminjanjem naključnih bitov ne pridemo daleč. Potrebujemo strategijo
+spreminjanja, ki se ne ustavi ob prvem uspehu, temveč izkoristi priložnost, da poskusi vdreti še globlje
+v sistem. Takšnim algoritmom pravimo genetski, saj rešitev gradijo tako, da ohranjajo uspešne lastnosti
+predhodnih generacij.
+&lt;/p&gt;
+
+&lt;p&gt;V drugem NIL-ovem programerskim izzivu se bomo lotili izdelave programa, ki nam bo s pomočjo avtomatizacije
+olajšal iskanje varnostnih lukenj v omrežju.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Delavnico priporočamo še posebej študentom, ki se bodo sodelovali v tem izzivu.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teoretični uvod in primer genetskega algoritma na osnovi iskanja števila&lt;/li&gt;
+&lt;li&gt;Postavitev spletnega strežnika Apache in postavitev spletne strani v PHP&lt;/li&gt;
+&lt;li&gt;Primer enostavnega genetskega &amp;ldquo;fuzzerja&amp;rdquo; za postavljen strežnik&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: AI Inspector (NIL)</title>
+      <link>https://garaza.io/event/20160628-NIL-ai-inspector/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160628-NIL-ai-inspector/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;
+
+&lt;p&gt;Vsaka akcija tako zunanjih kot notranjih uporabnikov v omrežju pusti sledi v obliki prometnih podatkov.
+Te lahko zajamemo in z analiziranjem razberemo stanje IT-infrastrukture oz. omrežja podjetja.&lt;/p&gt;
+
+&lt;p&gt;Dandanes obstaja veliko rešitev, ki zmorejo v realnem času analizirati promet v omrežju.
+Takšne rešitve običajno delujejo po prednastavljenih pravilih, ki v večini primerov dobro zaobjamejo
+posamezne izredne dogodke (npr. vdor v sistem) in znajo nanje ustrezno reagirati. Vendar je glavna težava
+takšnega pristopa ta, da rešitev potrebuje neprestane dopolnitve in popravke pravil, saj se IT-sistem in
+njegova uporaba s časom spreminjata.&lt;/p&gt;
+
+&lt;p&gt;V zadnjem času pa se uveljavlja nov pristop spremljanja prometa omrežja. Ta temelji na metodah umetne
+inteligence, kjer se sistem nadzora z omenjenim izzivom spopada tako, da se uči, kaj je običajni promet
+v omrežju in kdaj gre za izredne dogodke. Tak pristop ima očitno prednost, in to je samoučenje pravil,
+hkrati pa se s časom samodejno prilagaja normalnemu delovanju omrežja.
+&lt;/p&gt;
+
+&lt;p&gt;Prvi NIL-ov programerski izziv bo vzpostavitev takšne umetne inteligence, ki bo iskala anomalije v delovanju
+omrežja na osnovi prometnih podatkov in o tem obvestila operaterja.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Delavnico priporočamo še posebej študentom, ki se bodo sodelovali v tem izzivu.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teoretični uvod in iskanje anomalij na primeru linearne aproksimacije&lt;/li&gt;
+&lt;li&gt;Wireshark, zajem prometa, filtriranje zajetega prometa in izvoz v csv&lt;/li&gt;
+&lt;li&gt;Osnovna analiza prometa s programom Orange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1032226346845939&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

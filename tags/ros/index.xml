@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ros on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/ros/index.xml</link>
+    <description>Recent content in Ros on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workshop: So you want to build robots? (2 Days)</title>
+      <link>https://garaza.io/event/20190219-Ubiquity-Robotics-1/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20190219-Ubiquity-Robotics-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Garaza FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Dr. David Crawley, Ubiquity Robotics&lt;/p&gt;
+
+&lt;p&gt;If you wanted to build a robot, what would you build? Imagine having a robotic platform that has all the basic elements (drive train, motor controllers, software stack) already in place. Imagine not needing to spend time, effort and money getting the basics right, but being able to just sit down and start building your own robot app quickly and easily. In this event you will get to try out the Magni platform, a &lt;a href=&#34;http://www.ros.org/&#34;&gt;ROS&lt;/a&gt;-based ground rover than can carry 100 kg. &lt;a href=&#34;https://ubiquityrobotics.com/&#34;&gt;Ubiquity Robotics&lt;/a&gt;, the makers of &lt;a href=&#34;https://ubiquityrobotics.com/magni.html&#34;&gt;Magni&lt;/a&gt;, challenge you to build something cool using it!&lt;/p&gt;
+
+&lt;p&gt;Suggested ideas are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a cocktail waiter robot,&lt;/li&gt;
+&lt;li&gt;a cookie delivery robot,&lt;/li&gt;
+&lt;li&gt;a dog chasing robot and&lt;/li&gt;
+&lt;li&gt;robot baggage porter.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your own ideas are warmly welcomed. (And yes, it &lt;a href=&#34;https://ubiquityrobotics.com/#applications&#34;&gt;can be done&lt;/a&gt; in 2 days!) &lt;strong&gt;Pizza and silly prizes will be provided.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ubiquity Robotics is a start up that really did come out of a garage in Silicon Valley. There will be time to talk about life and business in Silicon Valley.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;laptop (w/Linux or w/Linux VM on it - you can &lt;a href=&#34;https://downloads.ubiquityrobotics.com/&#34;&gt;download a suitable VM here&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;programming skills&lt;/li&gt;
+&lt;li&gt;no robot/ROS knowledge necessary!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Day 1 (Feb 19)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;17:00 Start - kick off&lt;/li&gt;
+&lt;li&gt;17:05 Introduction to the challenges&lt;/li&gt;
+&lt;li&gt;17:10 Introduction to the robot, ROS and the software coding system&lt;/li&gt;
+&lt;li&gt;17:25 Start Hacking on robots&lt;/li&gt;
+&lt;li&gt;19:00 (Pizza arrives)&lt;/li&gt;
+&lt;li&gt;20:00 Wrap up for Day 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 2 (Feb 21)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;17:00 Continue Hacking&lt;/li&gt;
+&lt;li&gt;18:00 Hacking&lt;/li&gt;
+&lt;li&gt;19:00 Hacking&lt;/li&gt;
+&lt;li&gt;19:30 Demo (Pizza arrives)&lt;/li&gt;
+&lt;li&gt;19:45 Prize awards and wrap up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/workshop-so-you-want-to-build-robots-2-days-tickets-56395768261&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

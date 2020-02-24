@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/security/index.xml</link>
+    <description>Recent content in Security on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Iz teorije v prakso: Napadi na IT-sisteme in obramba pred hekerji v praksi</title>
+      <link>https://garaza.io/event/20200310-NIL-napad-obramba-it/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20200310-NIL-napad-obramba-it/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P20&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Daniel Grah in Jan Češčut, varnostna analitika, NIL d.o.o. (del danske skupine Conscia Holding A/S)&lt;/p&gt;
+
+&lt;p&gt;Kibernetski kriminal je predvsem »velik biznis«, zato so v IT-ju strokovnjaki za kibernetsko obrambo izredno iskani in med najbolje plačanimi. Če te zanima kariera na področju kibernetske varnosti in bi si želel/-a v praksi spoznati napade na IT-okolja (in seveda tudi obrambo), te vabimo na delavnico!&lt;/p&gt;
+
+&lt;p&gt;NIL-ova varnostna analitika Jan Češčut in Danijel Grah bosta demonstrirala nekatere moderne tehnike napadov in kaj se v IT-sistemu začne dogajati, ko napadalci uspešno vdrejo. Pokazala bosta tudi, kako ob takšnih dogodkih reagira obramba: tehnike in ogrodja, s katerimi lahko napadalcem sledimo in preprečimo, da sploh pride do resnejših posledic.
+&lt;/p&gt;
+
+&lt;p&gt;Konkretno boste spoznali napad z usmerjenim ribarjenjem, zlonamerno USB miško, napad s surovo silo na zgoščeno obliko gesla Net-NTLM, napad s posredovanjem NTLM, Kerberoasting in napad Pass-the-Hash. Na koncu bosta Jan in Danijel pojasnila še, kako nam lahko sledi napadalcev pomagajo rekonstruirati potek napada in kaj vse nam to pove o napadalcih.&lt;/p&gt;
+
+&lt;p&gt;Program:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kaj v službi dela strokovnjak/-inja za kibernetsko varnost?&lt;/li&gt;
+&lt;li&gt;Demo: kibernetski napadi in obramba&lt;/li&gt;
+&lt;li&gt;Demo: analiza in rekonstrukcija napadov&lt;/li&gt;
+&lt;li&gt;Vprašanja in diskusija&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;O predavateljih&lt;/p&gt;
+
+&lt;p&gt;Daniel Grah, varnostni analitik, NIL&lt;/p&gt;
+
+&lt;p&gt;Daniel Grah se s kibernetsko varnostjo ukvarja že skoraj deset let. Kariero je začel kot svetovalec, kasneje raziskovalec, danes pa na NIL-u deluje kot varnostni analitik v varnostno operativnem centru (SOC). Ima bogate izkušnje s področij varnostnega preverjanja in pregledov, programiranja, svetovanja, raziskav in razvoja sistemov kibernetske zaščite. Raziskovalna dela je objavljal in predstavljal na različnih mednarodnih konferencah s področja informacijske varnosti.&lt;/p&gt;
+
+&lt;p&gt;Jan Češčut, varnostni analitik, NIL&lt;/p&gt;
+
+&lt;p&gt;Jan je svojo kariero na NIL-u začel še kot študent v podpori uporabnikom NIL-ovega javnega oblaka Flip IT, kasneje pa je iz področja IT-infrastruktur prešel na informacijsko varnost. Danes dela kot varnostni analitik v NIL-ovem varnostno operativnem centru, kjer se osredotoča na zaznavo in preprečevanje napadov na Windows okolja.&lt;/p&gt;
+
+&lt;p&gt;Poleg odličnega poznavanja sistema Windows je Jan tudi strokovnjak za Microsoftove rešitve Active Directory, PowerShell, Exchange, Microsoft System Center ter Office 365, ima pa tudi izkušnje z administracijo Linux sistemov.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-napadi-na-it-sisteme-in-obramba-pred-hekerji-v-praksi-tickets-96520101221&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iz teorije v prakso: Lovljenje hekerjev ali kako postati varnostni analitik</title>
+      <link>https://garaza.io/event/20181212-NIL-soc/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181212-NIL-soc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Vid Tovornik Marolt, Analitik kibernetske varnosti, NIL d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Vas zanima kariera na področju kibernetske varnosti, a ne veste, kje in kako začeti? Katera znanja vam pri tem najbolj koristijo in kje jih pridobite? Bi radi spoznali najboljše slovenske strokovnjake za kibernetsko varnost ter izvedeli iz prve roke, kaj točno delajo in s kakšnimi incidenti se srečujejo? Bi se jim želeli pridružiti?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Če ste na katero od teh vprašanj odgovorili pritrdilno vas vabimo na predavanje &lt;strong&gt;Lovljenje hekerjev v praksi ali kako postati varnostni analitik&lt;/strong&gt;, v katerem vam bo &lt;strong&gt;Vid Tovornik Marolt&lt;/strong&gt; iz prve roke pojasnil, kako narediti prve korake v uspešni karierni na področju kibernetske varnosti.
+V predavanju vam bomo predstavili delo v varnostno operativnem centru (SOC), ki skrbi za zaznavanje in odziv na kibernetske incidente, kaj točno počnejo varnostni analitiki, katera orodja uporabljajo in kakšne so karierne možnosti in priložnosti v NIL-ovem varnostno operativnem centru.&lt;/p&gt;
+
+&lt;p&gt;Svoje izkušnje in znanje s področja informacijske varnosti bo z udeleženci delil tudi &lt;strong&gt;mag. Matevž Mesojednik&lt;/strong&gt;, vodja NIL-ovega SOC-a.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Predstavitev NIL-ovega varnostno operativnega centra ter dela v njem&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DEMO: prikaz etičnega vdora, zaznave in začetka sanacije incidenta&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Diskusija s predavateljema&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-lovljenje-hekerjev-v-praksi-ali-kako-postati-varnostni-analitik-tickets-53093686646&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skalabilnost on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/skalabilnost/index.xml</link>
+    <description>Recent content in Skalabilnost on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/skalabilnost/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Kako razviti spletno aplikacijo za 10, 1000 ali pa 10.000.000 uporabnikov? (Microsoft)</title>
+      <link>https://garaza.io/event/20160706-MS-skalabilnost-spletnih-aplikacij-azure/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160706-MS-skalabilnost-spletnih-aplikacij-azure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;
+
+&lt;p&gt;Pri gradnji aplikacij se osredotočamo na funkcionalnosti, hiter, učinkovit razvoj in čim hitrejšo prilaganje
+uporabniku. Ko uporaba aplikacije raste, se s tem povečajo tudi potrebe po kapacitetah, ki jim moramo na
+najhitrejši možni način ugoditi, sicer lahko to za nas predstavlja nedelovanje aplikacije in poslovno izgubo.
+Uporabniki so vedno bolj zahtevni in pri raznolikem naboru rešitev na spletu moramo biti zaradi konkurence
+prilagodljivi marsikateri situaciji.&lt;/p&gt;
+
+&lt;p&gt;Na praktični &amp;ldquo;hands on&amp;rdquo; delavnici si bomo pogledali, kako lahko izkoriščamo oblačno platformo, ko število uporabnikov hitro narašča
+z nekaj 10, 100, 1000 na 1.000.000 ali več ter ob tem poskrbimo za delovanje na
+najenostavnejši možni način, brez popravka izvorne kode, ki jo shranjujemo v  sistemu za upravljanje z
+različicami (git, mercurial, TFS, …). Poudarek je na aplikaciji in njenih funkcionalnostih, ne pa železju,
+na katerem aplikacija teče.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.visualstudio.com/&#34;&gt;Microsoft Visual Studio 2015&lt;/a&gt; (min. Community edition)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/downloads/&#34;&gt;Prenos SDK za Azure za .NET&lt;/a&gt; (glede na verzijo programske
+opreme) - &lt;a href=&#34;https://go.microsoft.com/fwlink/?linkid=518003&amp;amp;clcid=0x409&#34;&gt;prenos za Visual Studio 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Naloge s primeri so na voljo &lt;a href=&#34;https://github.com/Azure-Readiness/DevCamp&#34;&gt;tukaj&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/photos/a.141471039254812.30327.103673816367868/1036971866371387/?type=3&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

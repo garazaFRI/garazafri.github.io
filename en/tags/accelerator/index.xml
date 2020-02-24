@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accelerator on FRI Garage | Student technology accelerator</title>
+    <link>https://garaza.io/en/tags/accelerator/index.xml</link>
+    <description>Recent content in Accelerator on FRI Garage | Student technology accelerator</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/en/tags/accelerator/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For our project we urgently need certain hardware/software/service. Is it possible to acquire funds?</title>
+      <link>https://garaza.io/en/faq/accelerator/microgrants/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/en/faq/accelerator/microgrants/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Yes, it is possible!&lt;/strong&gt; The Garage FRI has access to funds (&lt;em&gt;thank you sponsors!&lt;/em&gt;) which are indented for &lt;strong&gt;you and your&lt;/strong&gt;
+projects.&lt;/p&gt;
+
+&lt;p&gt;However such funds come with a &amp;ldquo;condition&amp;rdquo;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;after the completion of the project, the equipment will remain in the FRI Garage, where it will be available for other teams&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This excludes if your project contains the given equipment, in this case an arrangement can be made.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How is the ownership of the code / project / product handled in the garage?</title>
+      <link>https://garaza.io/en/faq/accelerator/lastnistvo/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/en/faq/accelerator/lastnistvo/</guid>
+      <description>&lt;p&gt;The student team retains &lt;strong&gt;all&lt;/strong&gt; copyrights.&lt;/p&gt;
+
+&lt;p&gt;Also, you will &lt;strong&gt;not&lt;/strong&gt; need to name your firstborn after our faculty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>To bring to life our project we urgently need certain equipment / software / services. Is it possible to obtain funds for this purpose?</title>
+      <link>https://garaza.io/en/faq-en/accelerator/microgrants/</link>
+      <pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+      
+      <guid>https://garaza.io/en/faq-en/accelerator/microgrants/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Yes, this is possible!&lt;/strong&gt; FRI Garage has available funds (thanks to sponsors!), which are designed for you and your project.&lt;/p&gt;
+
+&lt;p&gt;But this financing has one &amp;ldquo;restriction&amp;rdquo;:
+- after finishing the project, this equipment remains in the FRI Garage and can be used by other teams&lt;/p&gt;
+
+&lt;p&gt;This does not apply if your project uses such funds as the prototype, in that case, we can come to an arrangement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

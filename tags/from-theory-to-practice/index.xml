@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>From Theory To Practice on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/from-theory-to-practice/index.xml</link>
+    <description>Recent content in From Theory To Practice on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/from-theory-to-practice/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Iz teorije v prakso: Napadi na IT-sisteme in obramba pred hekerji v praksi</title>
+      <link>https://garaza.io/event/20200310-NIL-napad-obramba-it/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20200310-NIL-napad-obramba-it/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P20&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Daniel Grah in Jan Češčut, varnostna analitika, NIL d.o.o. (del danske skupine Conscia Holding A/S)&lt;/p&gt;
+
+&lt;p&gt;Kibernetski kriminal je predvsem »velik biznis«, zato so v IT-ju strokovnjaki za kibernetsko obrambo izredno iskani in med najbolje plačanimi. Če te zanima kariera na področju kibernetske varnosti in bi si želel/-a v praksi spoznati napade na IT-okolja (in seveda tudi obrambo), te vabimo na delavnico!&lt;/p&gt;
+
+&lt;p&gt;NIL-ova varnostna analitika Jan Češčut in Danijel Grah bosta demonstrirala nekatere moderne tehnike napadov in kaj se v IT-sistemu začne dogajati, ko napadalci uspešno vdrejo. Pokazala bosta tudi, kako ob takšnih dogodkih reagira obramba: tehnike in ogrodja, s katerimi lahko napadalcem sledimo in preprečimo, da sploh pride do resnejših posledic.
+&lt;/p&gt;
+
+&lt;p&gt;Konkretno boste spoznali napad z usmerjenim ribarjenjem, zlonamerno USB miško, napad s surovo silo na zgoščeno obliko gesla Net-NTLM, napad s posredovanjem NTLM, Kerberoasting in napad Pass-the-Hash. Na koncu bosta Jan in Danijel pojasnila še, kako nam lahko sledi napadalcev pomagajo rekonstruirati potek napada in kaj vse nam to pove o napadalcih.&lt;/p&gt;
+
+&lt;p&gt;Program:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kaj v službi dela strokovnjak/-inja za kibernetsko varnost?&lt;/li&gt;
+&lt;li&gt;Demo: kibernetski napadi in obramba&lt;/li&gt;
+&lt;li&gt;Demo: analiza in rekonstrukcija napadov&lt;/li&gt;
+&lt;li&gt;Vprašanja in diskusija&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;O predavateljih&lt;/p&gt;
+
+&lt;p&gt;Daniel Grah, varnostni analitik, NIL&lt;/p&gt;
+
+&lt;p&gt;Daniel Grah se s kibernetsko varnostjo ukvarja že skoraj deset let. Kariero je začel kot svetovalec, kasneje raziskovalec, danes pa na NIL-u deluje kot varnostni analitik v varnostno operativnem centru (SOC). Ima bogate izkušnje s področij varnostnega preverjanja in pregledov, programiranja, svetovanja, raziskav in razvoja sistemov kibernetske zaščite. Raziskovalna dela je objavljal in predstavljal na različnih mednarodnih konferencah s področja informacijske varnosti.&lt;/p&gt;
+
+&lt;p&gt;Jan Češčut, varnostni analitik, NIL&lt;/p&gt;
+
+&lt;p&gt;Jan je svojo kariero na NIL-u začel še kot študent v podpori uporabnikom NIL-ovega javnega oblaka Flip IT, kasneje pa je iz področja IT-infrastruktur prešel na informacijsko varnost. Danes dela kot varnostni analitik v NIL-ovem varnostno operativnem centru, kjer se osredotoča na zaznavo in preprečevanje napadov na Windows okolja.&lt;/p&gt;
+
+&lt;p&gt;Poleg odličnega poznavanja sistema Windows je Jan tudi strokovnjak za Microsoftove rešitve Active Directory, PowerShell, Exchange, Microsoft System Center ter Office 365, ima pa tudi izkušnje z administracijo Linux sistemov.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-napadi-na-it-sisteme-in-obramba-pred-hekerji-v-praksi-tickets-96520101221&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Facebook infrastructure: Under the Hood</title>
+      <link>https://garaza.io/event/20181220-FB2-NTP-DNS/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181220-FB2-NTP-DNS/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 18:00 - 19:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. Rok Papež, a Production Engineer from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;Facebook&amp;rsquo;s NTP and DNS infrastructure&lt;/strong&gt;. Talks will be on scaling and resiliency of the NTP service, how Facebook load balances traffic using DNS RUM (Real User Metrics) and offloading of TLS session establishment. Talk will also detail DNS data pipeline and the internal structure of DNS server.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;A couple of words about the speaker:&lt;/p&gt;
+
+&lt;p&gt;Rok Papež was interested in computers since his young age, starting with Logo and quickly progressing into programming with Pascal and (now ancient versions of) C/C++. Also experimenting with different Operating Systems like OpenVMS, IBM OS/2 and Linux and playing with different network technologies even predating the Internet. After and during the BSc studies at the Faculty of Computer and Information science (University of Ljubljana), he worked in diverse roles ranging from being a software engineer to being a systems and network engineer at different companies like Aster, Iskratel, Comtrade (Hermes SoftLab) and Arnes, to name just a few. Also complementing his professional activities with volunteer work for Linux Users Group of Slovenia (LUGOS) while also working on Pingo Linux distributions and co-authoring the accompanying book.&lt;/p&gt;
+
+&lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/facebook-infrastructure-under-the-hood-tickets-53699165650&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Production Engineering at Facebook</title>
+      <link>https://garaza.io/event/20181220-FB-prod-eng/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181220-FB-prod-eng/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 15:15 – 17:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22 and Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. &lt;strong&gt;Rok Papež&lt;/strong&gt;, a &lt;strong&gt;Production Engineer&lt;/strong&gt; from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;how Facebook looks from the inside&lt;/strong&gt;. Focus will be on the infrastructure that enables all your &amp;ldquo;likes”, Facebook&amp;rsquo;s mission, innovation roadmap, values and culture. It will be followed up with demystifying of what Production engineering is and how it relates to DevOps and Software engineering; we’ll touch upon the importance of teamwork and the nurturing of the &amp;ldquo;No Blame” culture (yes, that applies even when site is unavailable ;)).&lt;/p&gt;
+
+&lt;p&gt;In the second part of the talk he will share some inside tips on &lt;strong&gt;how to prepare and excel at typical coding interviews&lt;/strong&gt; that all big tech firms use to identify the best people.&lt;/p&gt;
+
+&lt;p&gt;After the talk there will be an &lt;strong&gt;AMA ( &amp;ldquo;Ask me anything”) session&lt;/strong&gt; in Garaža&lt;/p&gt;
+
+&lt;p&gt;
+&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;15.15 - 16:00 Production Engineering at Facebook&lt;/li&gt;
+&lt;li&gt;16.00 - 16.10 Break&lt;/li&gt;
+&lt;li&gt;16.10 - 16.40 Crush Your Coding interview - Tips from the other side&lt;/li&gt;
+&lt;li&gt;16.40 - 17.00 &amp;ldquo;Ask me anything&amp;rdquo; chat with Rok in Garaža&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A couple of words about the speaker:&lt;/p&gt;
+
+&lt;p&gt;Rok Papež was interested in computers since his young age, starting with Logo and quickly progressing into programming with Pascal and (now ancient versions of) C/C++. Also experimenting with different Operating Systems like OpenVMS, IBM OS/2 and Linux and playing with different network technologies even predating the Internet. After and during the BSc studies at the Faculty of Computer and Information science (University of Ljubljana), he worked in diverse roles ranging from being a software engineer to being a systems and network engineer at different companies like Aster, Iskratel, Comtrade (Hermes SoftLab) and Arnes, to name just a few. Also complementing his professional activities with volunteer work for Linux Users Group of Slovenia (LUGOS) while also working on Pingo Linux distributions and co-authoring the accompanying book.&lt;/p&gt;
+
+&lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/production-engineering-at-facebook-tickets-53699402358&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iz teorije v prakso: Lovljenje hekerjev ali kako postati varnostni analitik</title>
+      <link>https://garaza.io/event/20181212-NIL-soc/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181212-NIL-soc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Vid Tovornik Marolt, Analitik kibernetske varnosti, NIL d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Vas zanima kariera na področju kibernetske varnosti, a ne veste, kje in kako začeti? Katera znanja vam pri tem najbolj koristijo in kje jih pridobite? Bi radi spoznali najboljše slovenske strokovnjake za kibernetsko varnost ter izvedeli iz prve roke, kaj točno delajo in s kakšnimi incidenti se srečujejo? Bi se jim želeli pridružiti?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Če ste na katero od teh vprašanj odgovorili pritrdilno vas vabimo na predavanje &lt;strong&gt;Lovljenje hekerjev v praksi ali kako postati varnostni analitik&lt;/strong&gt;, v katerem vam bo &lt;strong&gt;Vid Tovornik Marolt&lt;/strong&gt; iz prve roke pojasnil, kako narediti prve korake v uspešni karierni na področju kibernetske varnosti.
+V predavanju vam bomo predstavili delo v varnostno operativnem centru (SOC), ki skrbi za zaznavanje in odziv na kibernetske incidente, kaj točno počnejo varnostni analitiki, katera orodja uporabljajo in kakšne so karierne možnosti in priložnosti v NIL-ovem varnostno operativnem centru.&lt;/p&gt;
+
+&lt;p&gt;Svoje izkušnje in znanje s področja informacijske varnosti bo z udeleženci delil tudi &lt;strong&gt;mag. Matevž Mesojednik&lt;/strong&gt;, vodja NIL-ovega SOC-a.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Predstavitev NIL-ovega varnostno operativnega centra ter dela v njem&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DEMO: prikaz etičnega vdora, zaznave in začetka sanacije incidenta&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Diskusija s predavateljema&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-lovljenje-hekerjev-v-praksi-ali-kako-postati-varnostni-analitik-tickets-53093686646&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iz teorije v prakso: Kako programirati naprave, ki držijo pokonci Internet?</title>
+      <link>https://garaza.io/event/20181120-NIL-nso/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181120-NIL-nso/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 15:30
+&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: &lt;a href=&#34;https://www.nil.com/sl/o-nil-u/ekipa/bostjan-sustar-2/&#34;&gt;Boštjan Šuštar&lt;/a&gt;, IT arhitekt, NIL&lt;/p&gt;
+
+&lt;p&gt;Netflix na polnih obratih zasede tudi do 30% internetnega prometa. Potem še k temu prištejte vse ostalo, kar je odvisno od Interneta: Google, Tinderje, Facebooke, Talking Tome, države, manjša in večja podjetja, pametne avte, televizije in proizvodnje, vaše telefone in spletne strani sosedov, slike mačk in selfije. Kako se nastavi, da vse to bolj ali manj stabilno, varno in hitro deluje? Kako se programira ta kompleksen sistem aplikacij in omrežij? Katera orodja se za to uporabljajo? Zakaj vam o tem na fakultetah ne povedo veliko?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Na predavanju vam bomo zato pojasnili tehnično ozadje nekaterih od naštetih izzivov in &lt;strong&gt;na praktičnih primerih predstavili&lt;/strong&gt;, kako jih podjetja in ponudniki omrežnih storitev rešujejo. Skozi vsebino se boste tudi seznanili z delom omrežnih inženirjev, kakšna znanja se danes zahtevajo od njih, kakšne so karierne možnosti in priložnosti.&lt;/p&gt;
+
+&lt;p&gt;Skrivnosti programiranja vam bo predstavil Boštjan Šuštar, NIL-ov IT-arhitekt in strokovnjak za področje naprednih omrežij, na pa voljo bo tudi za vprašanja.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Delovanje Interneta in nekateri tehnični izzivi, ki jih imajo omrežja danes&lt;/li&gt;
+&lt;li&gt;Pametna omrežja pod havbo: avtomatizacija, orkestracija, Python, YANG, XML&lt;/li&gt;
+&lt;li&gt;Izziv: Vzpostavitev in avtomatizacija omrežne storitve v samo pol ure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Priporočljivo je osnovno poznavanje programskega jezika Python, med predavanjem pa vam bomo predstavili tudi modelirni jezik YANG.&lt;/p&gt;
+
+&lt;p&gt;Po zaključku predavanja bo &lt;strong&gt;v Garaži&lt;/strong&gt; čas za sproščeno druženje, kjer boste lahko poklepetali s predavateljem in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-kako-programirati-naprave-ki-drzijo-pokonci-internet-tickets-52195600446&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Mala šola obogatene resničnosti 2. del - Microsoft HoloLens v praksi</title>
+      <link>https://garaza.io/event/20180308-agitavit-hololens-2/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180308-agitavit-hololens-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Aleksander Fujs, Agitavit Solutions d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter
+z njim povezano tehnologijo. Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;,
+nato pa se bomo podali v nekoliko bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Bi želeli zgraditi svojo lastno izkušnjo obogatene resničnosti? Nadenite si Microsoft HoloLens! Ta prvi samostojni
+holografski računalnik s sistemom Windows 10 nam s kombinacijo specifičnih komponent omogoča, da v realnem svetu opazujemo
+virtualne grafične modele in druge navidezne informacije, ne da bi nas te ovirale pri vsakodnevnem pogledu na realni svet.
+Govorimo o ustvarjanju obogatene resničnosti (ang. Augmented reality).&lt;/p&gt;
+
+&lt;p&gt;Na drugem delu Male šole obogatene resničnosti boste v roke oziroma na glave dobili Microsoft HoloLens, in sicer boste sami
+odkrivali praktično delo s to holografsko napravo. Spoznali bomo razvoj preprostega modela holografsko obogatene
+resničnosti in na tak način ustvarili virtualno HoloLens izkušnjo za resnični svet. Ustvarjeni navidezni model boste
+nadzorovali, oblikovali in spreminjali s pomočjo gibov rok, pogledov, glasovnih ukazov.&lt;/p&gt;
+
+&lt;p&gt;Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;, nato pa se bomo podali v nekoliko
+bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;
+
+&lt;p&gt;Predhodno poznavanje teh tehnologij ni potrebno, lahko pa na predavanje prinesete svoj računalnik in sami razvijete svojo
+prvo Augmented reality aplikacijo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Udeležba na preteklem 1. delu delavnice ni pogoj za sodelovanje na drugem.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Predstavitev namestitve razvojnega okolja&lt;/li&gt;
+&lt;li&gt;Predstavitev okolja Unity&lt;/li&gt;
+&lt;li&gt;Izdelava programa &amp;ldquo;Hello World&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Priprava namestitvenega paketa in prenos na Microsoft HoloLens&lt;/li&gt;
+&lt;li&gt;Delo z orodjem Microsoft Mixed Reality Toolkit&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Za razvoj aplikacije potrebujete:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;Namestitev razvojnega okolja po navodilih (&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools&#34;&gt;https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prenos orodja Microsoft Mixed Reality Toolkit (&lt;a href=&#34;https://github.com/Microsoft/MixedRealityToolkit-Unity&#34;&gt;https://github.com/Microsoft/MixedRealityToolkit-Unity&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-mala-sola-obogatene-resnicnosti-2-del-microsoft-hololens-v-praksi-tickets-43543704392&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Mala šola obogatene resničnosti - Microsoft HoloLens v praksi</title>
+      <link>https://garaza.io/event/20180118-agitavit-hololens/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180118-agitavit-hololens/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Aleksander Fujs in Borut Žnidar, Agitavit Solutions d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter
+z njim povezano tehnologijo. Kot primer rabe holografskega računalnika bomo pogledali razvoj holografsko
+obogatene resničnosti za inženirsko aplikacijo Hilti Profis Engineering.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Kakšno je računalništvo prihodnosti? Pri Microsoftu so si zadali misijo odpraviti več kot trideset
+let staro interakcijo uporabnika z zaslonom, tipkovnico in miško, za doseganje tega cilja pa so uporabili
+kombinacijo holograma, gibov rok in glasovnih ukazov. Pred nekaj več kot dvema letoma so tako predstavili
+Microsoft HoloLens - prvi samostojni holografski računalnik s sistemom Windows 10.&lt;/p&gt;
+
+&lt;p&gt;Vključuje nabor aplikacijskih vmesnikov, ki razvijalcem omogočajo, da v resničnem svetu ustvarjajo holografske
+izkušnje ter tako presegajo dosedanjo interakcijo z računalniško vsebino prek zaslonov. V HoloLens je vgrajenih
+več senzorjev za prepoznavo okolice, sistem za zaznavo gibov in prilagojen HPU  hologramski procesor na 32-bitni
+Intelovi arhitekturi.&lt;/p&gt;
+
+&lt;p&gt;Potencial za uporabo naprave je brezmejen: od izobraževanja bodočih pilotov, zdravnikov in astronavtov,
+preko prikaza arhitekturnih maket ali personalizirane avtomobilske opreme do razvoja nove generacije iger.
+Ravno igričarstvo je danes eden najmočnejših motorjev razvoja te tehnologije.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Virtualna in obogatena resničnost&lt;/li&gt;
+&lt;li&gt;Ključne lastnosti, funkcionalnosti in raba Microsoft HoloLens&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Holografska tehnologija&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Microsoft HoloLens&lt;/li&gt;
+&lt;li&gt;Unity&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Studio&lt;/li&gt;
+&lt;li&gt;Platforma Windows Holographic
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Praktični primer rabe: Hilti Profis Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-mala-sola-obogatene-resnicnosti-microsoft-hololens-v-praksi-tickets-41902874626&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iz teorije v prakso: pametna mesta in naprave IoT</title>
+      <link>https://garaza.io/event/20171129-NIL-pametna-mesta-iot/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20171129-NIL-pametna-mesta-iot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Bojan Radulović, NIL in Miha Gruden, Agitavit Solutions&lt;/p&gt;
+
+&lt;p&gt;V predavanju bomo predstavili primer pametnega mesta v Sloveniji ter razvoj in namestitev IoT rešitev v občini Brežice.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Povezovanje naprav, ki so pred tem bile samostojne enote, lahko predstavlja veliko poslovno prednost za posamezno podjetje, v kolikor znamo iz zbranih podatkov izluščiti dodano vrednost. Hkrati se ob takšnih IoT (ang. Internet of Things) iniciativah poraja precej novih, prej ne zastavljenih vprašanj!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kakšne izzive lahko rešujemo z IoT pristopom?&lt;/li&gt;
+&lt;li&gt;Na kakšen način zbirati podatke?&lt;/li&gt;
+&lt;li&gt;Kako shranjevati podatke?&lt;/li&gt;
+&lt;li&gt;Kako ovrednotiti in predstaviti podatke?&lt;/li&gt;
+&lt;li&gt;Kako je z varnostjo?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;V predavanju bomo predstavili primer pametnega mesta v Sloveniji ter razvoj in namestitev IoT rešitev v občini Brežice.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pogledali si bomo ključne gradnike tehnološke rešitve in interakcijo med njimi, ter spoznali kako le-ti doprinesejo k uspešnejšemu poslovanju podjetja in dobrobiti skupnosti.&lt;/p&gt;
+
+&lt;p&gt;Primer iz prakse bo predstavil Bojan Radulović, NIL-ov strokovnjak za področje IoT, gost predavanja pa bo Miha Gruden iz podjetja Agitavit Solutions, ki je partner v projektu pametna mesta.&lt;/p&gt;
+
+&lt;p&gt;Po zaključku predavanja bo čas za sproščeno druženje, kjer boste lahko poklepetali s predavateljem in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gradniki IoT rešitev&lt;/li&gt;
+&lt;li&gt;Poslovni problemi komunalnih podjetij&lt;/li&gt;
+&lt;li&gt;IoT rešitev upravljanja z odpadki in vodovodnim omrežjem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-pametna-mesta-in-naprave-iot-tickets-39992879780&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

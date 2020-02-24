@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notactive on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/notactive/index.xml</link>
+    <description>Recent content in Notactive on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/notactive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>API hub</title>
+      <link>https://garaza.io/ekipe/apihub/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/apihub/</guid>
+      <description>&lt;p&gt;API hub
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gregor Krmelj&lt;/li&gt;
+&lt;li&gt;Jaša Jančar Šturm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
+Combining multiple APIs into one unified easy to use platform.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/react/index.xml</link>
+    <description>Recent content in React on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Let&#39;s React ...again</title>
+      <link>https://garaza.io/event/20170301-react-workshop-repeat/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170301-react-workshop-repeat/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;
+
+&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;
+
+&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;React se ne uporablja zgolj za grajenje spletnih aplikacij, temveč tudi iOS, Android, Windows in macOS aplikacij. Konec leta 2016 pa je izšla tudi beta verzija dodatka k Reactu za Virtual Reality.&lt;/p&gt;
+
+&lt;p&gt;V delavnici boste spoznali osnove Reacta ter način razmišljanja za grajenje aplikacij s komponentami.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (JavaScript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;naložen Node.js (&lt;code&gt;npm -v&lt;/code&gt;, &lt;code&gt;node -v&lt;/code&gt; vrneta rezultat)&lt;/li&gt;
+&lt;li&gt;opcijsko: editor, ki lepo obarva kodo (JavaScript ES6)
+
+&lt;ul&gt;
+&lt;li&gt;Primer: Sublime Text (dodatek: &amp;ldquo;Babel&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;na kratko o ES2015, ES2016, JSX&lt;/li&gt;
+&lt;li&gt;hello world (React.Props, React.Children)&lt;/li&gt;
+&lt;li&gt;data flow, komunikacija med komponentami (React.State)&lt;/li&gt;
+&lt;li&gt;navigacija (React Router)&lt;/li&gt;
+&lt;li&gt;CSS in JS (className, inline styles, aphrodite)&lt;/li&gt;
+&lt;li&gt;primer gradnje aplikacije za Spotify&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lets-react-again-tickets-32111549509&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Let&#39;s React</title>
+      <link>https://garaza.io/event/20170201-react-workshop/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170201-react-workshop/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;
+
+&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;
+
+&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;React se ne uporablja zgolj za grajenje spletnih aplikacij, temveč tudi iOS, Android, Windows in macOS aplikacij. Konec leta 2016 pa je izšla tudi beta verzija dodatka k Reactu za Virtual Reality.&lt;/p&gt;
+
+&lt;p&gt;V delavnici boste spoznali osnove Reacta ter način razmišljanja za grajenje aplikacij s komponentami.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja (JavaScript)&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;naložen Node.js (&lt;code&gt;npm -v&lt;/code&gt;, &lt;code&gt;node -v&lt;/code&gt; vrneta rezultat)&lt;/li&gt;
+&lt;li&gt;opcijsko: editor, ki lepo obarva kodo (JavaScript ES6)
+
+&lt;ul&gt;
+&lt;li&gt;Primer: Sublime Text (dodatek: &amp;ldquo;Babel&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;na kratko o ES2015, ES2016, JSX&lt;/li&gt;
+&lt;li&gt;hello world (React.Props, React.Children)&lt;/li&gt;
+&lt;li&gt;data flow, komunikacija med komponentami (React.State)&lt;/li&gt;
+&lt;li&gt;navigacija (React Router)&lt;/li&gt;
+&lt;li&gt;CSS in JS (className, inline styles, aphrodite)&lt;/li&gt;
+&lt;li&gt;primer gradnje aplikacije za Spotify&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lets-react-tickets-31247607435&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Babylon.Js on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/babylon.js/index.xml</link>
+    <description>Recent content in Babylon.Js on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/babylon.js/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Napredne 3D-teme z Babylon.js</title>
+      <link>https://garaza.io/event/20170404-3D-babylon/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20170404-3D-babylon/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9-12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Filip Samotorčan, Senior Developer, Agitavit Solutions d.o.o.&lt;/p&gt;
+
+&lt;p&gt;Orodje Babylon.js, ki bazira na webGL in Javascriptu, je bilo sicer namenjeno za ustvarjanje spletnih računalniških iger, vendar se v praksi odlično obnese tudi pri izzivih poslovnega sveta. V zadnjih letih se je tako odprlo novo področje uporabe te 3D-knjižnice, ki ga najpogosteje označujejo z izrazom gamification. Gre za uporabo znanj, konceptov in elementov iz sveta iger v kontekste, ki s samimi igrami niso povezani. Zelo pogost primer je razvoj poslovnih aplikacij.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Na vodeni delavnici Napredne 3D-teme z Babylon.js bo Agitavitov strokovnjak s področja razvoja poslovnih spletnih aplikacij na podlagi dolgoletnih izkušenj s tovrstnimi projekti predstavili uporabo te odprtokodne knjižnice v zahtevnejših scenarijih.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik.&lt;/li&gt;
+&lt;li&gt;Poznavanje JavaScript.&lt;/li&gt;
+&lt;li&gt;Poznavanje osnov dela s 3D ali knjižnice Babylon.js.&lt;/li&gt;
+&lt;li&gt;Opcijsko si lahko namestite:
+
+&lt;ul&gt;
+&lt;li&gt;Visual Studio Code.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kratek uvod&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Napredne teme&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parallax mapping.&lt;/li&gt;
+&lt;li&gt;Osvetljena obroba.&lt;/li&gt;
+&lt;li&gt;Odsev.&lt;/li&gt;
+&lt;li&gt;Pod pokrovom Babylona: koordinatni sistemi, matrike, fizika.&lt;/li&gt;
+&lt;li&gt;Editor.&lt;/li&gt;
+&lt;li&gt;Shaders.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Primeri&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-napredne-3d-teme-z-babylonjs-tickets-32842178841&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

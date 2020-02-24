@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iot on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/iot/index.xml</link>
+    <description>Recent content in Iot on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+      <link>https://garaza.io/event/20181017-agilcon-iot-2/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181017-agilcon-iot-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-50774823865&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+      <link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+      <link>https://garaza.io/event/20180628-agilcon-iot-2/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180628-agilcon-iot-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-47016203731&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+      <link>https://garaza.io/event/20180621-agilcon-iot-1/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180621-agilcon-iot-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
+
+&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
+
+&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
+
+&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
+
+&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
+&lt;li&gt;prenosni računalnik&lt;/li&gt;
+&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
+&lt;li&gt;Salesforce IoT&lt;/li&gt;
+&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
+&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
+&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
+&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-47014233839&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Azure IoT v praksi</title>
+      <link>https://garaza.io/event/20160920-MS-azure-iot-v-praksi/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160920-MS-azure-iot-v-praksi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-15:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;
+
+&lt;p&gt;Želite spoznati, kaj je buzz word &lt;em&gt;&amp;ldquo;internet of things&amp;rdquo;&lt;/em&gt;? Kako ga Microsoft vidi in kaj vam je kot
+razvijalcem na voljo? Se želite poigrati s storitvami Microsoft Azure in napravo Raspberry PI?
+Želite videti v realnem času in spremljati spremembe podatkov iz senzorjev ter hkrati razviti rešitev,
+ki odreagira na te podatke? Želite obvestiti uporabnika s potisnimi sporočili, ko je dosežen pogoj?&lt;/p&gt;
+
+&lt;p&gt;Skozi vodeno delavnico bomo spoznavali tehnološko podporo konceptu Internet of Things z uporabo tehnologij
+na platformi Microsoft Azure.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Prenosni računalnik&lt;/strong&gt; z nameščenim:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Operacijskim sistemom Windows 10 - &lt;a href=&#34;http://www.windows.com&#34;&gt;http://www.windows.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Visual Studio 2015 Community ali več (Professional, Ultimate) - &lt;a href=&#34;http://www.visualstudio.com&#34;&gt;http://www.visualstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkID=708576&#34;&gt;Windows IoT Core dashboard&lt;/a&gt; in &lt;a href=&#34;https://developer.microsoft.com/en-us/windows/iot/Downloads.htm&#34;&gt;Windows 10 IOT core
+za Raspberry PI 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Odjemalec Git - &lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;https://git-scm.com/downloads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Connected Service for IoT Hub - &lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/e254a3a5-d72e-488e-9bd3-8fee8e0cd1d6&#34;&gt;https://visualstudiogallery.msdn.microsoft.com/e254a3a5-d72e-488e-9bd3-8fee8e0cd1d6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Azure SDK za razvojno okolje Microsoft Visual Studio 2015 - &lt;a href=&#34;http://go.microsoft.com/fwlink/?LinkId=617168&#34;&gt;http://go.microsoft.com/fwlink/?LinkId=617168&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Opcijsko si lahko tudi namestite:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Primere uporabe za &lt;a href=&#34;https://github.com/Microsoft/Windows-universal-samples&#34;&gt;Windows 10&lt;/a&gt;,
+&lt;a href=&#34;https://www.hackster.io/stepanb/fez-hat-windows-10-iot-core-and-azure-iot-hub-1172b5&#34;&gt;Fezhat&lt;/a&gt; ter
+&lt;a href=&#34;https://github.com/ms-iot/samples&#34;&gt;Windows IoT Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/55b357e1-a533-43ad-82a5-a88ac4b01dec&#34;&gt;Windows 10 IoT core project templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://visualstudiogallery.msdn.microsoft.com/5741a548-5179-4a77-ad96-fca71535774d&#34;&gt;Browser Sync&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;V kolikor boste delali na Linux sistemu, sporočite vnaprej (askdxslovenia@microsoft.com), da vam podamo
+ločena navodila. Poudarek predavanj je na tehnološki podpori konceptu IoT, ne pa na raznovrstnih napravah
+ter raznolikosti senzorjev. Na vajah bomo uporabljali Raspberry PI 2 vključno z
+&lt;a href=&#34;https://www.ghielectronics.com/catalog/product/500&#34;&gt;FezHat shield-om&lt;/a&gt; za
+pridobivanje podatkov iz senzorjev, gumbov ter raznolikih akcij.&lt;/p&gt;
+
+&lt;p&gt;Delali bomo sledeče &lt;a href=&#34;http://aka.ms/iot-ctd-field-labs&#34;&gt;vaje&lt;/a&gt;, opremo (razen računalnika) prinesemo mi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-azure-iot-v-praksi-tickets-27599858921&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1091654567569783&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poletna šola: (Ne)varni internet stvari (IoT)</title>
+      <link>https://garaza.io/event/20160906-LRK-nevarni-iot/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20160906-LRK-nevarni-iot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 3 dni, od 9:00-15:00, 6.9. do 8.9.2016&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavatelja:&lt;/strong&gt; Andrej Krevl (Stanford University), Boštjan Špehonja (Unistar LC)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Namenjena je:&lt;/strong&gt; študentom&lt;/p&gt;
+
+&lt;p&gt;Laboratorij za računalniške komunikacije tudi letos organizira zanimivo in zabavno poletno šolo za študente
+FRI. V prvih dveh dneh se boste naučili programirati Arduino in z njim na primer prižigati luči, komunicirati
+z napravami BLE (Bluetooth low energy), sprogramirali boste tudi oblačno storitev, prek katere boste nazadnje
+prižigali in ugašali luči. Zadnji dan boste postali napadalci in boste na več načinov vdrli v svoj (ali sosedov)
+sistem, mu prisluškovali in ugašali luči, nazadnje pa ga boste seveda tudi primerno zavarovali, tako da boste
+po zaključku poletne šole lahko mirno spali.
+&lt;/p&gt;
+
+&lt;p&gt;Howard iz TV serije Veliki pokovci (Big Bang Theory) pravi: &amp;ldquo;Poslal bom ukaz iz mojega prenosnika,
+priključenega na našega ponudnika internetnih storitev, ki ga bo s svetlobno hitrostjo poslal po optičnem kablu
+do San Francisca, preko satelita v geosinhroni orbiti do Lizbone na Portugalskem, kjer se bodo paketi razvrstili
+na podocensko povezavo, ki se zaključi v Halifaxu, v Kanadi, od koder se bo poslal na drugo stran ZDA po
+mikrovalovnih povezavah nazaj do našega ponudnika internetnih storitev, in do sprejemnika X10, ki bo prižgal
+to&amp;hellip; luč.&lt;/p&gt;
+
+&lt;iframe width=&#34;854&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/mqp8_ROAIJY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;V resnici vsi vemo, da se za podatkovni promet med Evropo in ZDA satelitske povezave praktično ne uporabljajo,
+da se večina čezatlantskih povezav zaključi v New Yorku in da so mikrovalovne povezave čez ZDA zamenjali optični
+kabli. Ampak, imeti luč, ki jo lahko prižgemo preko Interneta, je pa kul. Še boljši pa je občutek, ko tak sistem
+postavimo sami in se lučka dejansko prižge. Sprejemnik X10 bo zamenjal Arduino z modrim zobom, prenosnik nekaj
+kode v Pythonu, Lizbono pa storitev v oblaku, ravno tako v Python-u. Da nam nepridipravi ne bi povzročili
+previsokega računa za elektriko bomo podrobno pregledali in skušali napasti vsak del sistema in poiskali
+načine za varovanje pred vsiljivci.&lt;/p&gt;
+
+&lt;p&gt;Naučili se bomo: Arduino, Bluetooth LE, bluePy, Tornado, Websockets, REST, Wireshark&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Potrebno predznanje:&lt;/strong&gt; osnove programiranja&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Arduino, RFduino, Raspberry Pi in druga vgradna druščina&lt;/li&gt;
+&lt;li&gt;Razvojno okolje Arduino&lt;/li&gt;
+&lt;li&gt;Moj prvi Arduino program&lt;/li&gt;
+&lt;li&gt;LED diode, gumbi in žičke&lt;/li&gt;
+&lt;li&gt;Arduino dobi modri zob (Bluetooth)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Domače stičišče (hub) in težave interneta stvari&lt;/li&gt;
+&lt;li&gt;Tudi Python dobi modri zob&lt;/li&gt;
+&lt;li&gt;Pozdravljen Arduino, jaz sem Python&lt;/li&gt;
+&lt;li&gt;Računalniški oblak, kaj je REST in zakaj je kul&lt;/li&gt;
+&lt;li&gt;Procesi, niti, dogodki in Tornado&lt;/li&gt;
+&lt;li&gt;Razvoj spletne storitve za &amp;ldquo;nadzor doma&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Potiskanje, vleka in trajne povezave&lt;/li&gt;
+&lt;li&gt;Pozdravljen interent, jaz sem lučka&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;3. dan:
+
+&lt;ul&gt;
+&lt;li&gt;Pozdravljena lučka, I h4X0r&lt;/li&gt;
+&lt;li&gt;Kako nevarne so stvari&lt;/li&gt;
+&lt;li&gt;TLS in zakaj ga moramo imeti&lt;/li&gt;
+&lt;li&gt;Varovanje naše storitve v oblaku&lt;/li&gt;
+&lt;li&gt;Napadimo stičišče&lt;/li&gt;
+&lt;li&gt;Analiza protokola Bluetooth LE&lt;/li&gt;
+&lt;li&gt;Arduino in kako lahko majhna napaka postane velik problem&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/poletna-sola-nevarni-internet-stvari-iot-tickets-27325702913&#34;&gt;Prijava na delavnico&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/ulfri/posts/1080074902061083&#34;&gt;Slike z delavnice&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.18.1" />
+
+  <title>Poletna šola: (Ne)varni internet stvari (IoT) &middot; Garaža FRI | Študentski tehnološki pospeševalnik</title>
+
+
+  <link href="https://garaza.io/css/bootstrap.css" rel="stylesheet">
+  <link href="https://garaza.io/css/site.css" rel="stylesheet">
+  <link href="https://garaza.io/css/font-awesome.css" rel="stylesheet">
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+  <script src="https://garaza.io/js/bootstrap.min.js"></script>
+
+  <link rel="shortcut icon" href="https://garaza.io/img/favicon.ico" type="image/x-icon" />
+  
+
+
+</head>
+
+
+<body>
+
+  <nav class="navbar navbar-fri navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://garaza.io/">
+                <img src="https://garaza.io/img/PNG_GARAZA_LOGOTIP_II.png">
+                <b>Kjer ideje postanejo resničnost</b>
+            </a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <div class="language-selection">
+                    <a href="https://garaza.io/">SI</a> |
+                    <a href="https://garaza.io/en">EN</a>
+                </div>
+                
+                <li><a href="https://garaza.io/ogarazi/">O Garaži</a></li>
+                
+                <li><a href="https://garaza.io/programi">Programi</a></li>
+                
+                <li><a href="https://garaza.io/event/">Dogodki</a></li>
+                
+                <li><a href="https://garaza.io/ekipe/">Ekipe</a></li>
+                
+                <li><a href="https://garaza.io/pridruzise/">Pridruži Se</a></li>
+                
+                <li><a href="https://garaza.io/faq/">FAQ</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+  <div id="main">
+
+<section>
+  <img src="https://garaza.io/img/cover3.jpg" alt="" class="cover">
+</section>
+
+<section id="notifications-container" class="notification">
+    <div class="container">
+        <ul>
+            <li>
+                <h2>Poletna šola: (Ne)varni internet stvari (IoT)</h2>
+            </li>
+        </ul>
+        <p class="description"></p>
+    </div>
+</section>
+
+<main class="container">
+    <div class="skip-medium">
+        <div class="skip-small">
+            <div class="element">
+                <div class="element-podatki">
+                    <p><strong>Trajanje:</strong> 3 dni, od 9:00-15:00, 6.9. do 8.9.2016</p>
+
+<p><strong>Predavatelja:</strong> Andrej Krevl (Stanford University), Boštjan Špehonja (Unistar LC)</p>
+
+<p><strong>Namenjena je:</strong> študentom</p>
+
+<p>Laboratorij za računalniške komunikacije tudi letos organizira zanimivo in zabavno poletno šolo za študente
+FRI. V prvih dveh dneh se boste naučili programirati Arduino in z njim na primer prižigati luči, komunicirati
+z napravami BLE (Bluetooth low energy), sprogramirali boste tudi oblačno storitev, prek katere boste nazadnje
+prižigali in ugašali luči. Zadnji dan boste postali napadalci in boste na več načinov vdrli v svoj (ali sosedov)
+sistem, mu prisluškovali in ugašali luči, nazadnje pa ga boste seveda tudi primerno zavarovali, tako da boste
+po zaključku poletne šole lahko mirno spali.
+</p>
+
+<p>Howard iz TV serije Veliki pokovci (Big Bang Theory) pravi: &ldquo;Poslal bom ukaz iz mojega prenosnika,
+priključenega na našega ponudnika internetnih storitev, ki ga bo s svetlobno hitrostjo poslal po optičnem kablu
+do San Francisca, preko satelita v geosinhroni orbiti do Lizbone na Portugalskem, kjer se bodo paketi razvrstili
+na podocensko povezavo, ki se zaključi v Halifaxu, v Kanadi, od koder se bo poslal na drugo stran ZDA po
+mikrovalovnih povezavah nazaj do našega ponudnika internetnih storitev, in do sprejemnika X10, ki bo prižgal
+to&hellip; luč.</p>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/mqp8_ROAIJY" frameborder="0" allowfullscreen></iframe>
+
+<p>V resnici vsi vemo, da se za podatkovni promet med Evropo in ZDA satelitske povezave praktično ne uporabljajo,
+da se večina čezatlantskih povezav zaključi v New Yorku in da so mikrovalovne povezave čez ZDA zamenjali optični
+kabli. Ampak, imeti luč, ki jo lahko prižgemo preko Interneta, je pa kul. Še boljši pa je občutek, ko tak sistem
+postavimo sami in se lučka dejansko prižge. Sprejemnik X10 bo zamenjal Arduino z modrim zobom, prenosnik nekaj
+kode v Pythonu, Lizbono pa storitev v oblaku, ravno tako v Python-u. Da nam nepridipravi ne bi povzročili
+previsokega računa za elektriko bomo podrobno pregledali in skušali napasti vsak del sistema in poiskali
+načine za varovanje pred vsiljivci.</p>
+
+<p>Naučili se bomo: Arduino, Bluetooth LE, bluePy, Tornado, Websockets, REST, Wireshark</p>
+
+<p><strong>Potrebno predznanje:</strong> osnove programiranja</p>
+
+<p><strong>Agenda:</strong></p>
+
+<ul>
+<li>1. dan:
+
+<ul>
+<li>Arduino, RFduino, Raspberry Pi in druga vgradna druščina</li>
+<li>Razvojno okolje Arduino</li>
+<li>Moj prvi Arduino program</li>
+<li>LED diode, gumbi in žičke</li>
+<li>Arduino dobi modri zob (Bluetooth)</li>
+</ul></li>
+<li>2. dan:
+
+<ul>
+<li>Domače stičišče (hub) in težave interneta stvari</li>
+<li>Tudi Python dobi modri zob</li>
+<li>Pozdravljen Arduino, jaz sem Python</li>
+<li>Računalniški oblak, kaj je REST in zakaj je kul</li>
+<li>Procesi, niti, dogodki in Tornado</li>
+<li>Razvoj spletne storitve za &ldquo;nadzor doma&rdquo;</li>
+<li>Potiskanje, vleka in trajne povezave</li>
+<li>Pozdravljen interent, jaz sem lučka</li>
+</ul></li>
+<li>3. dan:
+
+<ul>
+<li>Pozdravljena lučka, I h4X0r</li>
+<li>Kako nevarne so stvari</li>
+<li>TLS in zakaj ga moramo imeti</li>
+<li>Varovanje naše storitve v oblaku</li>
+<li>Napadimo stičišče</li>
+<li>Analiza protokola Bluetooth LE</li>
+<li>Arduino in kako lahko majhna napaka postane velik problem</li>
+</ul></li>
+</ul>
+
+<p><a href="https://www.eventbrite.com/e/poletna-sola-nevarni-internet-stvari-iot-tickets-27325702913">Prijava na delavnico</a></p>
+
+<p><a href="https://www.facebook.com/ulfri/posts/1080074902061083">Slike z delavnice</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+</div>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <img src="https://garaza.io/img/fri.png" alt="" width="250px">
+                </div>
+                <div class="col-md-4 col-sm-6 fri-info">
+                    <p>UNIVERZA V LJUBLJANI</p>
+                    <p>Fakulteta za računalništvo in informatiko</p>
+                    <p>Večna pot 113, 1000 Ljubljana</p>
+                    <p>Garaža UL FRI</p>
+                    <p>Študentski tehnološki pospeševalnik</p>
+                    <a href="mailto:garaza@fri.uni-lj.si"><i class="fa fa-envelope" aria-hidden="true"></i> garaza@fri.uni-lj.si</a>
+                </div>
+                <div class="col-md-4 col-sm-6 social-info">
+                    <div >
+  <ul class="list-unstyled">
+
+    <li class="pure-menu-item">
+      <a href="https://garaza.io/index.xml"><i class="fa fa-rss fa-fw"></i>RSS</a>
+    </li>
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://twitter.com/garazaFRI" target="_blank"><i class="fa fa-twitter fa-fw"></i>Twitter</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://facebook.com/ulfri" target="_blank"><i class="fa fa-facebook fa-fw"></i>Facebook</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://instagram.com/garazafri" target="_blank"><i class="fa fa-instagram fa-fw"></i>Instagram</a>
+    </li>
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/garazaFRI" target="_blank"><i class="fa fa-github-alt fa-fw"></i>Github</a>
+    </li>
+    
+
+    
+
+    
+
+  </ul>
+</div>
+                </div>
+            </div>
+    </div>
+</footer>
+
+</body>
+</html>
+

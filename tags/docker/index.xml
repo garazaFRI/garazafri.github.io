@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/docker/index.xml</link>
+    <description>Recent content in Docker on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji (ponovitev delavnice)</title>
+      <link>https://garaza.io/event/20180523-celtra-docker-again/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180523-celtra-docker-again/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;
+
+&lt;p&gt;Zaradi velikega zanimanja ponavljamo delavnico. Prednost pri prijavi bodo tokrat imeli tisti, ki so ostali brez mesta na prvi ponovitvi.&lt;/p&gt;
+
+&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,
+pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje
+res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,
+enake mrežne nastavitve, itd.&lt;/p&gt;
+
+&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,
+kakšne so najboljše prakse. Na primeru preproste spletne aplikacije
+se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske
+nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Teorija: Uvod v Docker&lt;/li&gt;
+&lt;li&gt;Praksa: Razvoj in postavitev spletne aplikacije&lt;/li&gt;
+&lt;li&gt;Izkušnje: Kako in zakaj uporabljamo Docker v Celtri&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;Nameščen VirtualBox&lt;/li&gt;
+&lt;li&gt;GitHub Free Account&lt;/li&gt;
+&lt;li&gt;Heroku Free Account&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-razvoj-spletnih-aplikacij-z-docker-kontejnerji-ponovitev-delavnice-tickets-46220570972&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji</title>
+      <link>https://garaza.io/event/20180425-celtra-docker/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20180425-celtra-docker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-18:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;
+
+&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,
+pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje
+res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,
+enake mrežne nastavitve, itd.&lt;/p&gt;
+
+&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,
+kakšne so najboljše prakse. Na primeru preproste spletne aplikacije
+se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske
+nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Teorija: Uvod v Docker&lt;/li&gt;
+&lt;li&gt;Praksa: Razvoj in postavitev spletne aplikacije&lt;/li&gt;
+&lt;li&gt;Izkušnje: Kako in zakaj uporabljamo Docker v Celtri&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;Nameščen VirtualBox&lt;/li&gt;
+&lt;li&gt;GitHub Free Account&lt;/li&gt;
+&lt;li&gt;Heroku Free Account&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-razvoj-spletnih-aplikacij-z-docker-kontejnerji-tickets-45190971412&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
