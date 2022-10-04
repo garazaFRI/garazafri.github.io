@@ -82,8 +82,28 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/ekipe/dragonsec/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20221013-DragonSec-FRICTF22/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20220410-DragonSec-DCTF22/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20211020-DragonSec-FRICTF21/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20210514-DragonSec-DCTF21/</loc>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -408,7 +428,7 @@
   
   <url>
     <loc>https://garaza.io/tags/ctf/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -438,7 +458,7 @@
   
   <url>
     <loc>https://garaza.io/tags/dragonsec-si/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

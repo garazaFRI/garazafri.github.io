@@ -8,12 +8,35 @@
     <atom:link href="https://garaza.io/tags/dragonsec-si/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DragonSec SI</title>
+      <link>https://garaza.io/ekipe/dragonsec/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/ekipe/dragonsec/</guid>
+      <description>&lt;p&gt;Tekmovanja CTF, kibernetska varnost.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dragonsec.si/clani.html&#34;&gt;&lt;strong&gt;Člani ekipe&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/dragonsec.jpg&#34; alt=&#34;DragonSec SI&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Smo študentska ekipa katere primarna dejavnost so tekmovanja iz kibernetske varnosti CTF (Capture the Flag), poleg tega pa organiziramo tudi svoje tekmovanje dCTF. Vedno bolj se povezujemo tudi z industrijo. Poslanstvo naše ekipe je, da predvsem mladim podrobneje predstavimo področje kibernetske varnosti ter pomembnost le te v današnjem času. V ta namen za vse člane organiziramo poučna predavanja iz različnih področjih na katerih širimo obstoječa in pridobivamo nova znanja.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dragonsec.si&#34;&gt;Spletna stran&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FRICTF</title>
       <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://garaza.io/event/20221013-DragonSec-FRICTF22/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:00 - 21:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
 
 &lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
 
@@ -31,6 +54,85 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/frictf2022/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DCTF</title>
+      <link>https://garaza.io/event/20220410-DragonSec-DCTF22/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20220410-DragonSec-DCTF22/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 11:00 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI letos že drugič organizira tekmovanje DCTF, ki bo za razliko od lani letos vključevalo tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
+
+&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf2022/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FRICTF</title>
+      <link>https://garaza.io/event/20211020-DragonSec-FRICTF21/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20211020-DragonSec-FRICTF21/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 20.10.2021 - 22.10.2021; 18:00 - 21:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P15, P16, P17, P21&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
+
+&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://forms.gle/Lw1TWPFe34QuQeh19&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DCTF</title>
+      <link>https://garaza.io/event/20210514-DragonSec-DCTF21/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20210514-DragonSec-DCTF21/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14.5.2021 17:00 - 16.5.2021 23:59&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Online&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI, ki domuje na FRI, letos prvič organizira svoje tekmovanje iz informacijske varnosti CTF (capture the flag), katerega cilj je mladim približati različna področja kibernetske varnosti.&lt;/p&gt;
+
+&lt;p&gt;Vabljeni ste vsi, ki vas zanima kaj informacijska varnost je, ali pa bi radi izboljšali svoja znanja. Tekmovanje bo postreglo z izzivi z več področij informacijske varnosti (reverse engineering, steganografija, spletne aplikacije &amp;hellip;), tako da se zagotovo za vsakega nekaj najde.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dctf.dragonsec.si&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
