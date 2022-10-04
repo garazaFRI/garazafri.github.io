@@ -8,27 +8,6 @@
     <atom:link href="https://garaza.io/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DragonSec SI</title>
-      <link>https://garaza.io/ekipe/dragonsec/</link>
-      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/ekipe/dragonsec/</guid>
-      <description>&lt;p&gt;Tekmovanja CTF, kibernetska varnost.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dragonsec.si/clani.html&#34;&gt;&lt;strong&gt;Člani ekipe&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/dragonsec.jpg&#34; alt=&#34;DragonSec SI&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Smo študentska ekipa katere primarna dejavnost so tekmovanja iz kibernetske varnosti CTF (Capture the Flag), poleg tega pa organiziramo tudi svoje tekmovanje dCTF. Vedno bolj se povezujemo tudi z industrijo. Poslanstvo naše ekipe je, da predvsem mladim podrobneje predstavimo področje kibernetske varnosti ter pomembnost le te v današnjem času. V ta namen za vse člane organiziramo poučna predavanja iz različnih področjih na katerih širimo obstoječa in pridobivamo nova znanja.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dragonsec.si&#34;&gt;Spletna stran&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>FRICTF</title>
       <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
