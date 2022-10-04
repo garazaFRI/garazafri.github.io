@@ -177,5 +177,36 @@ genskih konstruktov.&lt;/li&gt;
 Combining multiple APIs into one unified easy to use platform.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Ekipa Smrkci</title>
+      <link>https://garaza.io/ekipe/ekipa-template/</link>
+      <pubDate>Sat, 26 Nov 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/ekipa-template/</guid>
+      <description>&lt;p&gt;Smo skupina Smrkci, ukvarjamo se z razvojem inteligentnih chatbotov.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Smrkec 1&lt;/li&gt;
+&lt;li&gt;Smrkec 2&lt;/li&gt;
+&lt;li&gt;Smrkec 3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipa-smrkci.jpg&#34; alt=&#34;Ekipa Smrkci&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum ex sem, a consectetur arcu
+viverra sit amet. Donec pellentesque, nisl congue placerat pharetra, diam urna scelerisque neque,
+ac egestas est justo a eros. Ut dui urna, tristique id interdum nec, aliquet eget augue.
+sPraesent porta ut tellus a scelerisque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-github-alt&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Povezava do Github repozitorija&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
