@@ -5,8 +5,34 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FRICTF</title>
+      <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20221013-DragonSec-FRICTF22/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:00 - 21:00&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
+
+&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/frictf2022/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Iz teorije v prakso: Napadi na IT-sisteme in obramba pred hekerji v praksi</title>
@@ -553,65 +579,6 @@ V predavanju vam bomo predstavili delo v varnostno operativnem centru (SOC), ki 
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-50774823865&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
-      <link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
-
-&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
-&lt;li&gt;Salesforce IoT&lt;/li&gt;
-&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
-&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
-&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
-&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
-&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
