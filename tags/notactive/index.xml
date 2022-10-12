@@ -8,6 +8,30 @@
     <atom:link href="https://garaza.io/tags/notactive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OneAuth</title>
+      <link>https://garaza.io/ekipe/oneauth/</link>
+      <pubDate>Tue, 11 Oct 2022 14:30:00 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/oneauth/</guid>
+      <description>&lt;p&gt;OneAuth
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aljaž Starc&lt;/li&gt;
+&lt;li&gt;Tilen Komel&lt;/li&gt;
+&lt;li&gt;Amadej Milićev&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
+Razvoj standarda za komunikacijo, server-side knjicnic za razne programske jezike ter razvoj official mobile app-a, ki skupaj omogocajo avthentication uporabnika na dani platformi samo z telefonom in enim scan-om QR kode.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Razlog predcasne zakljucitve projekta&lt;/strong&gt;
+Izpostavljena je bila kriticna varnostna luknja v pristopu, kateri je temelj celotnega projekta, ki se ga ne da zavarovati in prepreciti napade na sistem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>API hub</title>
       <link>https://garaza.io/ekipe/apihub/</link>
       <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>

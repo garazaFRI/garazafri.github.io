@@ -82,6 +82,11 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/ekipe/oneauth/</loc>
+    <lastmod>2022-10-11T14:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/ekipe/apihub/</loc>
     <lastmod>2016-12-08T12:50:21+02:00</lastmod>
   </url>
@@ -601,7 +606,7 @@
   
   <url>
     <loc>https://garaza.io/tags/notactive/</loc>
-    <lastmod>2016-12-08T12:50:21+02:00</lastmod>
+    <lastmod>2022-10-11T14:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
