@@ -5,8 +5,31 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DragonSec SI &amp; OWASP Maribor meetup</title>
+      <link>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 18:00 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P21 ali P22, odvisno od udeležbe&lt;/p&gt;
+
+&lt;p&gt;Tokratno srečanje ekipe DragonSec SI bomo popestrili z gosti iz društva OWASP Maribor. V sklopu dogodka bomo izvedli 3 predavanja.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Google CTF: turing complete vm with elf realocation instructions&lt;/li&gt;
+&lt;li&gt;Bambi CTF: introduction to A/D CTF competitions&lt;/li&gt;
+&lt;li&gt;OWASP: Varnostni izzivi vsakdana&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/dragonsec-si-owasp-maribor-meetup-tickets-449356125267&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>FRICTF</title>
@@ -496,40 +519,6 @@ Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam 
 &lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/production-engineering-at-facebook-tickets-53699402358&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Iz teorije v prakso: Lovljenje hekerjev ali kako postati varnostni analitik</title>
-      <link>https://garaza.io/event/20181212-NIL-soc/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181212-NIL-soc/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Vid Tovornik Marolt, Analitik kibernetske varnosti, NIL d.o.o.&lt;/p&gt;
-
-&lt;p&gt;Vas zanima kariera na področju kibernetske varnosti, a ne veste, kje in kako začeti? Katera znanja vam pri tem najbolj koristijo in kje jih pridobite? Bi radi spoznali najboljše slovenske strokovnjake za kibernetsko varnost ter izvedeli iz prve roke, kaj točno delajo in s kakšnimi incidenti se srečujejo? Bi se jim želeli pridružiti?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Če ste na katero od teh vprašanj odgovorili pritrdilno vas vabimo na predavanje &lt;strong&gt;Lovljenje hekerjev v praksi ali kako postati varnostni analitik&lt;/strong&gt;, v katerem vam bo &lt;strong&gt;Vid Tovornik Marolt&lt;/strong&gt; iz prve roke pojasnil, kako narediti prve korake v uspešni karierni na področju kibernetske varnosti.
-V predavanju vam bomo predstavili delo v varnostno operativnem centru (SOC), ki skrbi za zaznavanje in odziv na kibernetske incidente, kaj točno počnejo varnostni analitiki, katera orodja uporabljajo in kakšne so karierne možnosti in priložnosti v NIL-ovem varnostno operativnem centru.&lt;/p&gt;
-
-&lt;p&gt;Svoje izkušnje in znanje s področja informacijske varnosti bo z udeleženci delil tudi &lt;strong&gt;mag. Matevž Mesojednik&lt;/strong&gt;, vodja NIL-ovega SOC-a.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Predstavitev NIL-ovega varnostno operativnega centra ter dela v njem&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DEMO: prikaz etičnega vdora, zaznave in začetka sanacije incidenta&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Diskusija s predavateljema&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Po zaključku predavanja bo v Garaži FRI čas za vprašanja in sproščeno druženje, kjer boste lahko poklepetali s predavateljema in s predstavnico kadrovske službe na NIL-u.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-lovljenje-hekerjev-v-praksi-ali-kako-postati-varnostni-analitik-tickets-53093686646&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

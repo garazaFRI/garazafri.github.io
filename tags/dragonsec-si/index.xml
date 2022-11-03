@@ -8,6 +8,29 @@
     <atom:link href="https://garaza.io/tags/dragonsec-si/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DragonSec SI &amp; OWASP Maribor meetup</title>
+      <link>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 18:00 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P21 ali P22, odvisno od udeležbe&lt;/p&gt;
+
+&lt;p&gt;Tokratno srečanje ekipe DragonSec SI bomo popestrili z gosti iz društva OWASP Maribor. V sklopu dogodka bomo izvedli 3 predavanja.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Google CTF: turing complete vm with elf realocation instructions&lt;/li&gt;
+&lt;li&gt;Bambi CTF: introduction to A/D CTF competitions&lt;/li&gt;
+&lt;li&gt;OWASP: Varnostni izzivi vsakdana&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/dragonsec-si-owasp-maribor-meetup-tickets-449356125267&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FRICTF</title>
       <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
