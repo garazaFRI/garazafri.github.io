@@ -8,6 +8,23 @@
     <atom:link href="https://garaza.io/tags/tekmovanje/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CSAW Finals 2022</title>
+      <link>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 10.11.2022 12:00 - 12.11.2022 0:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR16&lt;/p&gt;
+
+&lt;p&gt;Člani ekipe DragonSec SI se v sodelovanju z ekipo LosFuzzys s TU Graz udeležujejo finalnega dogodka največjega študentskega CTF tekmovanja CSAW, ki ga organizira ekipa NYUSEC z univerze v New Yorku.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ctf.csaw.io/scoreboard&#34;&gt;&lt;strong&gt;Rezultati&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FRICTF</title>
       <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>

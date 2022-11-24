@@ -32,6 +32,23 @@
     </item>
     
     <item>
+      <title>CSAW Finals 2022</title>
+      <link>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 10.11.2022 12:00 - 12.11.2022 0:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR16&lt;/p&gt;
+
+&lt;p&gt;Člani ekipe DragonSec SI se v sodelovanju z ekipo LosFuzzys s TU Graz udeležujejo finalnega dogodka največjega študentskega CTF tekmovanja CSAW, ki ga organizira ekipa NYUSEC z univerze v New Yorku.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ctf.csaw.io/scoreboard&#34;&gt;&lt;strong&gt;Rezultati&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FRICTF</title>
       <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
@@ -482,43 +499,6 @@ Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam 
 &lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/facebook-infrastructure-under-the-hood-tickets-53699165650&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Production Engineering at Facebook</title>
-      <link>https://garaza.io/event/20181220-FB-prod-eng/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181220-FB-prod-eng/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 15:15 – 17:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22 and Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. &lt;strong&gt;Rok Papež&lt;/strong&gt;, a &lt;strong&gt;Production Engineer&lt;/strong&gt; from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;how Facebook looks from the inside&lt;/strong&gt;. Focus will be on the infrastructure that enables all your &amp;ldquo;likes”, Facebook&amp;rsquo;s mission, innovation roadmap, values and culture. It will be followed up with demystifying of what Production engineering is and how it relates to DevOps and Software engineering; we’ll touch upon the importance of teamwork and the nurturing of the &amp;ldquo;No Blame” culture (yes, that applies even when site is unavailable ;)).&lt;/p&gt;
-
-&lt;p&gt;In the second part of the talk he will share some inside tips on &lt;strong&gt;how to prepare and excel at typical coding interviews&lt;/strong&gt; that all big tech firms use to identify the best people.&lt;/p&gt;
-
-&lt;p&gt;After the talk there will be an &lt;strong&gt;AMA ( &amp;ldquo;Ask me anything”) session&lt;/strong&gt; in Garaža&lt;/p&gt;
-
-&lt;p&gt;
-&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;15.15 - 16:00 Production Engineering at Facebook&lt;/li&gt;
-&lt;li&gt;16.00 - 16.10 Break&lt;/li&gt;
-&lt;li&gt;16.10 - 16.40 Crush Your Coding interview - Tips from the other side&lt;/li&gt;
-&lt;li&gt;16.40 - 17.00 &amp;ldquo;Ask me anything&amp;rdquo; chat with Rok in Garaža&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A couple of words about the speaker:&lt;/p&gt;
-
-&lt;p&gt;Rok Papež was interested in computers since his young age, starting with Logo and quickly progressing into programming with Pascal and (now ancient versions of) C/C++. Also experimenting with different Operating Systems like OpenVMS, IBM OS/2 and Linux and playing with different network technologies even predating the Internet. After and during the BSc studies at the Faculty of Computer and Information science (University of Ljubljana), he worked in diverse roles ranging from being a software engineer to being a systems and network engineer at different companies like Aster, Iskratel, Comtrade (Hermes SoftLab) and Arnes, to name just a few. Also complementing his professional activities with volunteer work for Linux Users Group of Slovenia (LUGOS) while also working on Pingo Linux distributions and co-authoring the accompanying book.&lt;/p&gt;
-
-&lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/production-engineering-at-facebook-tickets-53699402358&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
