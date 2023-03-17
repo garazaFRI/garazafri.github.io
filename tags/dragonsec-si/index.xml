@@ -8,6 +8,32 @@
     <atom:link href="https://garaza.io/tags/dragonsec-si/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DCTF</title>
+      <link>https://garaza.io/event/20230415-DragonSec-DCTF23/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20230415-DragonSec-DCTF23/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 9:00 - 22:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI letos že tretjič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
+
+&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf2023/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>DragonSec SI &amp; OWASP Maribor meetup</title>
       <link>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>

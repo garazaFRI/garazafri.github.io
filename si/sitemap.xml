@@ -97,6 +97,11 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/event/20230415-DragonSec-DCTF23/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url>
@@ -448,7 +453,7 @@
   
   <url>
     <loc>https://garaza.io/tags/ctf/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -484,7 +489,7 @@
   
   <url>
     <loc>https://garaza.io/tags/dragonsec-si/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -496,7 +501,7 @@
   
   <url>
     <loc>https://garaza.io/event/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -780,7 +785,7 @@
   
   <url>
     <loc>https://garaza.io/tags/tekmovanje/</loc>
-    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

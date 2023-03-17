@@ -5,8 +5,34 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DCTF</title>
+      <link>https://garaza.io/event/20230415-DragonSec-DCTF23/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20230415-DragonSec-DCTF23/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 9:00 - 22:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI letos že tretjič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
+
+&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf2023/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>DragonSec SI &amp; OWASP Maribor meetup</title>
@@ -474,31 +500,6 @@ Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam 
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lia-sprogramiraj-bota-in-tekmuj-na-lia-turnirju-2019-tickets-56372326145&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Facebook infrastructure: Under the Hood</title>
-      <link>https://garaza.io/event/20181220-FB2-NTP-DNS/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181220-FB2-NTP-DNS/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 18:00 - 19:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. Rok Papež, a Production Engineer from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;Facebook&amp;rsquo;s NTP and DNS infrastructure&lt;/strong&gt;. Talks will be on scaling and resiliency of the NTP service, how Facebook load balances traffic using DNS RUM (Real User Metrics) and offloading of TLS session establishment. Talk will also detail DNS data pipeline and the internal structure of DNS server.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;A couple of words about the speaker:&lt;/p&gt;
-
-&lt;p&gt;Rok Papež was interested in computers since his young age, starting with Logo and quickly progressing into programming with Pascal and (now ancient versions of) C/C++. Also experimenting with different Operating Systems like OpenVMS, IBM OS/2 and Linux and playing with different network technologies even predating the Internet. After and during the BSc studies at the Faculty of Computer and Information science (University of Ljubljana), he worked in diverse roles ranging from being a software engineer to being a systems and network engineer at different companies like Aster, Iskratel, Comtrade (Hermes SoftLab) and Arnes, to name just a few. Also complementing his professional activities with volunteer work for Linux Users Group of Slovenia (LUGOS) while also working on Pingo Linux distributions and co-authoring the accompanying book.&lt;/p&gt;
-
-&lt;p&gt;Since May 2017 Rok is working as a Production Engineer for Facebook in the Dublin office, where he started in the Cluster Infrastructure team and then moved to the Infrastructure DNS and NTP team. Besides making sure DNS servers are ticking along nicely, Rok also likes to give public talks and manage the occasional intern in his team.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/facebook-infrastructure-under-the-hood-tickets-53699165650&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
