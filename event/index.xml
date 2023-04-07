@@ -5,8 +5,27 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;Jack of all trades&#39; ali kako lahko izgleda vsakdan in kariera varnostnega eksperta</title>
+      <link>https://garaza.io/event/20230418-Sportradar/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20230418-Sportradar/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 16h – 17h&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P04&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: dr. Blaž Babnik, vodja varnosti za MTS, Sportradar&lt;/p&gt;
+
+&lt;p&gt;Vedno ko govorimo o kibernetski ali informacijski varnosti imamo romantične predstave o hekerjih in adrenalinskih dogodkih. Profili so tako iskani, da je na trgu velika zmeda in ter razkorak med ponudbo in povpraševanjem ustreznega kadra. V predavanju si bomo pogledali kako ujeti veter v jadra kariere ter združiti lastne hobije ter interes za kibernetsko varnost z vsakdanjim delom. Deležni bomo tudi nekaj praktičnih nasvetov, ki nam lahko koristijo pri strokovnem in osebnostnem razvoju in izboljšanju kariernih možnosti.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Blaž Babnik je zaposlen kot vodja varnosti za MTS v podjetju Sportradar d.o.o. (NDAX:SRAD), doktoriral je Fakulteti za elektrotehniko in ima več kot 20 let izkušenj v IT. Zadnih nekaj let se primarno ukvarja z informacijsko varnostjo in je nosilec številnih certifikatov: CISSP, CCSP, GMON, GCIH, GIAC Advisory Board Member, CySA+, CSAP, MS-500, SC-200, Security+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>DCTF</title>
@@ -475,31 +494,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/workshop-so-you-want-to-build-robots-2-days-tickets-56395768261&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Lia - Sprogramiraj bota in tekmuj na Lia turnirju 2019</title>
-      <link>https://garaza.io/event/20190218-Lia-turnir-2019/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190218-Lia-turnir-2019/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14:00 - 16:00&lt;/p&gt;
-
-&lt;p&gt;Se želiš pridružiti &lt;a href=&#34;https://www.liagame.com/tournament&#34;&gt;Lia turnirju 2019&lt;/a&gt; pa ne veš kje začeti?
-Ali si zgolj želiš pridobiti nekaj prednosti in prevzeti zgodnje vodstvo?
-Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam in se pridružili spletni lestvici.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lia-sprogramiraj-bota-in-tekmuj-na-lia-turnirju-2019-tickets-56372326145&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
