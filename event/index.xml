@@ -5,8 +5,25 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FAUST CTF 2023</title>
+      <link>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 23.9.2023 14:00 - 23.9.2023 23:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR05, PR06&lt;/p&gt;
+
+&lt;p&gt;Člani ekipe DragonSec SI udeležujejo Attack/Defense CTF tekmovanja &lt;a href=&#34;https://2023.faustctf.net/&#34;&gt;FAUST CTF&lt;/a&gt;, ki ga organizira ekipa &lt;a href=&#34;https://faust.cs.fau.de/&#34;&gt;FAUST&lt;/a&gt; s &lt;a href=&#34;https://www.fau.de/&#34;&gt;FAU Erlangen-Nuremberg&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2023.faustctf.net/competition/scoreboard/&#34;&gt;&lt;strong&gt;Rezultati&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Sportradar’s Integrity Services: market-leading technology, driven by machine-learning</title>
@@ -411,54 +428,6 @@ competitions.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
-      <link>https://garaza.io/event/20190313-agilcon-chatko/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;
-
-&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;
-
-&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;
-&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
-&lt;li&gt;LiveAgent in Chatbot&lt;/li&gt;
-&lt;li&gt;Razvoj (data model, APEX, chatbot decision tree) - prepoznavanje besedila&lt;/li&gt;
-&lt;li&gt;Povezovanje s third-party sistemi po prepoznavi besedilaa&lt;/li&gt;
-&lt;li&gt;Dodatno: povezava na druge AI platforme (IBM Watson, Google Cloud Cloud Natural Language)&lt;/li&gt;
-&lt;li&gt;Dodatno: chatko v mobilni aplikaciji&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/chatko-optimizacija-kontakt-centra-s-pomocjo-naprednega-ai-klepetalnika-tickets-58161621977&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

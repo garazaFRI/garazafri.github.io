@@ -8,6 +8,23 @@
     <atom:link href="https://garaza.io/tags/dragonsec-si/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FAUST CTF 2023</title>
+      <link>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 23.9.2023 14:00 - 23.9.2023 23:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR05, PR06&lt;/p&gt;
+
+&lt;p&gt;Člani ekipe DragonSec SI udeležujejo Attack/Defense CTF tekmovanja &lt;a href=&#34;https://2023.faustctf.net/&#34;&gt;FAUST CTF&lt;/a&gt;, ki ga organizira ekipa &lt;a href=&#34;https://faust.cs.fau.de/&#34;&gt;FAUST&lt;/a&gt; s &lt;a href=&#34;https://www.fau.de/&#34;&gt;FAU Erlangen-Nuremberg&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://2023.faustctf.net/competition/scoreboard/&#34;&gt;&lt;strong&gt;Rezultati&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>DCTF</title>
       <link>https://garaza.io/event/20230415-DragonSec-DCTF23/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
