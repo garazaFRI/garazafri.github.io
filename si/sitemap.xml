@@ -107,6 +107,11 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/event/20231214-DragonSec-Git/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -495,6 +500,12 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/tags/delavnica/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/tags/delavnice/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -514,7 +525,7 @@
   
   <url>
     <loc>https://garaza.io/tags/dragonsec-si/</loc>
-    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -526,7 +537,7 @@
   
   <url>
     <loc>https://garaza.io/event/</loc>
-    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -575,6 +586,12 @@
   <url>
     <loc>https://garaza.io/</loc>
     <lastmod>2016-12-08T12:50:21+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/tags/git/</loc>
+    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

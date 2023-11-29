@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/git/index.xml</link>
+    <description>Recent content in Git on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica Osnove Gita</title>
+      <link>https://garaza.io/event/20231214-DragonSec-Git/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20231214-DragonSec-Git/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 19:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;
+
+&lt;p&gt;Društvo DragonSec SI vabi na delavnico o osnovah sistema Git.&lt;/p&gt;
+
+&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati s sistemom Git ali ponoviti njegove osnove.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Obvezna oprema:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prenosni računalnik&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/git2023/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
