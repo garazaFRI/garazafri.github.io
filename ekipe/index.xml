@@ -242,29 +242,6 @@ Tekmovanja CTF, kibernetska varnost.
     </item>
     
     <item>
-      <title>Kašča</title>
-      <link>https://garaza.io/ekipe/kasca/</link>
-      <pubDate>Sat, 30 Sep 2023 18:08:00 +0200</pubDate>
-      
-      <guid>https://garaza.io/ekipe/kasca/</guid>
-      <description>&lt;p&gt;Kašča is resource managment system - created for scouts by scouts.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aljaž Starc&lt;/li&gt;
-&lt;li&gt;Tilen Komel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
-Kašča je all-in-one (SaaS?) resitev za organizacijo inventarja, opreme, posoje opreme, clanarin, dogodkov, ekip za tekmovanja, etc.. pri Tabornikih.&lt;/p&gt;
-
-&lt;p&gt;Spisano v TypeScriptu z uporabo VueJS-a ter Tailwind{CSS,UI}-ja, backend laufa Node, MongoDB za bazo ter S3 za asset storage. Buildano v containerje, deployed na k8s. Continously - cim vec je automated.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>API hub</title>
       <link>https://garaza.io/ekipe/apihub/</link>
       <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
@@ -282,6 +259,29 @@ Kašča je all-in-one (SaaS?) resitev za organizacijo inventarja, opreme, posoje
 
 &lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
 Combining multiple APIs into one unified easy to use platform.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kašča</title>
+      <link>https://garaza.io/ekipe/kasca/</link>
+      <pubDate>Tue, 04 Oct 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/kasca/</guid>
+      <description>&lt;p&gt;Kašča is resource managment system - created for scouts by scouts.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aljaž Starc&lt;/li&gt;
+&lt;li&gt;Tilen Komel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
+Kašča je all-in-one (SaaS?) resitev za organizacijo inventarja, opreme, posoje opreme, clanarin, dogodkov, ekip za tekmovanja, etc.. pri Tabornikih.&lt;/p&gt;
+
+&lt;p&gt;Spisano v TypeScriptu z uporabo VueJS-a ter Tailwind{CSS,UI}-ja, backend laufa Node, MongoDB za bazo ter S3 za asset storage. Buildano v containerje, deployed na k8s. Continously - cim vec je automated.&lt;/p&gt;</description>
     </item>
     
     <item>
