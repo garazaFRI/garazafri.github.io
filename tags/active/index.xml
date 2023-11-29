@@ -8,36 +8,6 @@
     <atom:link href="https://garaza.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Planet Lia</title>
-      <link>https://garaza.io/ekipe/planet-lia/</link>
-      <pubDate>Sun, 13 Mar 2016 12:50:21 +0200</pubDate>
-      
-      <guid>https://garaza.io/ekipe/planet-lia/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipe/planet-lia.png&#34; alt=&#34;Ekipa Lia&#34; style=&#34;max-width: 200px&#34; /&gt;&lt;/p&gt;
-
-&lt;div style=&#34;padding: 10px;&#34;&gt;
-Platforma za tekmovanja v programiranju botov, s katerimi se programerji drug proti drugemu borijo v igranju video iger.
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Aljaž Švigelj&lt;/li&gt;
-&lt;li&gt;Gregor Krmelj&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Planet Lia je platforma za tekmovanja v programiranju in umetni inteligenci, kjer tako začetniki kot napredni programerji tekmujejo v programiranju botov v video igrah.
-Njihova naloga je napisati program oz. bota, ki namesto njih igra izbrano video igro in se bori z boti ostalih programerjev.
-Planet Lia ponuja zabaven in interaktiven način vaje programiranja ter hkrati spodbuja druženje in deljenje znanja.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://planetlia.com&#34;&gt;planetlia.com&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>DragonSec SI</title>
       <link>https://garaza.io/ekipe/dragonsec/</link>
       <pubDate>Tue, 04 Oct 2016 12:50:21 +0200</pubDate>

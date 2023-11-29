@@ -8,53 +8,6 @@
     <atom:link href="https://garaza.io/tags/notactive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>API hub</title>
-      <link>https://garaza.io/ekipe/apihub/</link>
-      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
-      
-      <guid>https://garaza.io/ekipe/apihub/</guid>
-      <description>&lt;p&gt;API hub
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gregor Krmelj&lt;/li&gt;
-&lt;li&gt;Jaša Jančar Šturm&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
-Combining multiple APIs into one unified easy to use platform.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cell Designer</title>
-      <link>https://garaza.io/ekipe/celldesigner/</link>
-      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
-      
-      <guid>https://garaza.io/ekipe/celldesigner/</guid>
-      <description>&lt;p&gt;Hitrejše in uporabniku bolj prijazno naročanje genskih konstruktov.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nik Franko&lt;/li&gt;
-&lt;li&gt;Žiga Pušnik&lt;/li&gt;
-&lt;li&gt;Anže Verbič&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Smo študentje Fakultete za računalništvo in informatiko ter Biotehniške
-fakultete. Razvijamo informacijski sistem za lažje in hitrejše naročanje
-genskih konstruktov.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Fundtickr</title>
       <link>https://garaza.io/ekipe/fundhub/</link>
       <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
@@ -144,6 +97,83 @@ Pogovorni asistent uporabnika uči osnov dolgoročnega varčevanja oz. investira
 
 &lt;p&gt;&lt;i class=&#34;fa fa-facebook fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://www.facebook.com/svaroggames/&#34;&gt;Povezava do Facebook profila&lt;/a&gt;&lt;br /&gt;
 &lt;i class=&#34;fa fa-twitter fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://twitter.com/Svarog_Games&#34;&gt;Povezava do Twitter profila&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planet Lia</title>
+      <link>https://garaza.io/ekipe/planet-lia/</link>
+      <pubDate>Sun, 13 Mar 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/planet-lia/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://garaza.io/img/ekipe/planet-lia.png&#34; alt=&#34;Ekipa Lia&#34; style=&#34;max-width: 200px&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#34;padding: 10px;&#34;&gt;
+Platforma za tekmovanja v programiranju botov, s katerimi se programerji drug proti drugemu borijo v igranju video iger.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aljaž Švigelj&lt;/li&gt;
+&lt;li&gt;Gregor Krmelj&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Planet Lia je platforma za tekmovanja v programiranju in umetni inteligenci, kjer tako začetniki kot napredni programerji tekmujejo v programiranju botov v video igrah.
+Njihova naloga je napisati program oz. bota, ki namesto njih igra izbrano video igro in se bori z boti ostalih programerjev.
+Planet Lia ponuja zabaven in interaktiven način vaje programiranja ter hkrati spodbuja druženje in deljenje znanja.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&amp;nbsp;&lt;/i&gt;&lt;a href=&#34;https://planetlia.com&#34;&gt;planetlia.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>API hub</title>
+      <link>https://garaza.io/ekipe/apihub/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/apihub/</guid>
+      <description>&lt;p&gt;API hub
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gregor Krmelj&lt;/li&gt;
+&lt;li&gt;Jaša Jančar Šturm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;
+Combining multiple APIs into one unified easy to use platform.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cell Designer</title>
+      <link>https://garaza.io/ekipe/celldesigner/</link>
+      <pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/celldesigner/</guid>
+      <description>&lt;p&gt;Hitrejše in uporabniku bolj prijazno naročanje genskih konstruktov.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nik Franko&lt;/li&gt;
+&lt;li&gt;Žiga Pušnik&lt;/li&gt;
+&lt;li&gt;Anže Verbič&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Smo študentje Fakultete za računalništvo in informatiko ter Biotehniške
+fakultete. Razvijamo informacijski sistem za lažje in hitrejše naročanje
+genskih konstruktov.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
