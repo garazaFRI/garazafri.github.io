@@ -5,8 +5,62 @@
     <link>https://garaza.io/event/index.xml</link>
     <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Delavnica Android Reversing</title>
+      <link>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt3/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;
+
+&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;
+
+&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/android2024/4097542/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delavnica Android Reversing</title>
+      <link>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt2/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;
+
+&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;
+
+&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/android2024/4097541/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delavnica Android Reversing</title>
+      <link>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt1/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;
+
+&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;
+
+&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/android2024/4097540/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Delavnica Osnove Gita</title>
@@ -313,111 +367,6 @@ competitions.&lt;/p&gt;
 &lt;p&gt;Poleg odličnega poznavanja sistema Windows je Jan tudi strokovnjak za Microsoftove rešitve Active Directory, PowerShell, Exchange, Microsoft System Center ter Office 365, ima pa tudi izkušnje z administracijo Linux sistemov.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/iz-teorije-v-prakso-napadi-na-it-sisteme-in-obramba-pred-hekerji-v-praksi-tickets-96520101221&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>TechBoost 2020 - tehnologija, startupi in podjetništvo</title>
-      <link>https://garaza.io/event/20200303-techboost2020/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20200303-techboost2020/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://techboost.si&#34;&gt;TechBoost 2020&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kdaj in kje&lt;/strong&gt;: od 16:00-19:00 na &lt;a href=&#34;https://fri.uni-lj.si&#34;&gt;UL FRI&lt;/a&gt;, Večna pot 113, Ljubljana&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;: &lt;a href=&#34;https://www.techboost.si/event-2020#schedules&#34;&gt;https://www.techboost.si/event-2020#schedules&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Na dogodku bomo v sproščenem vzdušju spoznali, kako v Sloveniji razviti uspešne tehnološke produkte. Od ideje do Garaže FRI, Ljubljanskega univerzitetnega inkubatorja, sestavljanja ekipe, do prvih strank, investicij, širjenja na zunanje trge in še naprej.&lt;/p&gt;
-
-&lt;p&gt;Izbrane tematike&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kako razviti svoj prvi projekt - za zakulisjem platforme Planet Lia (Lia Game)&lt;/li&gt;
-&lt;li&gt;Zgodba ekipe za uspešnim podjetjem Influee, ki je še v 2018 razvijala svoj produkt v Garaži FRI&lt;/li&gt;
-&lt;li&gt;Vloga Garaže FRI in Ljubljanskega univerzitetnega inkubatorja skozi realne primere&lt;/li&gt;
-&lt;li&gt;Zgodbi dveh uspešnih tehnoloških podjetnikov Jona Butterfielda in Gregorja Rebolja ter njun pogled na priložnosti slovenskih študentov v tehnološkem podjetništvu&lt;/li&gt;
-&lt;li&gt;Vloga investitorjev in okolja pri razvoju študentskega projekta v uspešno podjetje&lt;/li&gt;
-&lt;li&gt;Kakšna je v Sloveniji celotna pot, po kateri lahko študent pripelje svoj produkt od ideje do uspešnega podjetja&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/techboost-2020-tehnologija-startupi-in-podjetnistvo-tickets-91620149333&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
-      <link>https://garaza.io/event/20200226-agilcon-LWC/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20200226-agilcon-LWC/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Matic Repše in Jan Terzer (Agilcon)&lt;/p&gt;
-
-&lt;p&gt;Razvoj frontend-a brez dodatnih JS frameworkov kot so Angular, React, Vue,&amp;hellip;? Ja, z Web components je tudi to mogoče. Spletni razvoj se je dramatično spremenil v zadnjih letih. Danes bolj kot kadarkoli prej, želimo pri razvoju “frontend” aplikacij komponente uporabiti na večih koncih. Kako lahko to naredimo?&lt;/p&gt;
-
-&lt;p&gt;Salesforce je kot vodilni na področju SaaS aplikacij vgradil standard &lt;a href=&#34;https://www.webcomponents.org/introduction&#34;&gt;Web Components&lt;/a&gt; v jedro svoje frontend platforme in predstavil t.i. LWC (Lightning Web Components). Na delavnici se bomo seznanili kaj so Web Components ter kako jih je Salesforce uporabil na svoji enterprise platformi. Za Salesforce je to prelomna tehnologija, kajti pridobljeno znanje na tem področju ni omejeno samo na Salesforce ampak prenosljivo tudi drugam, kjer se uporablja standard Web Components.&lt;/p&gt;
-
-&lt;p&gt;Večino časa delavnice bomo posvetili preizkušanju konceptov in razvoju modulov z Web Components v Salesforce razvojnem okolju. Za delujočo končno rešitev se bomo spogledali še s Salesforcem podatkovnim modelom in zalednim programskim jezikom APEX.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; (Lightning) Web components, SOQL, programski jezik APEX, Lightning Platform&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja (JS, HTML)&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Visual Studio Code (&lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;https://code.visualstudio.com/download&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;Trailhead račun&lt;/a&gt; na: &lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;https://trailhead.salesforce.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Uvod v Web Components&lt;/li&gt;
-&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
-&lt;li&gt;Lightning Web Components (kako začeti)&lt;/li&gt;
-&lt;li&gt;Delni podatkovni model&lt;/li&gt;
-&lt;li&gt;Povezava razvitih komponent s podatki iz Salesforce platforme (uporaba APEX programskega jezika)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lightning-web-components-izdelava-javascript-komponent-za-ponovno-uporabo-tickets-92479826651&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Izdelaj svojega chatbota: s SAP Conversational AI, v samo dveh urah!</title>
-      <link>https://garaza.io/event/20191217-sap-chatbot/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20191217-sap-chatbot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Delavnico smo zaradi odsotnosti predavatelja prestavili na 14.1.2020.&lt;/strong&gt; (Matevž, iskrene čestitke!!! :) )&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 16:00-18:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.)&lt;/p&gt;
-
-&lt;p&gt;Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.&lt;/p&gt;
-
-&lt;p&gt;Ste že kdaj poskusili izdelati svojega chatbota? Vas zanima, kako ga s pomočjo aplikacije &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;SAP Conversational AI&lt;/a&gt; izdelate v samo dveh urah?&lt;/p&gt;
-
-&lt;p&gt;Na delavnici boste pod vodstvom strokovnjakov iz družb &lt;a href=&#34;https://www.sap.com/slovenia/about.html&#34;&gt;SAP Slovenija&lt;/a&gt; in &lt;a href=&#34;https://www.sapphir.si/&#34;&gt;Sapphir d.o.o&lt;/a&gt;. naredili svojega prvega chatbota ter ga naučili nekaj vljudnostnih fraz, pa tudi kakšne šale. Seveda ga boste prav tako naučili kako naj se primerno odzove :)&lt;/p&gt;
-
-&lt;p&gt;Več o tehnološki platformi, na kateri bo nastal vaš chatbot: &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;Conversational AI&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Vljudno vabljeni!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-izdelaj-svojega-chatbota-s-sap-conversational-ai-v-samo-dveh-urah-tickets-84848497139&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

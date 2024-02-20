@@ -107,6 +107,21 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt3/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt2/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20240229-DragonSec-Android-Reverse-Engineering-pt1/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20231214-DragonSec-Git/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -434,6 +449,12 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/tags/android-reversing/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/tags/angular2/</loc>
     <lastmod>2016-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -501,7 +522,7 @@
   
   <url>
     <loc>https://garaza.io/tags/delavnica/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -525,7 +546,13 @@
   
   <url>
     <loc>https://garaza.io/tags/dragonsec-si/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/tags/dynamic-analysis/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -537,7 +564,7 @@
   
   <url>
     <loc>https://garaza.io/event/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -568,6 +595,12 @@
   <url>
     <loc>https://garaza.io/tags/fri-arena/</loc>
     <lastmod>2019-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/tags/frida/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -657,6 +690,12 @@
   <url>
     <loc>https://garaza.io/tags/ms/</loc>
     <lastmod>2016-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/tags/network-inspection/</loc>
+    <lastmod>2024-02-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -805,6 +844,12 @@
   <url>
     <loc>https://garaza.io/tags/startup/</loc>
     <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/tags/static-analysis/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
