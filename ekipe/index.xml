@@ -309,6 +309,31 @@ Kašča je all-in-one (SaaS?) resitev za organizacijo inventarja, opreme, posoje
     </item>
     
     <item>
+      <title>travnik</title>
+      <link>https://garaza.io/ekipe/travnik/</link>
+      <pubDate>Tue, 11 Oct 2016 14:30:00 +0200</pubDate>
+      
+      <guid>https://garaza.io/ekipe/travnik/</guid>
+      <description>&lt;p&gt;Analiziranje metapodatkov v omrežju BitTorrent&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Člani ekipe:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://splet.šijanec.eu.&#34;&gt;Anton Luka Šijanec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Adrian S. Šiška&lt;/li&gt;
+&lt;li&gt;Jurij Sitar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Opis projekta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pišemo programe za pridobivanje metapodatkov o datotekah, ki se prenašajo s protokolom BitTorrent. Pridobljene podatke nato analiziramo in s tem izdelujemo statistiko omrežja BitTorrent &amp;ndash; za kaj se omrežje uporablja; katere datoteke se prenašajo, kdaj se prenašajo in kdo jih prenaša.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://travnik.4a.si.&#34;&gt;Dodatne in aktualnejše informacije&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>OneAuth</title>
       <link>https://garaza.io/ekipe/oneauth/</link>
       <pubDate>Tue, 11 Oct 2016 14:30:00 +0200</pubDate>
