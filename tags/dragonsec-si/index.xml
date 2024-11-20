@@ -65,6 +65,71 @@
     </item>
     
     <item>
+      <title>LA CTF 2024</title>
+      <link>https://garaza.io/event/20240217-la_ctf_2024/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240217-la_ctf_2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja LA CTF 2024.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DiceCTF 2024 Quals</title>
+      <link>https://garaza.io/event/20240202-dicectf_2024_quals/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240202-dicectf_2024_quals/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DiceCTF 2024 Quals.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Insomni&#39;hack teaser 2024</title>
+      <link>https://garaza.io/event/20240120-insomnihack_teaser_2024/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240120-insomnihack_teaser_2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Insomni&amp;rsquo;hack teaser 2024.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IrisCTF 2024</title>
+      <link>https://garaza.io/event/20240106-irisctf_2024/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20240106-irisctf_2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja IrisCTF 2024.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GlacierCTF 2023</title>
+      <link>https://garaza.io/event/20231224-glacierctf_2023/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20231224-glacierctf_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GlacierCTF 2023.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Delavnica Osnove Gita</title>
       <link>https://garaza.io/event/20231214-DragonSec-Git/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
@@ -90,6 +155,32 @@
     </item>
     
     <item>
+      <title>HTB University CTF 2023: Brains &amp; Bytes</title>
+      <link>https://garaza.io/event/20231208-htb_university_ctf_2023_brains_and_bytes/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20231208-htb_university_ctf_2023_brains_and_bytes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja HTB University CTF 2023: Brains &amp;amp; Bytes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LakeCTF Quals 23</title>
+      <link>https://garaza.io/event/20231104-lakectf_quals_23/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20231104-lakectf_quals_23/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
+
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja LakeCTF Quals 23.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FAUST CTF 2023</title>
       <link>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
@@ -107,176 +198,42 @@
     </item>
     
     <item>
-      <title>DCTF</title>
-      <link>https://garaza.io/event/20230415-DragonSec-DCTF23/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <title>CSAW CTF Qualification Round 2023</title>
+      <link>https://garaza.io/event/20230915-csaw_ctf_qualification_round_2023/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://garaza.io/event/20230415-DragonSec-DCTF23/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 9:00 - 22:00&lt;/p&gt;
+      <guid>https://garaza.io/event/20230915-csaw_ctf_qualification_round_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja CSAW CTF Qualification Round 2023.&lt;/p&gt;
 
-&lt;p&gt;Ekipa DragonSec SI letos že tretjič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
-
-&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf2023/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>DragonSec SI &amp; OWASP Maribor meetup</title>
-      <link>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <title>ENOWARS 7</title>
+      <link>https://garaza.io/event/20230722-enowars_7/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://garaza.io/event/20221117-DragonSec-x-OWASP-Slovenia/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 18:00 - 20:00&lt;/p&gt;
+      <guid>https://garaza.io/event/20230722-enowars_7/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P21 ali P22, odvisno od udeležbe&lt;/p&gt;
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja ENOWARS 7.&lt;/p&gt;
 
-&lt;p&gt;Tokratno srečanje ekipe DragonSec SI bomo popestrili z gosti iz društva OWASP Maribor. V sklopu dogodka bomo izvedli 3 predavanja.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Google CTF: turing complete vm with elf realocation instructions&lt;/li&gt;
-&lt;li&gt;Bambi CTF: introduction to A/D CTF competitions&lt;/li&gt;
-&lt;li&gt;OWASP: Varnostni izzivi vsakdana&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/dragonsec-si-owasp-maribor-meetup-tickets-449356125267&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>CSAW Finals 2022</title>
-      <link>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <title>DeadSec CTF 2023</title>
+      <link>https://garaza.io/event/20230519-deadsec_ctf_2023/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://garaza.io/event/20221110-DragonSec-CSAW-Finals-2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 10.11.2022 12:00 - 12.11.2022 0:00&lt;/p&gt;
+      <guid>https://garaza.io/event/20230519-deadsec_ctf_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR16&lt;/p&gt;
+&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DeadSec CTF 2023.&lt;/p&gt;
 
-&lt;p&gt;Člani ekipe DragonSec SI se v sodelovanju z ekipo LosFuzzys s TU Graz udeležujejo finalnega dogodka največjega študentskega CTF tekmovanja CSAW, ki ga organizira ekipa NYUSEC z univerze v New Yorku.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ctf.csaw.io/scoreboard&#34;&gt;&lt;strong&gt;Rezultati&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FRICTF</title>
-      <link>https://garaza.io/event/20221013-DragonSec-FRICTF22/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20221013-DragonSec-FRICTF22/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:00 - 21:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
-
-&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/frictf2022/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DCTF</title>
-      <link>https://garaza.io/event/20220410-DragonSec-DCTF22/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20220410-DragonSec-DCTF22/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 11:00 - 20:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI letos že drugič organizira tekmovanje DCTF, ki bo za razliko od lani letos vključevalo tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
-
-&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf2022/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FRICTF</title>
-      <link>https://garaza.io/event/20211020-DragonSec-FRICTF21/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20211020-DragonSec-FRICTF21/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 20.10.2021 - 22.10.2021; 18:00 - 21:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P15, P16, P17, P21&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
-
-&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://forms.gle/Lw1TWPFe34QuQeh19&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DCTF</title>
-      <link>https://garaza.io/event/20210514-DragonSec-DCTF21/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20210514-DragonSec-DCTF21/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14.5.2021 17:00 - 16.5.2021 23:59&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Online&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI, ki domuje na FRI, letos prvič organizira svoje tekmovanje iz informacijske varnosti CTF (capture the flag), katerega cilj je mladim približati različna področja kibernetske varnosti.&lt;/p&gt;
-
-&lt;p&gt;Vabljeni ste vsi, ki vas zanima kaj informacijska varnost je, ali pa bi radi izboljšali svoja znanja. Tekmovanje bo postreglo z izzivi z več področij informacijske varnosti (reverse engineering, steganografija, spletne aplikacije &amp;hellip;), tako da se zagotovo za vsakega nekaj najde.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://dctf.dragonsec.si&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

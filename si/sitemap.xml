@@ -132,13 +132,63 @@
   </url>
   
   <url>
+    <loc>https://garaza.io/event/20240217-la_ctf_2024/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20240202-dicectf_2024_quals/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20240120-insomnihack_teaser_2024/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20240106-irisctf_2024/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20231224-glacierctf_2023/</loc>
+    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20231214-DragonSec-Git/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://garaza.io/event/20231208-htb_university_ctf_2023_brains_and_bytes/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20231104-lakectf_quals_23/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://garaza.io/event/20230923-DragonSec-FAUST-2022%20copy/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230915-csaw_ctf_qualification_round_2023/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230722-enowars_7/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230519-deadsec_ctf_2023/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -154,6 +204,26 @@
   <url>
     <loc>https://garaza.io/event/20230415-DragonSec-DCTF23/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230317-b01lers_ctf/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230311-utctf_2023/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230218-pbctf_2023/</loc>
+    <lastmod>2023-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://garaza.io/event/20230203-dicectf_2023/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -514,7 +584,7 @@
   
   <url>
     <loc>https://garaza.io/tags/ctf/</loc>
-    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -882,7 +952,7 @@
   
   <url>
     <loc>https://garaza.io/tags/tekmovanje/</loc>
-    <lastmod>2023-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
