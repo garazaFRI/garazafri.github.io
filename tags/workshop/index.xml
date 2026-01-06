@@ -8,6 +8,36 @@
     <atom:link href="https://garaza.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>eBPF Meetup</title>
+      <link>https://garaza.io/event/20260112-eBPF-Workshop/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20260112-eBPF-Workshop/</guid>
+      <description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!
+&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;
+
+&lt;p&gt;Date: 12th January
+Time: 4:15–7:00 PM
+Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)
+Admission: Free | In-person event only!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of a guest lecture for DevOps course at UL FRI, we&amp;rsquo;ll hear from Teodor Podobnik, Cloud Operations Lead at Prewave, and a recognized advocate in the eBPF community (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;). As an inaugural eBPF Fellowship recipient and eBPF Summit Hackathon Judge, he specializes in applying kernel-level insights and performance optimizations to cloud infrastructure. Teodor shares his expertise through active open-source contributions and as the creator of eBPFChirp, a leading newsletter and podcast dedicated to the eBPF ecosystem.&lt;/p&gt;
+
+&lt;p&gt;He will lead you through:
+- A short introduction on why eBPF (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;) is widely used today and how to &amp;ldquo;catch the wave&amp;rdquo;, where it fits, what problems it solves, and why now is the right time to learn it.
+- A hands-on workshop, where you&amp;rsquo;ll learn the fundamentals of eBPF through a guided coding lab, running entirely in the browser, no local setup required.
+- Open, free-form discussions, including real-world stories, practical advice, and lessons learned from applying eBPF in production environments.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re new to eBPF or already familiar with a bit of Linux internals, this session is designed to be practical, accessible, and immediately useful.&lt;/p&gt;
+
+&lt;p&gt;Bring your laptop!&lt;/p&gt;
+
+&lt;p&gt;Who should attend? Anyone working with or interested in cloud-native technologies: developers, architects, students, or anyone eager to dive deeper into kernel engineering. The session will be held either in Slovene or in English, depending on the audience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
       <link>https://garaza.io/event/20200226-agilcon-LWC/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
@@ -667,63 +697,6 @@ prvo Augmented reality aplikacijo.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-mala-sola-obogatene-resnicnosti-2-del-microsoft-hololens-v-praksi-tickets-43543704392&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 2.del</title>
-      <link>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</link>
-      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;
-
-&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;
-
-&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsak problem lahko rešimo na veliko različnih načinov, pravo vprašanje pa je kateri način je za določen problem pravi. To je vse prej kot lahka odločitev. Vedno pa je na koncu pomembna dodana vrednost, ki ga ima naš trud za ljudi, ki bodo naš produkt uporabljali.&lt;/p&gt;
-
-&lt;p&gt;Na delavnici se bomo seznanili z ekosistemom Salesforce in z njim povezana orodja. Poizkusili bomo izvedeti za katere probleme je to optimalna platforma in na kakšen način jo lahko uporabimo pri razvoju naše ideje za razvoj aplikacije (mobilne ali web). Predstavljeno bomo moderno javascript frontend ogrodje Lightning Component, ki ga Salesforce danes uporablja pri razvoju lastnih web in mobilnih aplikacij kot tudi ogrodje, ki ga lahko uporabimo razvijalci za realizacijo naše ideje. Pri tem bomo spoznali tudi tehnologije, ki so širše uporabljene v industriji (javascript, spletni servisi, geolocation API, CSS).
-Delavnica bo potekala v dveh delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in frameworkom Lightning Component in začeli s praktično delavnico, na drugem delu pa bomo dokončali aplikacijo do te mere, da bomo z aplikacijo lahko iskali restavracije v naši bližini.&lt;/p&gt;
-
-&lt;p&gt;Priporočljiva je udeležba na 1. delu delavnice, v kolikor se nameravate udeležiti 2. dela, ni pa to pogoj.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Javascript, Lightning Component Framework, Platforma Force.com (APEX), Webservices (REST), Geolocation API, CSS, Salesforce1 mobilna aplikacija&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;Sublime Text ali Atom ali VSC in nameščen dodatek Mavensmate (&lt;a href=&#34;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&#34;&gt;https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.10/MavensMate-app-v0.0.10-win-x64-setup.zip&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Osnove Salesforce platforme (podatkovna baza, backend, frontend)&lt;/li&gt;
-&lt;li&gt;Lightning Component framework&lt;/li&gt;
-&lt;li&gt;APEX z REST API&lt;/li&gt;
-&lt;li&gt;Priprava okolja za razvoj&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;del&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija geolokacijske komponente&lt;/li&gt;
-&lt;li&gt;Uporaba Lightning Component Framework&lt;/li&gt;
-&lt;li&gt;Dokončanje aplikacije za iskanje restavracij v naši bližini&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-spoznavanje-salesforce-mobilnega-sveta-s-pomocjo-lightning-component-frameworka-tickets-42212127610&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

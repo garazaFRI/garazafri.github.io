@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebpf on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+    <link>https://garaza.io/tags/ebpf/index.xml</link>
+    <description>Recent content in Ebpf on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="https://garaza.io/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>eBPF Meetup</title>
+      <link>https://garaza.io/event/20260112-eBPF-Workshop/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://garaza.io/event/20260112-eBPF-Workshop/</guid>
+      <description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!
+&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;
+
+&lt;p&gt;Date: 12th January
+Time: 4:15–7:00 PM
+Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)
+Admission: Free | In-person event only!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of a guest lecture for DevOps course at UL FRI, we&amp;rsquo;ll hear from Teodor Podobnik, Cloud Operations Lead at Prewave, and a recognized advocate in the eBPF community (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;). As an inaugural eBPF Fellowship recipient and eBPF Summit Hackathon Judge, he specializes in applying kernel-level insights and performance optimizations to cloud infrastructure. Teodor shares his expertise through active open-source contributions and as the creator of eBPFChirp, a leading newsletter and podcast dedicated to the eBPF ecosystem.&lt;/p&gt;
+
+&lt;p&gt;He will lead you through:
+- A short introduction on why eBPF (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;) is widely used today and how to &amp;ldquo;catch the wave&amp;rdquo;, where it fits, what problems it solves, and why now is the right time to learn it.
+- A hands-on workshop, where you&amp;rsquo;ll learn the fundamentals of eBPF through a guided coding lab, running entirely in the browser, no local setup required.
+- Open, free-form discussions, including real-world stories, practical advice, and lessons learned from applying eBPF in production environments.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re new to eBPF or already familiar with a bit of Linux internals, this session is designed to be practical, accessible, and immediately useful.&lt;/p&gt;
+
+&lt;p&gt;Bring your laptop!&lt;/p&gt;
+
+&lt;p&gt;Who should attend? Anyone working with or interested in cloud-native technologies: developers, architects, students, or anyone eager to dive deeper into kernel engineering. The session will be held either in Slovene or in English, depending on the audience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
