@@ -1,250 +1,752 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Event on Garaža FRI | Študentski tehnološki pospeševalnik</title>
-    <link>https://garaza.io/event/index.xml</link>
-    <description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>eBPF Meetup</title>
-      <link>https://garaza.io/event/20260112-eBPF-Workshop/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20260112-eBPF-Workshop/</guid>
-      <description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!
-&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;
-
-&lt;p&gt;Date: 12th January
-Time: 4:15–7:00 PM
-Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)
-Admission: Free | In-person event only!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;As part of a guest lecture for DevOps course at UL FRI, we&amp;rsquo;ll hear from Teodor Podobnik, Cloud Operations Lead at Prewave, and a recognized advocate in the eBPF community (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;). As an inaugural eBPF Fellowship recipient and eBPF Summit Hackathon Judge, he specializes in applying kernel-level insights and performance optimizations to cloud infrastructure. Teodor shares his expertise through active open-source contributions and as the creator of eBPFChirp, a leading newsletter and podcast dedicated to the eBPF ecosystem.&lt;/p&gt;
-
-&lt;p&gt;He will lead you through:
-- A short introduction on why eBPF (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;) is widely used today and how to &amp;ldquo;catch the wave&amp;rdquo;, where it fits, what problems it solves, and why now is the right time to learn it.
-- A hands-on workshop, where you&amp;rsquo;ll learn the fundamentals of eBPF through a guided coding lab, running entirely in the browser, no local setup required.
-- Open, free-form discussions, including real-world stories, practical advice, and lessons learned from applying eBPF in production environments.&lt;/p&gt;
-
-&lt;p&gt;Whether you&amp;rsquo;re new to eBPF or already familiar with a bit of Linux internals, this session is designed to be practical, accessible, and immediately useful.&lt;/p&gt;
-
-&lt;p&gt;Bring your laptop!&lt;/p&gt;
-
-&lt;p&gt;Who should attend? Anyone working with or interested in cloud-native technologies: developers, architects, students, or anyone eager to dive deeper into kernel engineering. The session will be held either in Slovene or in English, depending on the audience.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FriCTF25</title>
-      <link>https://garaza.io/event/20251002-DragonSec-FRICTF25/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20251002-DragonSec-FRICTF25/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Začetek&lt;/strong&gt;: 15:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;
-
-&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>snakeCTF 2025 Quals</title>
-      <link>https://garaza.io/event/20250829-snakectf_2025_quals/</link>
-      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250829-snakectf_2025_quals/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja snakeCTF 2025 Quals.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>justCTF 2025</title>
-      <link>https://garaza.io/event/20250802-justctf_2025/</link>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250802-justctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja justCTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DeadSec CTF 2025</title>
-      <link>https://garaza.io/event/20250726-deadsec_ctf_2025/</link>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250726-deadsec_ctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DeadSec CTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>L3akCTF 2025</title>
-      <link>https://garaza.io/event/20250711-l3akctf_2025/</link>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250711-l3akctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja L3akCTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Google Capture The Flag 2025</title>
-      <link>https://garaza.io/event/20250627-google_capture_the_flag_2025/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250627-google_capture_the_flag_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Google Capture The Flag 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GPN CTF 2025</title>
-      <link>https://garaza.io/event/20250620-gpn_ctf_2025/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250620-gpn_ctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GPN CTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Grey Cat The Flag 2025</title>
-      <link>https://garaza.io/event/20250531-grey_cat_the_flag_2025/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250531-grey_cat_the_flag_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Grey Cat The Flag 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>UniVsThreats 25 CTF</title>
-      <link>https://garaza.io/event/20250503-univsthreats_25_ctf/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250503-univsthreats_25_ctf/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja UniVsThreats 25 CTF.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>b01lers CTF 2025</title>
-      <link>https://garaza.io/event/20250419-b01lers_ctf_2025/</link>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250419-b01lers_ctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja b01lers CTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>squ1rrel CTF 2025</title>
-      <link>https://garaza.io/event/20250405-squ1rrel_ctf_2025/</link>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250405-squ1rrel_ctf_2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja squ1rrel CTF 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DCTF25</title>
-      <link>https://garaza.io/event/20250329-DragonSec-DCTF25/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20250329-DragonSec-DCTF25/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 29. 3. 2025 9:30 - 30. 3. 2025 12:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI letos že petič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;
-
-&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Priporočeno:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kali.org/get-kali/#kali-virtual-machines&#34;&gt;Kali virtualka&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://events.dragonsec.si/dctf25/&#34;&gt;&lt;strong&gt;Prijava na dogodek&lt;/strong&gt;&lt;/a&gt; (število vstopnic je omejeno)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GlacierCTF 2024</title>
-      <link>https://garaza.io/event/20241122-glacierctf_2024/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20241122-glacierctf_2024/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GlacierCTF 2024.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>FAUST CTF 2024</title>
-      <link>https://garaza.io/event/20240928-faust_ctf_2024/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20240928-faust_ctf_2024/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;
-
-&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja FAUST CTF 2024.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Event on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+		<link>https://garaza.io/event/</link>
+		<description>Recent content in Event on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+		<generator>Hugo</generator>
+		<language>si</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/event/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>eBPF Meetup</title>
+				<link>https://garaza.io/event/20260112-ebpf-workshop/</link>
+				<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20260112-ebpf-workshop/</guid>
+				<description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!&#xA;&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;&#xA;&lt;p&gt;Date: 12th January&#xA;Time: 4:15–7:00 PM&#xA;Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)&#xA;Admission: Free | In-person event only!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FriCTF25</title>
+				<link>https://garaza.io/event/20251002-dragonsec-frictf25/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20251002-dragonsec-frictf25/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Začetek&lt;/strong&gt;: 15:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;&#xA;&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>snakeCTF 2025 Quals</title>
+				<link>https://garaza.io/event/20250829-snakectf_2025_quals/</link>
+				<pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250829-snakectf_2025_quals/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja snakeCTF 2025 Quals.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>justCTF 2025</title>
+				<link>https://garaza.io/event/20250802-justctf_2025/</link>
+				<pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250802-justctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja justCTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DeadSec CTF 2025</title>
+				<link>https://garaza.io/event/20250726-deadsec_ctf_2025/</link>
+				<pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250726-deadsec_ctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DeadSec CTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>L3akCTF 2025</title>
+				<link>https://garaza.io/event/20250711-l3akctf_2025/</link>
+				<pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250711-l3akctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja L3akCTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Google Capture The Flag 2025</title>
+				<link>https://garaza.io/event/20250627-google_capture_the_flag_2025/</link>
+				<pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250627-google_capture_the_flag_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Google Capture The Flag 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GPN CTF 2025</title>
+				<link>https://garaza.io/event/20250620-gpn_ctf_2025/</link>
+				<pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250620-gpn_ctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GPN CTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Grey Cat The Flag 2025</title>
+				<link>https://garaza.io/event/20250531-grey_cat_the_flag_2025/</link>
+				<pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250531-grey_cat_the_flag_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Grey Cat The Flag 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>UniVsThreats 25 CTF</title>
+				<link>https://garaza.io/event/20250503-univsthreats_25_ctf/</link>
+				<pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250503-univsthreats_25_ctf/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja UniVsThreats 25 CTF.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>b01lers CTF 2025</title>
+				<link>https://garaza.io/event/20250419-b01lers_ctf_2025/</link>
+				<pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250419-b01lers_ctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja b01lers CTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>squ1rrel CTF 2025</title>
+				<link>https://garaza.io/event/20250405-squ1rrel_ctf_2025/</link>
+				<pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250405-squ1rrel_ctf_2025/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja squ1rrel CTF 2025.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCTF25</title>
+				<link>https://garaza.io/event/20250329-dragonsec-dctf25/</link>
+				<pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20250329-dragonsec-dctf25/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 29. 3. 2025 9:30 - 30. 3. 2025 12:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI letos že petič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;&#xA;&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GlacierCTF 2024</title>
+				<link>https://garaza.io/event/20241122-glacierctf_2024/</link>
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20241122-glacierctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GlacierCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FAUST CTF 2024</title>
+				<link>https://garaza.io/event/20240928-faust_ctf_2024/</link>
+				<pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240928-faust_ctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja FAUST CTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CSAW CTF Qualification Round 2024</title>
+				<link>https://garaza.io/event/20240906-csaw_ctf_qualification_round_2024/</link>
+				<pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240906-csaw_ctf_qualification_round_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja CSAW CTF Qualification Round 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SekaiCTF 2024</title>
+				<link>https://garaza.io/event/20240823-sekaictf_2024/</link>
+				<pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240823-sekaictf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja SekaiCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CTFZone 2024 Quals</title>
+				<link>https://garaza.io/event/20240810-ctfzone_2024_quals/</link>
+				<pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240810-ctfzone_2024_quals/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja CTFZone 2024 Quals.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>vsCTF 2024</title>
+				<link>https://garaza.io/event/20240614-vsctf_2024/</link>
+				<pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240614-vsctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja vsCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GPN CTF 2024</title>
+				<link>https://garaza.io/event/20240531-gpn_ctf_2024/</link>
+				<pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240531-gpn_ctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GPN CTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ångstromCTF 2024</title>
+				<link>https://garaza.io/event/20240525-%C3%A5ngstromctf_2024/</link>
+				<pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240525-%C3%A5ngstromctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja ångstromCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>BYUCTF 2024</title>
+				<link>https://garaza.io/event/20240517-byuctf_2024/</link>
+				<pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240517-byuctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja BYUCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TBTL CTF 2024</title>
+				<link>https://garaza.io/event/20240511-tbtl_ctf_2024/</link>
+				<pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240511-tbtl_ctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja TBTL CTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCTF24</title>
+				<link>https://garaza.io/event/20240413-dragonsec-dctf24/</link>
+				<pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240413-dragonsec-dctf24/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 9:00 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI letos že četrtič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;&#xA;&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DamCTF 2024</title>
+				<link>https://garaza.io/event/20240406-damctf_2024/</link>
+				<pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240406-damctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DamCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>UTCTF 2024</title>
+				<link>https://garaza.io/event/20240330-utctf_2024/</link>
+				<pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240330-utctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja UTCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica Android Reversing 3/3</title>
+				<link>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt3/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt3/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;&#xA;&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;&#xA;&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>KalmarCTF 2024</title>
+				<link>https://garaza.io/event/20240315-kalmarctf_2024/</link>
+				<pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240315-kalmarctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja KalmarCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica Android Reversing 2/3</title>
+				<link>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt2/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;&#xA;&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;&#xA;&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>osu!gaming CTF 2024</title>
+				<link>https://garaza.io/event/20240301-osugaming_ctf_2024/</link>
+				<pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240301-osugaming_ctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja osu!gaming CTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica Android Reversing 1/3</title>
+				<link>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt1/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240229-dragonsec-android-reverse-engineering-pt1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;&#xA;&lt;p&gt;Društvo DragonSec SI vabi na delavnico Android Reversing.&lt;/p&gt;&#xA;&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati z Android Reversingom.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LA CTF 2024</title>
+				<link>https://garaza.io/event/20240217-la_ctf_2024/</link>
+				<pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240217-la_ctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja LA CTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DiceCTF 2024 Quals</title>
+				<link>https://garaza.io/event/20240202-dicectf_2024_quals/</link>
+				<pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240202-dicectf_2024_quals/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DiceCTF 2024 Quals.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Insomni&#39;hack teaser 2024</title>
+				<link>https://garaza.io/event/20240120-insomnihack_teaser_2024/</link>
+				<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240120-insomnihack_teaser_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja Insomni&amp;rsquo;hack teaser 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IrisCTF 2024</title>
+				<link>https://garaza.io/event/20240106-irisctf_2024/</link>
+				<pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20240106-irisctf_2024/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja IrisCTF 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GlacierCTF 2023</title>
+				<link>https://garaza.io/event/20231224-glacierctf_2023/</link>
+				<pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20231224-glacierctf_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja GlacierCTF 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica Osnove Gita</title>
+				<link>https://garaza.io/event/20231214-dragonsec-git/</link>
+				<pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20231214-dragonsec-git/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:15 - 19:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P22&lt;/p&gt;&#xA;&lt;p&gt;Društvo DragonSec SI vabi na delavnico o osnovah sistema Git.&lt;/p&gt;&#xA;&lt;p&gt;Delavnica je namenjena vsem, ki se želijo pobližje spoznati s sistemom Git ali ponoviti njegove osnove.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Obvezna oprema:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prenosni računalnik&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>HTB University CTF 2023: Brains &amp; Bytes</title>
+				<link>https://garaza.io/event/20231208-htb_university_ctf_2023_brains_and_bytes/</link>
+				<pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20231208-htb_university_ctf_2023_brains_and_bytes/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja HTB University CTF 2023: Brains &amp;amp; Bytes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LakeCTF Quals 23</title>
+				<link>https://garaza.io/event/20231104-lakectf_quals_23/</link>
+				<pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20231104-lakectf_quals_23/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja LakeCTF Quals 23.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FAUST CTF 2023</title>
+				<link>https://garaza.io/event/20230923-dragonsec-faust-2022-copy/</link>
+				<pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230923-dragonsec-faust-2022-copy/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 23.9.2023 14:00 - 23.9.2023 23:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR05, PR06&lt;/p&gt;&#xA;&lt;p&gt;Člani ekipe DragonSec SI udeležujejo Attack/Defense CTF tekmovanja &lt;a href=&#34;https://2023.faustctf.net/&#34;&gt;FAUST CTF&lt;/a&gt;, ki ga organizira ekipa &lt;a href=&#34;https://faust.cs.fau.de/&#34;&gt;FAUST&lt;/a&gt; s &lt;a href=&#34;https://www.fau.de/&#34;&gt;FAU Erlangen-Nuremberg&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CSAW CTF Qualification Round 2023</title>
+				<link>https://garaza.io/event/20230915-csaw_ctf_qualification_round_2023/</link>
+				<pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230915-csaw_ctf_qualification_round_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja CSAW CTF Qualification Round 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ENOWARS 7</title>
+				<link>https://garaza.io/event/20230722-enowars_7/</link>
+				<pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230722-enowars_7/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja ENOWARS 7.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DeadSec CTF 2023</title>
+				<link>https://garaza.io/event/20230519-deadsec_ctf_2023/</link>
+				<pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230519-deadsec_ctf_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja DeadSec CTF 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sportradar’s Integrity Services: market-leading technology, driven by machine-learning</title>
+				<link>https://garaza.io/event/20230509-sportradar-integrity-services/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230509-sportradar-integrity-services/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 16h – 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P02&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Simon Hočevar (Product Manager) in Rok Resman (Lead Software Developer), Sportradar&lt;/p&gt;&#xA;&lt;p&gt;Sportradar is a global leader in supplying sports data. What you may not realise,&#xA;though, is Sportradar’s Integrity Services are applying market-leading&#xA;technology, driven by machine-learning, to detect and report instances of match-&#xA;fixing to sports federations globally. Here we explain why we do this, and how&#xA;advanced technology helps our team of analysts protect the integrity of sports&#xA;competitions.&lt;/p&gt;&#xA;&lt;p&gt;Gre za redek vpogled v delo oddelka, ki se ukvarja s preprečevanjem prevar v športu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>&#39;Jack of all trades&#39; ali kako lahko izgleda vsakdan in kariera varnostnega eksperta</title>
+				<link>https://garaza.io/event/20230418-sportradar/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230418-sportradar/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;OBVESTILO: Predavanje je zaradi bolezni predavatelja odpovedano in bo prestavljeno na kasnejši termin.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 16h – 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P04&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: dr. Blaž Babnik, vodja varnosti za MTS, Sportradar&lt;/p&gt;&#xA;&lt;p&gt;Vedno ko govorimo o kibernetski ali informacijski varnosti imamo romantične predstave o hekerjih in adrenalinskih dogodkih. Profili so tako iskani, da je na trgu velika zmeda in ter razkorak med ponudbo in povpraševanjem ustreznega kadra. V predavanju si bomo pogledali kako ujeti veter v jadra kariere ter združiti lastne hobije ter interes za kibernetsko varnost z vsakdanjim delom. Deležni bomo tudi nekaj praktičnih nasvetov, ki nam lahko koristijo pri strokovnem in osebnostnem razvoju in izboljšanju kariernih možnosti.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCTF</title>
+				<link>https://garaza.io/event/20230415-dragonsec-dctf23/</link>
+				<pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230415-dragonsec-dctf23/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 9:00 - 22:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI letos že tretjič organizira tekmovanje DCTF, ki zopet vključuje tudi dogodek v živo. Ne zamudite!&lt;/p&gt;&#xA;&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>b01lers CTF</title>
+				<link>https://garaza.io/event/20230317-b01lers_ctf/</link>
+				<pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230317-b01lers_ctf/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja b01lers CTF.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>UTCTF 2023</title>
+				<link>https://garaza.io/event/20230311-utctf_2023/</link>
+				<pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230311-utctf_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja UTCTF 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>pbctf 2023</title>
+				<link>https://garaza.io/event/20230218-pbctf_2023/</link>
+				<pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230218-pbctf_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se udeležuje tekmovanja pbctf 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DiceCTF 2023</title>
+				<link>https://garaza.io/event/20230203-dicectf_2023/</link>
+				<pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20230203-dicectf_2023/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI se v sodelovanju z ekipo LosFuzzys s TU Graz udeležuje tekmovanja DiceCTF 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DragonSec SI &amp; OWASP Maribor meetup</title>
+				<link>https://garaza.io/event/20221117-dragonsec-x-owasp-slovenia/</link>
+				<pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20221117-dragonsec-x-owasp-slovenia/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 18:00 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P21 ali P22, odvisno od udeležbe&lt;/p&gt;&#xA;&lt;p&gt;Tokratno srečanje ekipe DragonSec SI bomo popestrili z gosti iz društva OWASP Maribor. V sklopu dogodka bomo izvedli 3 predavanja.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Google CTF: turing complete vm with elf realocation instructions&lt;/li&gt;&#xA;&lt;li&gt;Bambi CTF: introduction to A/D CTF competitions&lt;/li&gt;&#xA;&lt;li&gt;OWASP: Varnostni izzivi vsakdana&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+			</item>
+			<item>
+				<title>CSAW Finals 2022</title>
+				<link>https://garaza.io/event/20221110-dragonsec-csaw-finals-2022/</link>
+				<pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20221110-dragonsec-csaw-finals-2022/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 10.11.2022 12:00 - 12.11.2022 0:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: PR16&lt;/p&gt;&#xA;&lt;p&gt;Člani ekipe DragonSec SI se v sodelovanju z ekipo LosFuzzys s TU Graz udeležujejo finalnega dogodka največjega študentskega CTF tekmovanja CSAW, ki ga organizira ekipa NYUSEC z univerze v New Yorku.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FRICTF</title>
+				<link>https://garaza.io/event/20221013-dragonsec-frictf22/</link>
+				<pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20221013-dragonsec-frictf22/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 17:00 - 21:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;&#xA;&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCTF</title>
+				<link>https://garaza.io/event/20220410-dragonsec-dctf22/</link>
+				<pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20220410-dragonsec-dctf22/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 11:00 - 20:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P1, računalniške učilnice&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI letos že drugič organizira tekmovanje DCTF, ki bo za razliko od lani letos vključevalo tudi dogodek v živo. Ne zamudite!&lt;/p&gt;&#xA;&lt;p&gt;Na dogodku se bodo odvijala predavanja na temo kibernetske varnosti in tekmovanje CTF (Capture the Flag), kjer se bodo udeleženci lahko preizkusili v hekerskih napadih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FRICTF</title>
+				<link>https://garaza.io/event/20211020-dragonsec-frictf21/</link>
+				<pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20211020-dragonsec-frictf21/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 20.10.2021 - 22.10.2021; 18:00 - 21:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: P15, P16, P17, P21&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI na UL FRI organizira tekmovanje iz kibernetske varnosti FriCTF, ki je namenjeno tistim, ki jih zanima področje kibernetske varnosti, ampak ne vedo kje bi začeli.&lt;/p&gt;&#xA;&lt;p&gt;Pričakujete lahko naloge, ki zahtevajo znanja iz različnih panog kibernetske varnosti, kot tudi kratke predstavitve tekmovanj CTF. Reševanje nalog bo vodeno.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCTF</title>
+				<link>https://garaza.io/event/20210514-dragonsec-dctf21/</link>
+				<pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20210514-dragonsec-dctf21/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14.5.2021 17:00 - 16.5.2021 23:59&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Online&lt;/p&gt;&#xA;&lt;p&gt;Ekipa DragonSec SI, ki domuje na FRI, letos prvič organizira svoje tekmovanje iz informacijske varnosti CTF (capture the flag), katerega cilj je mladim približati različna področja kibernetske varnosti.&lt;/p&gt;&#xA;&lt;p&gt;Vabljeni ste vsi, ki vas zanima kaj informacijska varnost je, ali pa bi radi izboljšali svoja znanja. Tekmovanje bo postreglo z izzivi z več področij informacijske varnosti (reverse engineering, steganografija, spletne aplikacije &amp;hellip;), tako da se zagotovo za vsakega nekaj najde.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Iz teorije v prakso: Napadi na IT-sisteme in obramba pred hekerji v praksi</title>
+				<link>https://garaza.io/event/20200310-nil-napad-obramba-it/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20200310-nil-napad-obramba-it/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P20&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Daniel Grah in Jan Češčut, varnostna analitika, NIL d.o.o. (del danske skupine Conscia Holding A/S)&lt;/p&gt;&#xA;&lt;p&gt;Kibernetski kriminal je predvsem »velik biznis«, zato so v IT-ju strokovnjaki za kibernetsko obrambo izredno iskani in med najbolje plačanimi. Če te zanima kariera na področju kibernetske varnosti in bi si želel/-a v praksi spoznati napade na IT-okolja (in seveda tudi obrambo), te vabimo na delavnico!&lt;/p&gt;&#xA;&lt;p&gt;NIL-ova varnostna analitika Jan Češčut in Danijel Grah bosta demonstrirala nekatere moderne tehnike napadov in kaj se v IT-sistemu začne dogajati, ko napadalci uspešno vdrejo. Pokazala bosta tudi, kako ob takšnih dogodkih reagira obramba: tehnike in ogrodja, s katerimi lahko napadalcem sledimo in preprečimo, da sploh pride do resnejših posledic.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TechBoost 2020 - tehnologija, startupi in podjetništvo</title>
+				<link>https://garaza.io/event/20200303-techboost2020/</link>
+				<pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20200303-techboost2020/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://techboost.si&#34;&gt;TechBoost 2020&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kdaj in kje&lt;/strong&gt;: od 16:00-19:00 na &lt;a href=&#34;https://fri.uni-lj.si&#34;&gt;UL FRI&lt;/a&gt;, Večna pot 113, Ljubljana&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program&lt;/strong&gt;: &lt;a href=&#34;https://www.techboost.si/event-2020#schedules&#34;&gt;https://www.techboost.si/event-2020#schedules&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Na dogodku bomo v sproščenem vzdušju spoznali, kako v Sloveniji razviti uspešne tehnološke produkte. Od ideje do Garaže FRI, Ljubljanskega univerzitetnega inkubatorja, sestavljanja ekipe, do prvih strank, investicij, širjenja na zunanje trge in še naprej.&lt;/p&gt;&#xA;&lt;p&gt;Izbrane tematike&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kako razviti svoj prvi projekt - za zakulisjem platforme Planet Lia (Lia Game)&lt;/li&gt;&#xA;&lt;li&gt;Zgodba ekipe za uspešnim podjetjem Influee, ki je še v 2018 razvijala svoj produkt v Garaži FRI&lt;/li&gt;&#xA;&lt;li&gt;Vloga Garaže FRI in Ljubljanskega univerzitetnega inkubatorja skozi realne primere&lt;/li&gt;&#xA;&lt;li&gt;Zgodbi dveh uspešnih tehnoloških podjetnikov Jona Butterfielda in Gregorja Rebolja ter njun pogled na priložnosti slovenskih študentov v tehnološkem podjetništvu&lt;/li&gt;&#xA;&lt;li&gt;Vloga investitorjev in okolja pri razvoju študentskega projekta v uspešno podjetje&lt;/li&gt;&#xA;&lt;li&gt;Kakšna je v Sloveniji celotna pot, po kateri lahko študent pripelje svoj produkt od ideje do uspešnega podjetja&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
+				<link>https://garaza.io/event/20200226-agilcon-lwc/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20200226-agilcon-lwc/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Matic Repše in Jan Terzer (Agilcon)&lt;/p&gt;&#xA;&lt;p&gt;Razvoj frontend-a brez dodatnih JS frameworkov kot so Angular, React, Vue,&amp;hellip;? Ja, z Web components je tudi to mogoče. Spletni razvoj se je dramatično spremenil v zadnjih letih. Danes bolj kot kadarkoli prej, želimo pri razvoju “frontend” aplikacij komponente uporabiti na večih koncih. Kako lahko to naredimo?&lt;/p&gt;&#xA;&lt;p&gt;Salesforce je kot vodilni na področju SaaS aplikacij vgradil standard &lt;a href=&#34;https://www.webcomponents.org/introduction&#34;&gt;Web Components&lt;/a&gt; v jedro svoje frontend platforme in predstavil t.i. LWC (Lightning Web Components). Na delavnici se bomo seznanili kaj so Web Components ter kako jih je Salesforce uporabil na svoji enterprise platformi. Za Salesforce je to prelomna tehnologija, kajti pridobljeno znanje na tem področju ni omejeno samo na Salesforce ampak prenosljivo tudi drugam, kjer se uporablja standard Web Components.&lt;/p&gt;&#xA;&lt;p&gt;Večino časa delavnice bomo posvetili preizkušanju konceptov in razvoju modulov z Web Components v Salesforce razvojnem okolju. Za delujočo končno rešitev se bomo spogledali še s Salesforcem podatkovnim modelom in zalednim programskim jezikom APEX.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; (Lightning) Web components, SOQL, programski jezik APEX, Lightning Platform&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Izdelaj svojega chatbota: s SAP Conversational AI, v samo dveh urah!</title>
+				<link>https://garaza.io/event/20191217-sap-chatbot/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20191217-sap-chatbot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Delavnico smo zaradi odsotnosti predavatelja prestavili na 14.1.2020.&lt;/strong&gt; (Matevž, iskrene čestitke!!! :) )&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 16:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.)&lt;/p&gt;&#xA;&lt;p&gt;Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni 24/7, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.&lt;/p&gt;&#xA;&lt;p&gt;Ste že kdaj poskusili izdelati svojega chatbota? Vas zanima, kako ga s pomočjo aplikacije &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;SAP Conversational AI&lt;/a&gt; izdelate v samo dveh urah?&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici boste pod vodstvom strokovnjakov iz družb &lt;a href=&#34;https://www.sap.com/slovenia/about.html&#34;&gt;SAP Slovenija&lt;/a&gt; in &lt;a href=&#34;https://www.sapphir.si/&#34;&gt;Sapphir d.o.o&lt;/a&gt;. naredili svojega prvega chatbota ter ga naučili nekaj vljudnostnih fraz, pa tudi kakšne šale. Seveda ga boste prav tako naučili kako naj se primerno odzove :)&lt;/p&gt;&#xA;&lt;p&gt;Več o tehnološki platformi, na kateri bo nastal vaš chatbot: &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;Conversational AI&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Vljudno vabljeni!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Vue.js v praksi</title>
+				<link>https://garaza.io/event/20190416-celtra-vuejs/</link>
+				<pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190416-celtra-vuejs/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
+				<link>https://garaza.io/event/20190313-agilcon-chatko/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;&#xA;&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;&#xA;&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;&#xA;&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;&#xA;&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Workshop: So you want to build robots? (2 Days)</title>
+				<link>https://garaza.io/event/20190219-ubiquity-robotics-1/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190219-ubiquity-robotics-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Garaza FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Dr. David Crawley, Ubiquity Robotics&lt;/p&gt;&#xA;&lt;p&gt;If you wanted to build a robot, what would you build? Imagine having a robotic platform that has all the basic elements (drive train, motor controllers, software stack) already in place. Imagine not needing to spend time, effort and money getting the basics right, but being able to just sit down and start building your own robot app quickly and easily. In this event you will get to try out the Magni platform, a &lt;a href=&#34;http://www.ros.org/&#34;&gt;ROS&lt;/a&gt;-based ground rover than can carry 100 kg. &lt;a href=&#34;https://ubiquityrobotics.com/&#34;&gt;Ubiquity Robotics&lt;/a&gt;, the makers of &lt;a href=&#34;https://ubiquityrobotics.com/magni.html&#34;&gt;Magni&lt;/a&gt;, challenge you to build something cool using it!&lt;/p&gt;&#xA;&lt;p&gt;Suggested ideas are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a cocktail waiter robot,&lt;/li&gt;&#xA;&lt;li&gt;a cookie delivery robot,&lt;/li&gt;&#xA;&lt;li&gt;a dog chasing robot and&lt;/li&gt;&#xA;&lt;li&gt;robot baggage porter.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Your own ideas are warmly welcomed. (And yes, it &lt;a href=&#34;https://ubiquityrobotics.com/#applications&#34;&gt;can be done&lt;/a&gt; in 2 days!) &lt;strong&gt;Pizza and silly prizes will be provided.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ubiquity Robotics is a start up that really did come out of a garage in Silicon Valley. There will be time to talk about life and business in Silicon Valley.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;laptop (w/Linux or w/Linux VM on it - you can &lt;a href=&#34;https://downloads.ubiquityrobotics.com/&#34;&gt;download a suitable VM here&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;programming skills&lt;/li&gt;&#xA;&lt;li&gt;no robot/ROS knowledge necessary!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Lia - Sprogramiraj bota in tekmuj na Lia turnirju 2019</title>
+				<link>https://garaza.io/event/20190218-lia-turnir-2019/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190218-lia-turnir-2019/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14:00 - 16:00&lt;/p&gt;&#xA;&lt;p&gt;Se želiš pridružiti &lt;a href=&#34;https://www.liagame.com/tournament&#34;&gt;Lia turnirju 2019&lt;/a&gt; pa ne veš kje začeti?&#xA;Ali si zgolj želiš pridobiti nekaj prednosti in prevzeti zgodnje vodstvo?&#xA;Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam in se pridružili spletni lestvici.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Facebook infrastructure: Under the Hood</title>
+				<link>https://garaza.io/event/20181220-fb2-ntp-dns/</link>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181220-fb2-ntp-dns/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 18:00 - 19:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. Rok Papež, a Production Engineer from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;Facebook&amp;rsquo;s NTP and DNS infrastructure&lt;/strong&gt;. Talks will be on scaling and resiliency of the NTP service, how Facebook load balances traffic using DNS RUM (Real User Metrics) and offloading of TLS session establishment. Talk will also detail DNS data pipeline and the internal structure of DNS server.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Production Engineering at Facebook</title>
+				<link>https://garaza.io/event/20181220-fb-prod-eng/</link>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181220-fb-prod-eng/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: 15:15 – 17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Classroom P22 and Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Rok Papež, Production Engineer, Facebook&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Facebook&lt;/strong&gt;, the biggest social network, has more than 2.2 Billion monthly active users and thus has to operate a large and scalable infrastructure. &lt;strong&gt;Rok Papež&lt;/strong&gt;, a &lt;strong&gt;Production Engineer&lt;/strong&gt; from Facebook&amp;rsquo;s European HQ in Dublin, will talk about &lt;strong&gt;how Facebook looks from the inside&lt;/strong&gt;. Focus will be on the infrastructure that enables all your &amp;ldquo;likes”, Facebook&amp;rsquo;s mission, innovation roadmap, values and culture. It will be followed up with demystifying of what Production engineering is and how it relates to DevOps and Software engineering; we’ll touch upon the importance of teamwork and the nurturing of the &amp;ldquo;No Blame” culture (yes, that applies even when site is unavailable ;)).&lt;/p&gt;&#xA;&lt;p&gt;In the second part of the talk he will share some inside tips on &lt;strong&gt;how to prepare and excel at typical coding interviews&lt;/strong&gt; that all big tech firms use to identify the best people.&lt;/p&gt;&#xA;&lt;p&gt;After the talk there will be an &lt;strong&gt;AMA ( &amp;ldquo;Ask me anything”) session&lt;/strong&gt; in Garaža&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Iz teorije v prakso: Lovljenje hekerjev ali kako postati varnostni analitik</title>
+				<link>https://garaza.io/event/20181212-nil-soc/</link>
+				<pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181212-nil-soc/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Vid Tovornik Marolt, Analitik kibernetske varnosti, NIL d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Vas zanima kariera na področju kibernetske varnosti, a ne veste, kje in kako začeti? Katera znanja vam pri tem najbolj koristijo in kje jih pridobite? Bi radi spoznali najboljše slovenske strokovnjake za kibernetsko varnost ter izvedeli iz prve roke, kaj točno delajo in s kakšnimi incidenti se srečujejo? Bi se jim želeli pridružiti?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Vue.js v praksi</title>
+				<link>https://garaza.io/event/20181211-celtra-vuejs/</link>
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181211-celtra-vuejs/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Iz teorije v prakso: Kako programirati naprave, ki držijo pokonci Internet?</title>
+				<link>https://garaza.io/event/20181120-nil-nso/</link>
+				<pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181120-nil-nso/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: ob 14:00 – 15:30&#xA;&lt;strong&gt;Kje&lt;/strong&gt;: Predavalnica P19 in Garaža FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: &lt;a href=&#34;https://www.nil.com/sl/o-nil-u/ekipa/bostjan-sustar-2/&#34;&gt;Boštjan Šuštar&lt;/a&gt;, IT arhitekt, NIL&lt;/p&gt;&#xA;&lt;p&gt;Netflix na polnih obratih zasede tudi do 30% internetnega prometa. Potem še k temu prištejte vse ostalo, kar je odvisno od Interneta: Google, Tinderje, Facebooke, Talking Tome, države, manjša in večja podjetja, pametne avte, televizije in proizvodnje, vaše telefone in spletne strani sosedov, slike mačk in selfije. Kako se nastavi, da vse to bolj ali manj stabilno, varno in hitro deluje? Kako se programira ta kompleksen sistem aplikacij in omrežij? Katera orodja se za to uporabljajo? Zakaj vam o tem na fakultetah ne povedo veliko?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+				<link>https://garaza.io/event/20181017-agilcon-iot-2/</link>
+				<pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181017-agilcon-iot-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+				<link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
+				<pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hackathon: Celtra</title>
+				<link>https://garaza.io/event/20181008-celtra-hackaton/</link>
+				<pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181008-celtra-hackaton/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Uvodno predavanje&lt;/strong&gt;: 8.10.2018, ob 10h v Garaži FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kdaj&lt;/strong&gt;: soboto 20. in nedeljo 21. oktobra 2018&#xA;&lt;strong&gt;Kje&lt;/strong&gt;: Celtra Office, Kongresni trg 3&#xA;&lt;strong&gt;Kako&lt;/strong&gt;: individualno, pari ali ekipa z max. 3 člani&lt;/p&gt;&#xA;&lt;p&gt;Si pripravljen/a preživeti nor vikend in ustvariti nekaj kreativnega ter za svoje delo morda odpotovati v San Francisco?&lt;/p&gt;&#xA;&lt;p&gt;Poleg tega te čaka še pripravništvo v eni izmed vodilnih podjetij na področju razvoja kreativne tehnologije za mobilno oglaševanje na spletnih straneh in znotraj aplikacij.&lt;/p&gt;&#xA;&lt;p&gt;Če si za akcijo, potem je Celtrin Hackathon prava odločitev zate.&lt;/p&gt;&#xA;&lt;p&gt;Za vse informacije in prijavo klikni na hackathon.celtra.com, ali pa se udeleži uvodnega predavanja, &lt;strong&gt;v ponedeljek, 08.10.2018, ob 10.00 uri, v Garaži FRI&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+				<link>https://garaza.io/event/20180628-agilcon-iot-2/</link>
+				<pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180628-agilcon-iot-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+				<link>https://garaza.io/event/20180621-agilcon-iot-1/</link>
+				<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180621-agilcon-iot-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji (ponovitev delavnice)</title>
+				<link>https://garaza.io/event/20180523-celtra-docker-again/</link>
+				<pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180523-celtra-docker-again/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Zaradi velikega zanimanja ponavljamo delavnico. Prednost pri prijavi bodo tokrat imeli tisti, ki so ostali brez mesta na prvi ponovitvi.&lt;/p&gt;&#xA;&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,&#xA;pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje&#xA;res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,&#xA;enake mrežne nastavitve, itd.&lt;/p&gt;&#xA;&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,&#xA;kakšne so najboljše prakse. Na primeru preproste spletne aplikacije&#xA;se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske&#xA;nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji</title>
+				<link>https://garaza.io/event/20180425-celtra-docker/</link>
+				<pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180425-celtra-docker/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,&#xA;pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje&#xA;res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,&#xA;enake mrežne nastavitve, itd.&lt;/p&gt;&#xA;&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,&#xA;kakšne so najboljše prakse. Na primeru preproste spletne aplikacije&#xA;se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske&#xA;nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Mala šola obogatene resničnosti 2. del - Microsoft HoloLens v praksi</title>
+				<link>https://garaza.io/event/20180308-agitavit-hololens-2/</link>
+				<pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180308-agitavit-hololens-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Aleksander Fujs, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter&#xA;z njim povezano tehnologijo. Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;,&#xA;nato pa se bomo podali v nekoliko bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 2.del</title>
+				<link>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</link>
+				<pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;&#xA;&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 1.del</title>
+				<link>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</link>
+				<pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;&#xA;&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Mala šola obogatene resničnosti - Microsoft HoloLens v praksi</title>
+				<link>https://garaza.io/event/20180118-agitavit-hololens/</link>
+				<pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180118-agitavit-hololens/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Aleksander Fujs in Borut Žnidar, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter&#xA;z njim povezano tehnologijo. Kot primer rabe holografskega računalnika bomo pogledali razvoj holografsko&#xA;obogatene resničnosti za inženirsko aplikacijo Hilti Profis Engineering.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Iz teorije v prakso: pametna mesta in naprave IoT</title>
+				<link>https://garaza.io/event/20171129-nil-pametna-mesta-iot/</link>
+				<pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20171129-nil-pametna-mesta-iot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Bojan Radulović, NIL in Miha Gruden, Agitavit Solutions&lt;/p&gt;&#xA;&lt;p&gt;V predavanju bomo predstavili primer pametnega mesta v Sloveniji ter razvoj in namestitev IoT rešitev v občini Brežice.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programerski izziv: Zemanta - srečanje z inženirji</title>
+				<link>https://garaza.io/event/20171128-zemanta-izziv2/</link>
+				<pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20171128-zemanta-izziv2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kako odgovoriti na dražbi z najprimernejšim spletnim oglasom v 10 ms?&lt;/li&gt;&#xA;&lt;li&gt;Kako avtomatsko prepoznati sumljiv promet na internetu?&lt;/li&gt;&#xA;&lt;li&gt;Kakšne so danes najboljše inženirske prakse pri razvoju in vzdrževanju spletnih storitev?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;O takšnih in drugačnih vprašanjih se bomo pogovarjali ob toplem &lt;strong&gt;čaju&lt;/strong&gt; in turški &lt;strong&gt;kavi&lt;/strong&gt; v &lt;strong&gt;torek 28.11.2017&lt;/strong&gt; od 14. ure&#xA;dalje na Zemantini čajanki v Garaži. Pridružite se lahko kadarkoli!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programerski izziv: Celtra - posvetovalni sestanek</title>
+				<link>https://garaza.io/event/20171123-celtra-izziv2/</link>
+				<pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20171123-celtra-izziv2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:15-15:15&lt;/p&gt;&#xA;&lt;p&gt;V četrtek, 23.11. ob 14h bomo v Garaži FRI organizirali posvetovalni sestanek.&#xA;Rok za oddajo vaših rešitev bo kmalu tu, zato je to idealna priložnost za vprašanja in nasvete.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programerski izziv: Celtra - predstavitev izziva</title>
+				<link>https://garaza.io/event/20171106-celtra-izziv/</link>
+				<pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20171106-celtra-izziv/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 11:15-12:00&lt;/p&gt;&#xA;&lt;p&gt;Podjetje Celtra v sodelovanju s Fakulteto za računalništvo in informatiko UL spet pripravlja&#xA;tekmovanje za najboljšo programersko rešitev, v kateri lahko študenti osvojijo atraktivne nagrade&#xA;v višini 1000 evrov.&lt;/p&gt;&#xA;&lt;p&gt;Več informacij o izzivu bo na voljo &lt;strong&gt;6. novembra 2017 ob 11:15&lt;/strong&gt; v &lt;strong&gt;študentskem&#xA;pospeševalniku Garaža&lt;/strong&gt; na Fakulteti za računalništvo in informatiko UL. Pridite vsi zainteresirani!&lt;/p&gt;&#xA;&lt;p&gt;Rok za prijavo je 10. november 2017.&lt;/p&gt;&#xA;&lt;p&gt;Svojo rešitev lahko razvijate do 30. novembra 2017. Zmagovalci izziva bodo znani do 11. decembra 2017.&lt;/p&gt;&#xA;&lt;p&gt;Prijave preko epošte &lt;a href=&#34;mailto:students@celtra.com&#34;&gt;students@celtra.com&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programerski izziv: Zemanta - predstavitev izziva</title>
+				<link>https://garaza.io/event/20171025-zemanta-izziv/</link>
+				<pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20171025-zemanta-izziv/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:15-14:00&lt;/p&gt;&#xA;&lt;p&gt;Zemanta v sodelovanju s Fakulteto za računalništvo in informatiko UL pripravlja tekmovanje za najboljšo programersko rešitev, v katerem lahko osvojiš super nagrade: Google Pixel 2, Google Home Max in možnost opravljanja plačane prakse v podjetju Zemanta.&lt;/p&gt;&#xA;&lt;p&gt;Letošnje naloge so:&#xA;Generator alternativnih naslovov oglasov&#xA;Poslovna inteligenca v realnem času&lt;/p&gt;&#xA;&lt;p&gt;Vabljeni na predstvitev izziva v sredo, 25.10.2017, ob 13:15 v Garaži, FRI.&lt;/p&gt;&#xA;&lt;p&gt;Rok za prijavo je 6. 11. 2017, rok za oddajo pa 11. 12. 2017. Podelitev nagrad bo 21. 12. 2017 na Zemanti.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce</title>
+				<link>https://garaza.io/event/20170629-agilcon-react-native/</link>
+				<pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170629-agilcon-react-native/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce - 2.del</title>
+				<link>https://garaza.io/event/20170524-agilcon-react-native-2/</link>
+				<pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170524-agilcon-react-native-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce - 1.del</title>
+				<link>https://garaza.io/event/20170517-agilcon-react-native-1/</link>
+				<pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170517-agilcon-react-native-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje brezžičnih omrežij: (Ne)varnosti WiFi-ja 2. del</title>
+				<link>https://garaza.io/event/20170420-nil-hek-wifi-2/</link>
+				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170420-nil-hek-wifi-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00 - 14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Maja Podbevšek, NIL d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Brezžična omrežja so se razvila z namenom zagotavljanja mobilnosti uporabnikom in kot dodatek mrežnim kablom. Nekdaj pomožna tehnologija danes prenaša več kot 60 % svetovnega Internet prometa. Brezžična omrežja imamo danes praktično že povsod - doma, v hotelu, bližnji restavraciji, v pisarni, ko se sprehajamo po ulici, itd. Mobilne naprave, tablice, prenosni računalniki imajo danes že vgrajene brezžične mrežne kartice kar pomeni, da lahko komunicirajo praktično kjerkoli in kadarkoli.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje brezžičnih omrežij: (Ne)varnosti WiFi-ja 1. del</title>
+				<link>https://garaza.io/event/20170411-nil-hek-wifi-1/</link>
+				<pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170411-nil-hek-wifi-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00 - 14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Maja Podbevšek, NIL d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Brezžična omrežja so se razvila z namenom zagotavljanja mobilnosti uporabnikom in kot dodatek mrežnim kablom. Nekdaj pomožna tehnologija danes prenaša več kot 60 % svetovnega Internet prometa. Brezžična omrežja imamo danes praktično že povsod - doma, v hotelu, bližnji restavraciji, v pisarni, ko se sprehajamo po ulici, itd. Mobilne naprave, tablice, prenosni računalniki imajo danes že vgrajene brezžične mrežne kartice kar pomeni, da lahko komunicirajo praktično kjerkoli in kadarkoli.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Napredne 3D-teme z Babylon.js</title>
+				<link>https://garaza.io/event/20170404-3d-babylon/</link>
+				<pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170404-3d-babylon/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9-12&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Filip Samotorčan, Senior Developer, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Orodje Babylon.js, ki bazira na webGL in Javascriptu, je bilo sicer namenjeno za ustvarjanje spletnih računalniških iger, vendar se v praksi odlično obnese tudi pri izzivih poslovnega sveta. V zadnjih letih se je tako odprlo novo področje uporabe te 3D-knjižnice, ki ga najpogosteje označujejo z izrazom gamification. Gre za uporabo znanj, konceptov in elementov iz sveta iger v kontekste, ki s samimi igrami niso povezani. Zelo pogost primer je razvoj poslovnih aplikacij.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Let&#39;s React ...again</title>
+				<link>https://garaza.io/event/20170301-react-workshop-repeat/</link>
+				<pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170301-react-workshop-repeat/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;&#xA;&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;&#xA;&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje domačih omrežij</title>
+				<link>https://garaza.io/event/20170223-nil-hek-upnp/</link>
+				<pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170223-nil-hek-upnp/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00-15:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Matevž Mesojednik, Svetovalec na področju informacijske varnosti, NIL d.o.o&lt;/p&gt;&#xA;&lt;p&gt;Universal Plug and Play (UPnP) omrežni protokol omogoča povezavo med&#xA;napravami, kot so usmerjevalniki, tiskalniki, NAS strežniki, smart TV-ji,&#xA;medijskimi predvajalniki itd. UPnP je bil razvit predvsem za domače uporabnike&#xA;in ima v osnovi kar nekaj pomanjkljivosti na področju varnosti. &lt;/p&gt;&#xA;&lt;p&gt;Nastavitev UPnP na usmerjevalnikih doma in tudi v poslovnih okoljih – pogosto&#xA;puščamo privzeto. Torej vključeno. Prav to pa predstavlja varnostno&#xA;pomanjkljivost, ki je hkrati tudi funkcionalnost, saj uporabniku poenostavi&#xA;dostop do priljubljenih internetnih vsebin in storitev.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://community.rapid7.com/docs/DOC-2150&#34;&gt;Raziskave&lt;/a&gt; kažejo, da naj bi bilo&#xA;med 40 in 50 milijonov mrežnih naprav ranljivih za vsaj enega od treh načinov&#xA;napadov, ki izkoriščajo varnostne pomanjkljivosti v protokolu UPnP, kar&#xA;posledično lahko pripeljejo do kraje podatkov in vohunjenja za uporabniki.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bo NIL-ov strokovnjak s področja varnosti povedal več o UPnP&#xA;omrežnem protokolu, preko praktičnega »heka« pa bo predstavil posledice&#xA;zlorabe, na prvi pogled nedolžne nastavitve.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Let&#39;s React</title>
+				<link>https://garaza.io/event/20170201-react-workshop/</link>
+				<pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170201-react-workshop/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;&#xA;&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;&#xA;&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 2.del</title>
+				<link>https://garaza.io/event/20170118-salesforce-einstein-2/</link>
+				<pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170118-salesforce-einstein-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz&#xA;Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še&#xA;preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem&#xA;prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir&#xA;energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre&#xA;in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;&#xA;&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni&#xA;inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z&#xA;vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven&#xA;način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne&#xA;inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano&#xA;globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne&#xA;objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 1.del</title>
+				<link>https://garaza.io/event/20170111-salesforce-einstein-1/</link>
+				<pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170111-salesforce-einstein-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz&#xA;Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še&#xA;preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem&#xA;prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir&#xA;energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre&#xA;in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;&#xA;&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni&#xA;inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z&#xA;vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven&#xA;način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne&#xA;inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano&#xA;globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne&#xA;objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Framework Angular 2 - 2.del</title>
+				<link>https://garaza.io/event/20161221-framework-angular-2-2/</link>
+				<pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161221-framework-angular-2-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;&#xA;&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.&#xA;Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Framework Angular 2 - 1.del</title>
+				<link>https://garaza.io/event/20161214-framework-angular-2-1/</link>
+				<pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161214-framework-angular-2-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;&#xA;&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.&#xA;Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako pri razvoju produkta/storitve upoštevati trg in kupca</title>
+				<link>https://garaza.io/event/20161124-lui-trg-pri-razvoju-produkta/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161124-lui-trg-pri-razvoju-produkta/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Matej Stevanovič, Ljubljanski univerzitetni inkubator (LUI)&lt;/p&gt;&#xA;&lt;p&gt;Razvoj produktov v zadnjih letih poteka tesno povezan z informacijami, ki jih&#xA;dobimo s trga. Razvijalci se vzporedno s tehničnim razvojem ukvarjajo tudi z&#xA;vsebino, ki jo bodo ponudili kupcu in se ob raziskovanju trga sprašujejo,&#xA;kakšno bolečino ima kupec in kaj kupci želijo. Zakaj je to pomembno?&#xA;Poznavanje kupca in razvoj produkta/storitve, ki jih bo kupec prepoznal kot&#xA;rešitev njegovega problema, bo ključno pripomoglo k temu, da bo produkt razvit&#xA;za kupca in da bo kupec v njem zaznal vrednost. Vrednost za kupca se kupcu&#xA;sicer sporoča kasneje, v fazi oglaševanja, vendar pa mora biti tudi ob razvoju&#xA;produkta ta vključena oz. mora razvojnik o njej razmišljati. S tem produkt&#xA;približa kupcu in mu doda komercialno dimenzijo.&lt;/p&gt;&#xA;&lt;p&gt;Izvedeli boste, &lt;strong&gt;na kaj morate biti pozorni&lt;/strong&gt; pri razvoju, &lt;strong&gt;kako vključevati&#xA;podatke s trga&lt;/strong&gt; v razvoj in &lt;strong&gt;kako raziskati trg&lt;/strong&gt;. Spoznali boste &lt;strong&gt;orodje za razvoj&#xA;vrednosti za kupca&lt;/strong&gt; in pogledali, kako se le-to vklaplja v širšo sliko poslovnega&#xA;modela, ki zajema še ostale dimenzije poslovanja. Na podlagi &lt;strong&gt;primerov&lt;/strong&gt; boste&#xA;spoznali pomembnost poznavanja vrednosti za razvijalca in pravilnega komuniciranja&#xA;vrednosti kupcu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako narediti pametnega &#34;bota&#34;?</title>
+				<link>https://garaza.io/event/20161006-ms-bot-framework/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161006-ms-bot-framework/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Martin Pregl, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Pametni asistenti, chatboti, oziroma na kratko &lt;em&gt;boti&lt;/em&gt; so z nami že mnogo let. Zakaj so ravno zdaj postali hitro razvijajoče področje? Razlog tiči v tem, da so&#xA;&amp;ldquo;messaging&amp;rdquo; aplikacije vedno popularnejše, nekateri celo trdijo, da so boti nove aplikacije. Nova paradigma pomeni novo priložnost.&lt;/p&gt;&#xA;&lt;p&gt;Spoznali bomo Microsoft Bot Framework, platformo za gradnjo pametnih botov. Ključni deli delavnice bodo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kako lahko naredimo enostavnega bota&lt;/li&gt;&#xA;&lt;li&gt;Dodajanje kanalov (Facebook, Slack, SMS, Email…)&lt;/li&gt;&#xA;&lt;li&gt;Prepoznavanje uporabnikov&lt;/li&gt;&#xA;&lt;li&gt;Dialogi&lt;/li&gt;&#xA;&lt;li&gt;Dodajanje &amp;ldquo;pameti&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Razumevanje jezika in učenje ukazov&lt;/li&gt;&#xA;&lt;li&gt;Integracija z zalednimi storitvami&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Azure IoT v praksi</title>
+				<link>https://garaza.io/event/20160920-ms-azure-iot-v-praksi/</link>
+				<pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160920-ms-azure-iot-v-praksi/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-15:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Želite spoznati, kaj je buzz word &lt;em&gt;&amp;ldquo;internet of things&amp;rdquo;&lt;/em&gt;? Kako ga Microsoft vidi in kaj vam je kot&#xA;razvijalcem na voljo? Se želite poigrati s storitvami Microsoft Azure in napravo Raspberry PI?&#xA;Želite videti v realnem času in spremljati spremembe podatkov iz senzorjev ter hkrati razviti rešitev,&#xA;ki odreagira na te podatke? Želite obvestiti uporabnika s potisnimi sporočili, ko je dosežen pogoj?&lt;/p&gt;&#xA;&lt;p&gt;Skozi vodeno delavnico bomo spoznavali tehnološko podporo konceptu Internet of Things z uporabo tehnologij&#xA;na platformi Microsoft Azure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Poletna šola: (Ne)varni internet stvari (IoT)</title>
+				<link>https://garaza.io/event/20160906-lrk-nevarni-iot/</link>
+				<pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160906-lrk-nevarni-iot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 3 dni, od 9:00-15:00, 6.9. do 8.9.2016&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavatelja:&lt;/strong&gt; Andrej Krevl (Stanford University), Boštjan Špehonja (Unistar LC)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Namenjena je:&lt;/strong&gt; študentom&lt;/p&gt;&#xA;&lt;p&gt;Laboratorij za računalniške komunikacije tudi letos organizira zanimivo in zabavno poletno šolo za študente&#xA;FRI. V prvih dveh dneh se boste naučili programirati Arduino in z njim na primer prižigati luči, komunicirati&#xA;z napravami BLE (Bluetooth low energy), sprogramirali boste tudi oblačno storitev, prek katere boste nazadnje&#xA;prižigali in ugašali luči. Zadnji dan boste postali napadalci in boste na več načinov vdrli v svoj (ali sosedov)&#xA;sistem, mu prisluškovali in ugašali luči, nazadnje pa ga boste seveda tudi primerno zavarovali, tako da boste&#xA;po zaključku poletne šole lahko mirno spali.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako razviti spletno aplikacijo za 10, 1000 ali pa 10.000.000 uporabnikov? (Microsoft)</title>
+				<link>https://garaza.io/event/20160706-ms-skalabilnost-spletnih-aplikacij-azure/</link>
+				<pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160706-ms-skalabilnost-spletnih-aplikacij-azure/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Pri gradnji aplikacij se osredotočamo na funkcionalnosti, hiter, učinkovit razvoj in čim hitrejšo prilaganje&#xA;uporabniku. Ko uporaba aplikacije raste, se s tem povečajo tudi potrebe po kapacitetah, ki jim moramo na&#xA;najhitrejši možni način ugoditi, sicer lahko to za nas predstavlja nedelovanje aplikacije in poslovno izgubo.&#xA;Uporabniki so vedno bolj zahtevni in pri raznolikem naboru rešitev na spletu moramo biti zaradi konkurence&#xA;prilagodljivi marsikateri situaciji.&lt;/p&gt;&#xA;&lt;p&gt;Na praktični &amp;ldquo;hands on&amp;rdquo; delavnici si bomo pogledali, kako lahko izkoriščamo oblačno platformo, ko število uporabnikov hitro narašča&#xA;z nekaj 10, 100, 1000 na 1.000.000 ali več ter ob tem poskrbimo za delovanje na&#xA;najenostavnejši možni način, brez popravka izvorne kode, ki jo shranjujemo v  sistemu za upravljanje z&#xA;različicami (git, mercurial, TFS, …). Poudarek je na aplikaciji in njenih funkcionalnostih, ne pa železju,&#xA;na katerem aplikacija teče.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: White Hat Hacker (NIL)</title>
+				<link>https://garaza.io/event/20160629-nil-white-hat-hacker/</link>
+				<pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160629-nil-white-hat-hacker/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;&#xA;&lt;p&gt;Podatki o prometu v omrežju pa niso uporabni samo za iskanje vzorcev. Danes večina aplikacij tako&#xA;ali drugače komunicira z oddaljenimi viri po omrežju, zato igra njihova varnost še posebej pomembno&#xA;vlogo. Vedno več podjetij se zato poslužuje neodvisnega testiranja varnosti, s katerim v kodi programov&#xA;odkrivajo luknje ali napake, ki bi jih bilo mogoče zlorabiti. Izvedba takšnih penetracijskih testov je&#xA;zahtevna, saj so testi tipično ročno prilagojeni aplikaciji, ki je predmet testiranja.&lt;/p&gt;&#xA;&lt;p&gt;Vendar obstaja tudi druga pot. Če imamo, na primer, dostop do podatkov v omrežju, kot so IP‑paketi,&#xA;lahko podatke prestrežemo in spremenimo. Če te podatke malo »pokvarimo«, lahko opazujemo, kako se aplikacija&#xA;odzove na nepričakovane vhode.&#xA;Hitro se izkaže, da zgolj s spreminjanjem naključnih bitov ne pridemo daleč. Potrebujemo strategijo&#xA;spreminjanja, ki se ne ustavi ob prvem uspehu, temveč izkoristi priložnost, da poskusi vdreti še globlje&#xA;v sistem. Takšnim algoritmom pravimo genetski, saj rešitev gradijo tako, da ohranjajo uspešne lastnosti&#xA;predhodnih generacij.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: AI Inspector (NIL)</title>
+				<link>https://garaza.io/event/20160628-nil-ai-inspector/</link>
+				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160628-nil-ai-inspector/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;&#xA;&lt;p&gt;Vsaka akcija tako zunanjih kot notranjih uporabnikov v omrežju pusti sledi v obliki prometnih podatkov.&#xA;Te lahko zajamemo in z analiziranjem razberemo stanje IT-infrastrukture oz. omrežja podjetja.&lt;/p&gt;&#xA;&lt;p&gt;Dandanes obstaja veliko rešitev, ki zmorejo v realnem času analizirati promet v omrežju.&#xA;Takšne rešitve običajno delujejo po prednastavljenih pravilih, ki v večini primerov dobro zaobjamejo&#xA;posamezne izredne dogodke (npr. vdor v sistem) in znajo nanje ustrezno reagirati. Vendar je glavna težava&#xA;takšnega pristopa ta, da rešitev potrebuje neprestane dopolnitve in popravke pravil, saj se IT-sistem in&#xA;njegova uporaba s časom spreminjata.&lt;/p&gt;&#xA;&lt;p&gt;V zadnjem času pa se uveljavlja nov pristop spremljanja prometa omrežja. Ta temelji na metodah umetne&#xA;inteligence, kjer se sistem nadzora z omenjenim izzivom spopada tako, da se uči, kaj je običajni promet&#xA;v omrežju in kdaj gre za izredne dogodke. Tak pristop ima očitno prednost, in to je samoučenje pravil,&#xA;hkrati pa se s časom samodejno prilagaja normalnemu delovanju omrežja.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

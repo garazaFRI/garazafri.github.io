@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on FRI Garage | Student technology accelerator</title>
+		<link>https://garaza.io/en/tags/</link>
+		<description>Recent content in Tags on FRI Garage | Student technology accelerator</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 May 2016 11:12:08 +0200</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Accelerator</title>
+				<link>https://garaza.io/en/tags/accelerator/</link>
+				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+				<guid>https://garaza.io/en/tags/accelerator/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faq</title>
+				<link>https://garaza.io/en/tags/faq/</link>
+				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+				<guid>https://garaza.io/en/tags/faq/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>General</title>
+				<link>https://garaza.io/en/tags/general/</link>
+				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+				<guid>https://garaza.io/en/tags/general/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>General Questions</title>
+				<link>https://garaza.io/en/tags/general-questions/</link>
+				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+				<guid>https://garaza.io/en/tags/general-questions/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Splošna Vprašanja</title>
+				<link>https://garaza.io/en/tags/splo%C5%A1na-vpra%C5%A1anja/</link>
+				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+				<guid>https://garaza.io/en/tags/splo%C5%A1na-vpra%C5%A1anja/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

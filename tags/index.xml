@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+		<link>https://garaza.io/tags/</link>
+		<description>Recent content in Tags on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+		<generator>Hugo</generator>
+		<language>si</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ebpf</title>
+				<link>https://garaza.io/tags/ebpf/</link>
+				<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ebpf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Workshop</title>
+				<link>https://garaza.io/tags/workshop/</link>
+				<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/workshop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ctf</title>
+				<link>https://garaza.io/tags/ctf/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ctf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DragonSec SI</title>
+				<link>https://garaza.io/tags/dragonsec-si/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/dragonsec-si/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>FRICTF</title>
+				<link>https://garaza.io/tags/frictf/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/frictf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tekmovanje</title>
+				<link>https://garaza.io/tags/tekmovanje/</link>
+				<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/tekmovanje/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DCTF</title>
+				<link>https://garaza.io/tags/dctf/</link>
+				<pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/dctf/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Android Reversing</title>
+				<link>https://garaza.io/tags/android-reversing/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/android-reversing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Delavnica</title>
+				<link>https://garaza.io/tags/delavnica/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/delavnica/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dynamic Analysis</title>
+				<link>https://garaza.io/tags/dynamic-analysis/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/dynamic-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Frida</title>
+				<link>https://garaza.io/tags/frida/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/frida/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Static Analysis</title>
+				<link>https://garaza.io/tags/static-analysis/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/static-analysis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Network Inspection</title>
+				<link>https://garaza.io/tags/network-inspection/</link>
+				<pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/network-inspection/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Git</title>
+				<link>https://garaza.io/tags/git/</link>
+				<pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/git/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>From Theory to Practice</title>
+				<link>https://garaza.io/tags/from-theory-to-practice/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/from-theory-to-practice/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Iz Teorije v Prakso</title>
+				<link>https://garaza.io/tags/iz-teorije-v-prakso/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/iz-teorije-v-prakso/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Security</title>
+				<link>https://garaza.io/tags/security/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Use Cases</title>
+				<link>https://garaza.io/tags/use-cases/</link>
+				<pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/use-cases/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cybersecurity</title>
+				<link>https://garaza.io/tags/cybersecurity/</link>
+				<pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/cybersecurity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>OWASP</title>
+				<link>https://garaza.io/tags/owasp/</link>
+				<pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/owasp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hacking</title>
+				<link>https://garaza.io/tags/hacking/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/hacking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Startup</title>
+				<link>https://garaza.io/tags/startup/</link>
+				<pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/startup/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tech</title>
+				<link>https://garaza.io/tags/tech/</link>
+				<pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/tech/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Techboost</title>
+				<link>https://garaza.io/tags/techboost/</link>
+				<pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/techboost/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Delavnice</title>
+				<link>https://garaza.io/tags/delavnice/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/delavnice/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Framework</title>
+				<link>https://garaza.io/tags/framework/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/framework/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>LWC</title>
+				<link>https://garaza.io/tags/lwc/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/lwc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pod Havbo</title>
+				<link>https://garaza.io/tags/pod-havbo/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/pod-havbo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Salesforce</title>
+				<link>https://garaza.io/tags/salesforce/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/salesforce/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ai</title>
+				<link>https://garaza.io/tags/ai/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ai/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Chatbot</title>
+				<link>https://garaza.io/tags/chatbot/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/chatbot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SAP</title>
+				<link>https://garaza.io/tags/sap/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/sap/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Frontend</title>
+				<link>https://garaza.io/tags/frontend/</link>
+				<pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/frontend/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vuejs</title>
+				<link>https://garaza.io/tags/vuejs/</link>
+				<pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/vuejs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Robots</title>
+				<link>https://garaza.io/tags/robots/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/robots/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ROS</title>
+				<link>https://garaza.io/tags/ros/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ros/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ubiquity Robotics</title>
+				<link>https://garaza.io/tags/ubiquity-robotics/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ubiquity-robotics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fri Arena</title>
+				<link>https://garaza.io/tags/fri-arena/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/fri-arena/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lia</title>
+				<link>https://garaza.io/tags/lia/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/lia/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Turnir</title>
+				<link>https://garaza.io/tags/turnir/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/turnir/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Facebook</title>
+				<link>https://garaza.io/tags/facebook/</link>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/facebook/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Infrastructure</title>
+				<link>https://garaza.io/tags/infrastructure/</link>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/infrastructure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>SOC</title>
+				<link>https://garaza.io/tags/soc/</link>
+				<pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/soc/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>IoT</title>
+				<link>https://garaza.io/tags/iot/</link>
+				<pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/iot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Celtra</title>
+				<link>https://garaza.io/tags/celtra/</link>
+				<pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/celtra/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hackathon</title>
+				<link>https://garaza.io/tags/hackathon/</link>
+				<pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/hackathon/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>DevOps</title>
+				<link>https://garaza.io/tags/devops/</link>
+				<pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/devops/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Docker</title>
+				<link>https://garaza.io/tags/docker/</link>
+				<pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/docker/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Competition</title>
+				<link>https://garaza.io/tags/competition/</link>
+				<pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/competition/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Programerski Izziv</title>
+				<link>https://garaza.io/tags/programerski-izziv/</link>
+				<pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/programerski-izziv/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Programming Challenge</title>
+				<link>https://garaza.io/tags/programming-challenge/</link>
+				<pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/programming-challenge/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>React Native</title>
+				<link>https://garaza.io/tags/react-native/</link>
+				<pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/react-native/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hekanje Omrežij</title>
+				<link>https://garaza.io/tags/hekanje-omre%C5%BEij/</link>
+				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/hekanje-omre%C5%BEij/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Network Security</title>
+				<link>https://garaza.io/tags/network-security/</link>
+				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/network-security/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Babylon.js</title>
+				<link>https://garaza.io/tags/babylon.js/</link>
+				<pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/babylon.js/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>React</title>
+				<link>https://garaza.io/tags/react/</link>
+				<pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/react/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>NIL</title>
+				<link>https://garaza.io/tags/nil/</link>
+				<pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/nil/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UPnP</title>
+				<link>https://garaza.io/tags/upnp/</link>
+				<pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/upnp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Angular2</title>
+				<link>https://garaza.io/tags/angular2/</link>
+				<pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/angular2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Notactive</title>
+				<link>https://garaza.io/tags/notactive/</link>
+				<pubDate>Thu, 08 Dec 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/tags/notactive/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Active</title>
+				<link>https://garaza.io/tags/active/</link>
+				<pubDate>Thu, 24 Nov 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/tags/active/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>LUI</title>
+				<link>https://garaza.io/tags/lui/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/lui/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Razvoj Produkta</title>
+				<link>https://garaza.io/tags/razvoj-produkta/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/razvoj-produkta/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trg</title>
+				<link>https://garaza.io/tags/trg/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/trg/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Uporabnik</title>
+				<link>https://garaza.io/tags/uporabnik/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/uporabnik/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Azure</title>
+				<link>https://garaza.io/tags/azure/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/azure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bot</title>
+				<link>https://garaza.io/tags/bot/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/bot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bot Framework</title>
+				<link>https://garaza.io/tags/bot-framework/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/bot-framework/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MS</title>
+				<link>https://garaza.io/tags/ms/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/ms/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Varnost</title>
+				<link>https://garaza.io/tags/varnost/</link>
+				<pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/varnost/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Oblak</title>
+				<link>https://garaza.io/tags/oblak/</link>
+				<pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/oblak/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Skalabilnost</title>
+				<link>https://garaza.io/tags/skalabilnost/</link>
+				<pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/skalabilnost/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Mining</title>
+				<link>https://garaza.io/tags/data-mining/</link>
+				<pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/tags/data-mining/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faq</title>
+				<link>https://garaza.io/tags/faq/</link>
+				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+				<guid>https://garaza.io/tags/faq/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pospeševalnik</title>
+				<link>https://garaza.io/tags/pospe%C5%A1evalnik/</link>
+				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
+				<guid>https://garaza.io/tags/pospe%C5%A1evalnik/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Splošna Vprašanja</title>
+				<link>https://garaza.io/tags/splo%C5%A1na-vpra%C5%A1anja/</link>
+				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
+				<guid>https://garaza.io/tags/splo%C5%A1na-vpra%C5%A1anja/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

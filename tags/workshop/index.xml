@@ -1,703 +1,283 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Workshop on Garaža FRI | Študentski tehnološki pospeševalnik</title>
-    <link>https://garaza.io/tags/workshop/index.xml</link>
-    <description>Recent content in Workshop on Garaža FRI | Študentski tehnološki pospeševalnik</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="https://garaza.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>eBPF Meetup</title>
-      <link>https://garaza.io/event/20260112-eBPF-Workshop/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20260112-eBPF-Workshop/</guid>
-      <description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!
-&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;
-
-&lt;p&gt;Date: 12th January
-Time: 4:15–7:00 PM
-Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)
-Admission: Free | In-person event only!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;As part of a guest lecture for DevOps course at UL FRI, we&amp;rsquo;ll hear from Teodor Podobnik, Cloud Operations Lead at Prewave, and a recognized advocate in the eBPF community (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;). As an inaugural eBPF Fellowship recipient and eBPF Summit Hackathon Judge, he specializes in applying kernel-level insights and performance optimizations to cloud infrastructure. Teodor shares his expertise through active open-source contributions and as the creator of eBPFChirp, a leading newsletter and podcast dedicated to the eBPF ecosystem.&lt;/p&gt;
-
-&lt;p&gt;He will lead you through:
-- A short introduction on why eBPF (&lt;a href=&#34;https://ebpf.io&#34;&gt;https://ebpf.io&lt;/a&gt;) is widely used today and how to &amp;ldquo;catch the wave&amp;rdquo;, where it fits, what problems it solves, and why now is the right time to learn it.
-- A hands-on workshop, where you&amp;rsquo;ll learn the fundamentals of eBPF through a guided coding lab, running entirely in the browser, no local setup required.
-- Open, free-form discussions, including real-world stories, practical advice, and lessons learned from applying eBPF in production environments.&lt;/p&gt;
-
-&lt;p&gt;Whether you&amp;rsquo;re new to eBPF or already familiar with a bit of Linux internals, this session is designed to be practical, accessible, and immediately useful.&lt;/p&gt;
-
-&lt;p&gt;Bring your laptop!&lt;/p&gt;
-
-&lt;p&gt;Who should attend? Anyone working with or interested in cloud-native technologies: developers, architects, students, or anyone eager to dive deeper into kernel engineering. The session will be held either in Slovene or in English, depending on the audience.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
-      <link>https://garaza.io/event/20200226-agilcon-LWC/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20200226-agilcon-LWC/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Matic Repše in Jan Terzer (Agilcon)&lt;/p&gt;
-
-&lt;p&gt;Razvoj frontend-a brez dodatnih JS frameworkov kot so Angular, React, Vue,&amp;hellip;? Ja, z Web components je tudi to mogoče. Spletni razvoj se je dramatično spremenil v zadnjih letih. Danes bolj kot kadarkoli prej, želimo pri razvoju “frontend” aplikacij komponente uporabiti na večih koncih. Kako lahko to naredimo?&lt;/p&gt;
-
-&lt;p&gt;Salesforce je kot vodilni na področju SaaS aplikacij vgradil standard &lt;a href=&#34;https://www.webcomponents.org/introduction&#34;&gt;Web Components&lt;/a&gt; v jedro svoje frontend platforme in predstavil t.i. LWC (Lightning Web Components). Na delavnici se bomo seznanili kaj so Web Components ter kako jih je Salesforce uporabil na svoji enterprise platformi. Za Salesforce je to prelomna tehnologija, kajti pridobljeno znanje na tem področju ni omejeno samo na Salesforce ampak prenosljivo tudi drugam, kjer se uporablja standard Web Components.&lt;/p&gt;
-
-&lt;p&gt;Večino časa delavnice bomo posvetili preizkušanju konceptov in razvoju modulov z Web Components v Salesforce razvojnem okolju. Za delujočo končno rešitev se bomo spogledali še s Salesforcem podatkovnim modelom in zalednim programskim jezikom APEX.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; (Lightning) Web components, SOQL, programski jezik APEX, Lightning Platform&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja (JS, HTML)&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Visual Studio Code (&lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;https://code.visualstudio.com/download&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;Trailhead račun&lt;/a&gt; na: &lt;a href=&#34;https://trailhead.salesforce.com&#34;&gt;https://trailhead.salesforce.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Uvod v Web Components&lt;/li&gt;
-&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
-&lt;li&gt;Lightning Web Components (kako začeti)&lt;/li&gt;
-&lt;li&gt;Delni podatkovni model&lt;/li&gt;
-&lt;li&gt;Povezava razvitih komponent s podatki iz Salesforce platforme (uporaba APEX programskega jezika)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lightning-web-components-izdelava-javascript-komponent-za-ponovno-uporabo-tickets-92479826651&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Izdelaj svojega chatbota: s SAP Conversational AI, v samo dveh urah!</title>
-      <link>https://garaza.io/event/20191217-sap-chatbot/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20191217-sap-chatbot/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Delavnico smo zaradi odsotnosti predavatelja prestavili na 14.1.2020.&lt;/strong&gt; (Matevž, iskrene čestitke!!! :) )&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 16:00-18:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.)&lt;/p&gt;
-
-&lt;p&gt;Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.&lt;/p&gt;
-
-&lt;p&gt;Ste že kdaj poskusili izdelati svojega chatbota? Vas zanima, kako ga s pomočjo aplikacije &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;SAP Conversational AI&lt;/a&gt; izdelate v samo dveh urah?&lt;/p&gt;
-
-&lt;p&gt;Na delavnici boste pod vodstvom strokovnjakov iz družb &lt;a href=&#34;https://www.sap.com/slovenia/about.html&#34;&gt;SAP Slovenija&lt;/a&gt; in &lt;a href=&#34;https://www.sapphir.si/&#34;&gt;Sapphir d.o.o&lt;/a&gt;. naredili svojega prvega chatbota ter ga naučili nekaj vljudnostnih fraz, pa tudi kakšne šale. Seveda ga boste prav tako naučili kako naj se primerno odzove :)&lt;/p&gt;
-
-&lt;p&gt;Več o tehnološki platformi, na kateri bo nastal vaš chatbot: &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;Conversational AI&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Vljudno vabljeni!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-izdelaj-svojega-chatbota-s-sap-conversational-ai-v-samo-dveh-urah-tickets-84848497139&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Vue.js v praksi</title>
-      <link>https://garaza.io/event/20190416-celtra-vuejs/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190416-celtra-vuejs/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;
-
-&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Potrebno JavaScript predznanje&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;objekti&lt;/li&gt;
-&lt;li&gt;array funkcije: map, filter, includes&lt;/li&gt;
-&lt;li&gt;kontekst (this)&lt;/li&gt;
-&lt;li&gt;osnovna ES6 sintaksa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;zadnja verzija node&lt;/li&gt;
-&lt;li&gt;VSCode z Vetur razširitvijo&lt;/li&gt;
-&lt;li&gt;Chrome z Vue Dev Tools&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-59916234069&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
-      <link>https://garaza.io/event/20190313-agilcon-chatko/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;
-
-&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;
-
-&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;
-&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform (kako začeti)&lt;/li&gt;
-&lt;li&gt;LiveAgent in Chatbot&lt;/li&gt;
-&lt;li&gt;Razvoj (data model, APEX, chatbot decision tree) - prepoznavanje besedila&lt;/li&gt;
-&lt;li&gt;Povezovanje s third-party sistemi po prepoznavi besedilaa&lt;/li&gt;
-&lt;li&gt;Dodatno: povezava na druge AI platforme (IBM Watson, Google Cloud Cloud Natural Language)&lt;/li&gt;
-&lt;li&gt;Dodatno: chatko v mobilni aplikaciji&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/chatko-optimizacija-kontakt-centra-s-pomocjo-naprednega-ai-klepetalnika-tickets-58161621977&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Workshop: So you want to build robots? (2 Days)</title>
-      <link>https://garaza.io/event/20190219-Ubiquity-Robotics-1/</link>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190219-Ubiquity-Robotics-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Garaza FRI&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Dr. David Crawley, Ubiquity Robotics&lt;/p&gt;
-
-&lt;p&gt;If you wanted to build a robot, what would you build? Imagine having a robotic platform that has all the basic elements (drive train, motor controllers, software stack) already in place. Imagine not needing to spend time, effort and money getting the basics right, but being able to just sit down and start building your own robot app quickly and easily. In this event you will get to try out the Magni platform, a &lt;a href=&#34;http://www.ros.org/&#34;&gt;ROS&lt;/a&gt;-based ground rover than can carry 100 kg. &lt;a href=&#34;https://ubiquityrobotics.com/&#34;&gt;Ubiquity Robotics&lt;/a&gt;, the makers of &lt;a href=&#34;https://ubiquityrobotics.com/magni.html&#34;&gt;Magni&lt;/a&gt;, challenge you to build something cool using it!&lt;/p&gt;
-
-&lt;p&gt;Suggested ideas are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a cocktail waiter robot,&lt;/li&gt;
-&lt;li&gt;a cookie delivery robot,&lt;/li&gt;
-&lt;li&gt;a dog chasing robot and&lt;/li&gt;
-&lt;li&gt;robot baggage porter.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Your own ideas are warmly welcomed. (And yes, it &lt;a href=&#34;https://ubiquityrobotics.com/#applications&#34;&gt;can be done&lt;/a&gt; in 2 days!) &lt;strong&gt;Pizza and silly prizes will be provided.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ubiquity Robotics is a start up that really did come out of a garage in Silicon Valley. There will be time to talk about life and business in Silicon Valley.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;laptop (w/Linux or w/Linux VM on it - you can &lt;a href=&#34;https://downloads.ubiquityrobotics.com/&#34;&gt;download a suitable VM here&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;programming skills&lt;/li&gt;
-&lt;li&gt;no robot/ROS knowledge necessary!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;Day 1 (Feb 19)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;17:00 Start - kick off&lt;/li&gt;
-&lt;li&gt;17:05 Introduction to the challenges&lt;/li&gt;
-&lt;li&gt;17:10 Introduction to the robot, ROS and the software coding system&lt;/li&gt;
-&lt;li&gt;17:25 Start Hacking on robots&lt;/li&gt;
-&lt;li&gt;19:00 (Pizza arrives)&lt;/li&gt;
-&lt;li&gt;20:00 Wrap up for Day 1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Day 2 (Feb 21)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;17:00 Continue Hacking&lt;/li&gt;
-&lt;li&gt;18:00 Hacking&lt;/li&gt;
-&lt;li&gt;19:00 Hacking&lt;/li&gt;
-&lt;li&gt;19:30 Demo (Pizza arrives)&lt;/li&gt;
-&lt;li&gt;19:45 Prize awards and wrap up&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/workshop-so-you-want-to-build-robots-2-days-tickets-56395768261&#34;&gt;Tickets on Eventbrite&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Lia - Sprogramiraj bota in tekmuj na Lia turnirju 2019</title>
-      <link>https://garaza.io/event/20190218-Lia-turnir-2019/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20190218-Lia-turnir-2019/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14:00 - 16:00&lt;/p&gt;
-
-&lt;p&gt;Se želiš pridružiti &lt;a href=&#34;https://www.liagame.com/tournament&#34;&gt;Lia turnirju 2019&lt;/a&gt; pa ne veš kje začeti?
-Ali si zgolj želiš pridobiti nekaj prednosti in prevzeti zgodnje vodstvo?
-Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam in se pridružili spletni lestvici.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predznanje ni potrebno!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-lia-sprogramiraj-bota-in-tekmuj-na-lia-turnirju-2019-tickets-56372326145&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Vue.js v praksi</title>
-      <link>https://garaza.io/event/20181211-celtra-vuejs/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181211-celtra-vuejs/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;
-
-&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Potrebno JavaScript predznanje&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;objekti&lt;/li&gt;
-&lt;li&gt;array funkcije: map, filter, includes&lt;/li&gt;
-&lt;li&gt;kontekst (this)&lt;/li&gt;
-&lt;li&gt;osnovna ES6 sintaksa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;zadnja verzija node&lt;/li&gt;
-&lt;li&gt;VSCode z Vetur razširitvijo&lt;/li&gt;
-&lt;li&gt;Chrome z Vue Dev Tools&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-vuejs-v-praksi-tickets-53050744204&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
-      <link>https://garaza.io/event/20181017-agilcon-iot-2/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181017-agilcon-iot-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
-
-&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
-&lt;li&gt;Salesforce IoT&lt;/li&gt;
-&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
-&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
-&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
-&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
-&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-50774823865&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
-      <link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
-
-&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
-&lt;li&gt;Salesforce IoT&lt;/li&gt;
-&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
-&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
-&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
-&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
-&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-50774273218&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
-      <link>https://garaza.io/event/20180628-agilcon-iot-2/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180628-agilcon-iot-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
-
-&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
-&lt;li&gt;Salesforce IoT&lt;/li&gt;
-&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
-&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
-&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
-&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
-&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-2del-tickets-47016203731&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
-      <link>https://garaza.io/event/20180621-agilcon-iot-1/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180621-agilcon-iot-1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Vsepovsod poslušamo, da je IoT “the next big thing”. Predvideva se, da bo do 2020 že 20 milijard v internet povezanih naprav. To je trikrat toliko kot vseh ljudi na zemlji!&lt;/p&gt;
-
-&lt;p&gt;“Internet stvari”&amp;hellip; sliši se enostavno, kaj pa sicer pomeni? Obstaja veliko definicij, ki vključujejo opise elektronskih naprav. Pomembno je vedeti, da ne gre samo za posamezne naprave, stroje, aplikacije, senzorje in podobno. Tudi ne gre samo za povezavo fizičnih stvari v povezane naprave, ki lahko prenašajo podatke. IoT predstavlja možnost proženja dogodkov v realnem času, kar pa lahko ustvari novo uporabniško izkušnjo in možnosti novih storitev, ki skrajšajo izpade sistemov, izboljšajo ukrepe ter tvorijo nove priložnosti za digitalni trg.&lt;/p&gt;
-
-&lt;p&gt;Kako uporabiti Salesforce za izvedbo ingeligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;
-
-&lt;p&gt;Delavnica bo potekala v &lt;strong&gt;dveh&lt;/strong&gt; delih. Na prvi se bomo teoretično spoznali s platformo Salesforce in osnovami IoT. Priklopili bomo NodeMCU razvojno ploščico s svetlobnim senzorjem in se poigrali s konfiguracijo v razvojnem okolju Arduino. V drugem delu bomo pripravili delujoči prototip, ki v Salesforce pošilja informacijo o količini svetlobe in tam proži dogodke na podlagi pravil, ki jih bomo postavili.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Naučili se bomo&lt;/strong&gt;: Platforma Force.com, programski jezik APEX, REST,, Salesforce1 mobilna aplikacija, Lightning Component framework, Arduino, konfiguracija NodeMCU ESP8266 modula&lt;/p&gt;
-
-&lt;p&gt;Vsak udeleženec dobi NodeMCU development board in senzor za svetlobo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;osnovno znanje programiranja&lt;/li&gt;
-&lt;li&gt;prenosni računalnik&lt;/li&gt;
-&lt;li&gt;nameščen Arduino IDE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salesforce Lightning Platform&lt;/li&gt;
-&lt;li&gt;Salesforce IoT&lt;/li&gt;
-&lt;li&gt;Konfiguracija NodeMCU v Arduino (C++) ter priklop senzorja za svetlobo&lt;/li&gt;
-&lt;li&gt;Razvojno okolje Salesforce&lt;/li&gt;
-&lt;li&gt;Programski jezik APEX s spletnim servisom v oblaku&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2. del&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Implementacija spletnega servisa za sprejemanje podatkov iz svetlobnega senzorja&lt;/li&gt;
-&lt;li&gt;Razvoj procesa za obveščanje o meritvah&lt;/li&gt;
-&lt;li&gt;Potisna obvestila na Salesforce1 mobilno aplikacijo z Lightning Component ogrodjem&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-inteligentna-ulicna-razsvetljava-s-salesforce-iot-platformo-1del-tickets-47014233839&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji (ponovitev delavnice)</title>
-      <link>https://garaza.io/event/20180523-celtra-docker-again/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180523-celtra-docker-again/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;
-
-&lt;p&gt;Zaradi velikega zanimanja ponavljamo delavnico. Prednost pri prijavi bodo tokrat imeli tisti, ki so ostali brez mesta na prvi ponovitvi.&lt;/p&gt;
-
-&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,
-pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje
-res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,
-enake mrežne nastavitve, itd.&lt;/p&gt;
-
-&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,
-kakšne so najboljše prakse. Na primeru preproste spletne aplikacije
-se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske
-nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Teorija: Uvod v Docker&lt;/li&gt;
-&lt;li&gt;Praksa: Razvoj in postavitev spletne aplikacije&lt;/li&gt;
-&lt;li&gt;Izkušnje: Kako in zakaj uporabljamo Docker v Celtri&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;Nameščen VirtualBox&lt;/li&gt;
-&lt;li&gt;GitHub Free Account&lt;/li&gt;
-&lt;li&gt;Heroku Free Account&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-razvoj-spletnih-aplikacij-z-docker-kontejnerji-ponovitev-delavnice-tickets-46220570972&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji</title>
-      <link>https://garaza.io/event/20180425-celtra-docker/</link>
-      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180425-celtra-docker/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-18:00&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;
-
-&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,
-pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje
-res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,
-enake mrežne nastavitve, itd.&lt;/p&gt;
-
-&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,
-kakšne so najboljše prakse. Na primeru preproste spletne aplikacije
-se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske
-nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Teorija: Uvod v Docker&lt;/li&gt;
-&lt;li&gt;Praksa: Razvoj in postavitev spletne aplikacije&lt;/li&gt;
-&lt;li&gt;Izkušnje: Kako in zakaj uporabljamo Docker v Celtri&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Zahteve:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;Nameščen VirtualBox&lt;/li&gt;
-&lt;li&gt;GitHub Free Account&lt;/li&gt;
-&lt;li&gt;Heroku Free Account&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-razvoj-spletnih-aplikacij-z-docker-kontejnerji-tickets-45190971412&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Delavnica: Mala šola obogatene resničnosti 2. del - Microsoft HoloLens v praksi</title>
-      <link>https://garaza.io/event/20180308-agitavit-hololens-2/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://garaza.io/event/20180308-agitavit-hololens-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Aleksander Fujs, Agitavit Solutions d.o.o.&lt;/p&gt;
-
-&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter
-z njim povezano tehnologijo. Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;,
-nato pa se bomo podali v nekoliko bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Bi želeli zgraditi svojo lastno izkušnjo obogatene resničnosti? Nadenite si Microsoft HoloLens! Ta prvi samostojni
-holografski računalnik s sistemom Windows 10 nam s kombinacijo specifičnih komponent omogoča, da v realnem svetu opazujemo
-virtualne grafične modele in druge navidezne informacije, ne da bi nas te ovirale pri vsakodnevnem pogledu na realni svet.
-Govorimo o ustvarjanju obogatene resničnosti (ang. Augmented reality).&lt;/p&gt;
-
-&lt;p&gt;Na drugem delu Male šole obogatene resničnosti boste v roke oziroma na glave dobili Microsoft HoloLens, in sicer boste sami
-odkrivali praktično delo s to holografsko napravo. Spoznali bomo razvoj preprostega modela holografsko obogatene
-resničnosti in na tak način ustvarili virtualno HoloLens izkušnjo za resnični svet. Ustvarjeni navidezni model boste
-nadzorovali, oblikovali in spreminjali s pomočjo gibov rok, pogledov, glasovnih ukazov.&lt;/p&gt;
-
-&lt;p&gt;Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;, nato pa se bomo podali v nekoliko
-bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;
-
-&lt;p&gt;Predhodno poznavanje teh tehnologij ni potrebno, lahko pa na predavanje prinesete svoj računalnik in sami razvijete svojo
-prvo Augmented reality aplikacijo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Udeležba na preteklem 1. delu delavnice ni pogoj za sodelovanje na drugem.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Predstavitev namestitve razvojnega okolja&lt;/li&gt;
-&lt;li&gt;Predstavitev okolja Unity&lt;/li&gt;
-&lt;li&gt;Izdelava programa &amp;ldquo;Hello World&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Priprava namestitvenega paketa in prenos na Microsoft HoloLens&lt;/li&gt;
-&lt;li&gt;Delo z orodjem Microsoft Mixed Reality Toolkit&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Za razvoj aplikacije potrebujete:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prenosni računalnik&lt;/li&gt;
-&lt;li&gt;Namestitev razvojnega okolja po navodilih (&lt;a href=&#34;https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools&#34;&gt;https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Prenos orodja Microsoft Mixed Reality Toolkit (&lt;a href=&#34;https://github.com/Microsoft/MixedRealityToolkit-Unity&#34;&gt;https://github.com/Microsoft/MixedRealityToolkit-Unity&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/delavnica-mala-sola-obogatene-resnicnosti-2-del-microsoft-hololens-v-praksi-tickets-43543704392&#34;&gt;Prijava na Eventbrite-u&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Workshop on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+		<link>https://garaza.io/tags/workshop/</link>
+		<description>Recent content in Workshop on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+		<generator>Hugo</generator>
+		<language>si</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>eBPF Meetup</title>
+				<link>https://garaza.io/event/20260112-ebpf-workshop/</link>
+				<pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20260112-ebpf-workshop/</guid>
+				<description>&lt;p&gt;🚀 eBPF Meetup in Ljubljana: First Ever!&#xA;&amp;hellip;with eBPF Hands-on Workshop!&lt;/p&gt;&#xA;&lt;p&gt;Date: 12th January&#xA;Time: 4:15–7:00 PM&#xA;Location: University of Ljubljana, Faculty of Computer and Information Science | Večna pot 113, 1000 Ljubljana, P4 (Predavalnica 4)&#xA;Admission: Free | In-person event only!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: (Lightning) Web Components, izdelava javascript komponent za ponovno uporabo</title>
+				<link>https://garaza.io/event/20200226-agilcon-lwc/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20200226-agilcon-lwc/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Matic Repše in Jan Terzer (Agilcon)&lt;/p&gt;&#xA;&lt;p&gt;Razvoj frontend-a brez dodatnih JS frameworkov kot so Angular, React, Vue,&amp;hellip;? Ja, z Web components je tudi to mogoče. Spletni razvoj se je dramatično spremenil v zadnjih letih. Danes bolj kot kadarkoli prej, želimo pri razvoju “frontend” aplikacij komponente uporabiti na večih koncih. Kako lahko to naredimo?&lt;/p&gt;&#xA;&lt;p&gt;Salesforce je kot vodilni na področju SaaS aplikacij vgradil standard &lt;a href=&#34;https://www.webcomponents.org/introduction&#34;&gt;Web Components&lt;/a&gt; v jedro svoje frontend platforme in predstavil t.i. LWC (Lightning Web Components). Na delavnici se bomo seznanili kaj so Web Components ter kako jih je Salesforce uporabil na svoji enterprise platformi. Za Salesforce je to prelomna tehnologija, kajti pridobljeno znanje na tem področju ni omejeno samo na Salesforce ampak prenosljivo tudi drugam, kjer se uporablja standard Web Components.&lt;/p&gt;&#xA;&lt;p&gt;Večino časa delavnice bomo posvetili preizkušanju konceptov in razvoju modulov z Web Components v Salesforce razvojnem okolju. Za delujočo končno rešitev se bomo spogledali še s Salesforcem podatkovnim modelom in zalednim programskim jezikom APEX.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; (Lightning) Web components, SOQL, programski jezik APEX, Lightning Platform&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Izdelaj svojega chatbota: s SAP Conversational AI, v samo dveh urah!</title>
+				<link>https://garaza.io/event/20191217-sap-chatbot/</link>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20191217-sap-chatbot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Delavnico smo zaradi odsotnosti predavatelja prestavili na 14.1.2020.&lt;/strong&gt; (Matevž, iskrene čestitke!!! :) )&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 16:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Marko Cenčič (SAP Slovenija) in Matevž Černe (Sapphir d.o.o.)&lt;/p&gt;&#xA;&lt;p&gt;Chatboti oziroma pogovorni roboti so danes že dobro uveljavljena in priljubljena rešitev za komunikacijo podjetij s strankami. So namreč hitro odzivni, dostopni 24/7, z vse bolj dodelanimi rešitvami umetne inteligence (AI) pa omogočajo tudi vedno bolj izpopolnjeno uporabniško izkušnjo.&lt;/p&gt;&#xA;&lt;p&gt;Ste že kdaj poskusili izdelati svojega chatbota? Vas zanima, kako ga s pomočjo aplikacije &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;SAP Conversational AI&lt;/a&gt; izdelate v samo dveh urah?&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici boste pod vodstvom strokovnjakov iz družb &lt;a href=&#34;https://www.sap.com/slovenia/about.html&#34;&gt;SAP Slovenija&lt;/a&gt; in &lt;a href=&#34;https://www.sapphir.si/&#34;&gt;Sapphir d.o.o&lt;/a&gt;. naredili svojega prvega chatbota ter ga naučili nekaj vljudnostnih fraz, pa tudi kakšne šale. Seveda ga boste prav tako naučili kako naj se primerno odzove :)&lt;/p&gt;&#xA;&lt;p&gt;Več o tehnološki platformi, na kateri bo nastal vaš chatbot: &lt;a href=&#34;https://www.sap.com/products/conversational-ai.html&#34;&gt;Conversational AI&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Vljudno vabljeni!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Vue.js v praksi</title>
+				<link>https://garaza.io/event/20190416-celtra-vuejs/</link>
+				<pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190416-celtra-vuejs/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Chatko - optimizacija kontaktnega centra s pomočjo naprednega AI klepetalnika</title>
+				<link>https://garaza.io/event/20190313-agilcon-chatko/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190313-agilcon-chatko/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 14h do 17h&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Slađana Simeunović - Salesforce consultant, Simon Repar - technical architect&lt;/p&gt;&#xA;&lt;p&gt;V duhu današnje vedno bolj razširjene instant komunikacije se bomo poigrali s tem, kako eno izmed večjih podjetij z rešitvami v oblaku (Salesforce) izkorišča napredek pri razvoju umetne inteligence pri pisnem sporočanju. Z vzpostavitvijo naprednega chat agenta - bota bomo “pomagali zaposlenim v kontaktnih centrih” in jih pri komunikaciji s strankami razbremenili tako, da bomo poizkušali razviti logiko za avtomatsko razreševanje rutinskih vprašanj postavljenih s strani uporabnikov.&lt;/p&gt;&#xA;&lt;p&gt;Preizkusili bomo dva pristopa:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Enostavni → “no-code” (chatbot decision tree)&lt;/li&gt;&#xA;&lt;li&gt;Kompleksni → uporaba objektno orientiranega programskega jezika APEX (kot npr. Java) za sprejemanje prostega teksta iz chat okna in klasifikacija tega teksta s pomočjo NLU&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Chatko bo naš namišljeni chatbot, ki pa se ne bo pretvarjal, da je človek (ker tudi ne bi prestal &lt;a href=&#34;https://en.wikipedia.org/wiki/Turing_test&#34;&gt;Turingovega testa&lt;/a&gt;) ampak bo v neizhodnem položaju ponudil “izhod v sili”. To pa pomeni posredovanje komunikacije pravemu agentu, ki bo razrešil težave uporabnika.&lt;/p&gt;&#xA;&lt;p&gt;Vsak udeleženi bo prejel dostopne podatke za Salesforce razvojno okolje s katerim bo pridobil dostop do omejenih funkcij platforme (ChatBot, Einstein Intent AI, LiveAgent).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Naučili se bomo:&lt;/strong&gt; Platforma Lightning Platform, programski jezik APEX, REST&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Workshop: So you want to build robots? (2 Days)</title>
+				<link>https://garaza.io/event/20190219-ubiquity-robotics-1/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190219-ubiquity-robotics-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: Tuesday, Feb. 19 and Thursday, Feb. 21, 17:00 - 20:00 (2 Day workshop)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Where&lt;/strong&gt;: Garaza FRI&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;: Dr. David Crawley, Ubiquity Robotics&lt;/p&gt;&#xA;&lt;p&gt;If you wanted to build a robot, what would you build? Imagine having a robotic platform that has all the basic elements (drive train, motor controllers, software stack) already in place. Imagine not needing to spend time, effort and money getting the basics right, but being able to just sit down and start building your own robot app quickly and easily. In this event you will get to try out the Magni platform, a &lt;a href=&#34;http://www.ros.org/&#34;&gt;ROS&lt;/a&gt;-based ground rover than can carry 100 kg. &lt;a href=&#34;https://ubiquityrobotics.com/&#34;&gt;Ubiquity Robotics&lt;/a&gt;, the makers of &lt;a href=&#34;https://ubiquityrobotics.com/magni.html&#34;&gt;Magni&lt;/a&gt;, challenge you to build something cool using it!&lt;/p&gt;&#xA;&lt;p&gt;Suggested ideas are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a cocktail waiter robot,&lt;/li&gt;&#xA;&lt;li&gt;a cookie delivery robot,&lt;/li&gt;&#xA;&lt;li&gt;a dog chasing robot and&lt;/li&gt;&#xA;&lt;li&gt;robot baggage porter.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Your own ideas are warmly welcomed. (And yes, it &lt;a href=&#34;https://ubiquityrobotics.com/#applications&#34;&gt;can be done&lt;/a&gt; in 2 days!) &lt;strong&gt;Pizza and silly prizes will be provided.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ubiquity Robotics is a start up that really did come out of a garage in Silicon Valley. There will be time to talk about life and business in Silicon Valley.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Prerequisites:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;laptop (w/Linux or w/Linux VM on it - you can &lt;a href=&#34;https://downloads.ubiquityrobotics.com/&#34;&gt;download a suitable VM here&lt;/a&gt; )&lt;/li&gt;&#xA;&lt;li&gt;programming skills&lt;/li&gt;&#xA;&lt;li&gt;no robot/ROS knowledge necessary!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Lia - Sprogramiraj bota in tekmuj na Lia turnirju 2019</title>
+				<link>https://garaza.io/event/20190218-lia-turnir-2019/</link>
+				<pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20190218-lia-turnir-2019/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: 14:00 - 16:00&lt;/p&gt;&#xA;&lt;p&gt;Se želiš pridružiti &lt;a href=&#34;https://www.liagame.com/tournament&#34;&gt;Lia turnirju 2019&lt;/a&gt; pa ne veš kje začeti?&#xA;Ali si zgolj želiš pridobiti nekaj prednosti in prevzeti zgodnje vodstvo?&#xA;Na delavnici bomo sprogramirali preprostega bota, ga prilagodili tvojim željam in se pridružili spletni lestvici.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Vue.js v praksi</title>
+				<link>https://garaza.io/event/20181211-celtra-vuejs/</link>
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181211-celtra-vuejs/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Žan Kusterle in Matevž Štinjek, front-end inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Vue.js je novodoben JavaScript framework, ki nam poenostavi izdelavo kompleksnih spletnih aplikacij. Na delavnici bomo skupaj izdelali preprosto igrico in ob tem spoznali temeljne koncepte Vue.js. S tem se bomo naučili, kako lahko uporabimo Vue.js v naših projektih.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+				<link>https://garaza.io/event/20181017-agilcon-iot-2/</link>
+				<pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181017-agilcon-iot-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+				<link>https://garaza.io/event/20181010-agilcon-iot-1/</link>
+				<pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20181010-agilcon-iot-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 2.del</title>
+				<link>https://garaza.io/event/20180628-agilcon-iot-2/</link>
+				<pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180628-agilcon-iot-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Inteligentna ulična razsvetljava s Salesforce IoT platformo - 1.del</title>
+				<link>https://garaza.io/event/20180621-agilcon-iot-1/</link>
+				<pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180621-agilcon-iot-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata:&lt;/strong&gt; Simon Repar, solution architect, Anže Kovač, lead developer - Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Kako uporabiti Salesforce za izvedbo inteligentne ulične razsvetljave? Na praktičnem primeru se bomo naučili, kako ustrezno povezati različne sisteme (Salesforce oblak, svetlobni senzor, mobilna aplikacija).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji (ponovitev delavnice)</title>
+				<link>https://garaza.io/event/20180523-celtra-docker-again/</link>
+				<pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180523-celtra-docker-again/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Zaradi velikega zanimanja ponavljamo delavnico. Prednost pri prijavi bodo tokrat imeli tisti, ki so ostali brez mesta na prvi ponovitvi.&lt;/p&gt;&#xA;&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,&#xA;pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje&#xA;res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,&#xA;enake mrežne nastavitve, itd.&lt;/p&gt;&#xA;&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,&#xA;kakšne so najboljše prakse. Na primeru preproste spletne aplikacije&#xA;se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske&#xA;nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Razvoj spletnih aplikacij z Docker kontejnerji</title>
+				<link>https://garaza.io/event/20180425-celtra-docker/</link>
+				<pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180425-celtra-docker/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 14:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Alen Krmelj in Dejan Levec, DevOps inženirja, Celtra&lt;/p&gt;&#xA;&lt;p&gt;Kaj je potrebno narediti, da se bo program, napisan na prenosnem računalniku,&#xA;pravilno izvajal tudi na strežniku? Kako zagotovimo, da bo produkcijsko okolje&#xA;res enako razvojnemu? Poskrbeti je treba, da se uporabljajo enake verzije vseh knjižnic,&#xA;enake mrežne nastavitve, itd.&lt;/p&gt;&#xA;&lt;p&gt;Rešitev je uporaba &lt;strong&gt;Docker kontejnerjev&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Pridite na delavnico, kjer vam bomo predstavili Docker - kaj to je, kako deluje, kako ga uporabljati,&#xA;kakšne so najboljše prakse. Na primeru preproste spletne aplikacije&#xA;se bomo naučili uporabljati Docker kontejnerje, kako ločiti aplikacijske&#xA;nastavtive od okolja in kako postaviti spletno aplikacijo v produkcijsko okolje.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Mala šola obogatene resničnosti 2. del - Microsoft HoloLens v praksi</title>
+				<link>https://garaza.io/event/20180308-agitavit-hololens-2/</link>
+				<pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180308-agitavit-hololens-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava&lt;/strong&gt;: Aleksander Fujs, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter&#xA;z njim povezano tehnologijo. Spoznali bomo delo v okolju Unity, kjer bomo najprej naredili aplikacijo &amp;ldquo;Hello, World&amp;rdquo;,&#xA;nato pa se bomo podali v nekoliko bolj zahtevne vode z uporabo Microsoft Mixed Reality Toolkita.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 2.del</title>
+				<link>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</link>
+				<pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180131-agilcon-lightning-component-framework-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;&#xA;&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Spoznavanje Salesforce mobilnega sveta s pomočjo Lightning Component Frameworka - implementacija aplikacije za iskanje bližnjih restavracij - 1.del</title>
+				<link>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</link>
+				<pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180124-agilcon-lightning-component-framework-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, solution arhitect, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Te zanima, kako v sodobnih podjetjih izgleda razvoj modernih Enterprise poslovnih aplikacij?&lt;/p&gt;&#xA;&lt;p&gt;Danes ni več dovolj, da znamo določen programski jezik, pomembno je tudi katera orodja in frameworke uporabimo za dosego cilja. Prednost pred drugimi lahko dosežemo tako, da v pravem trenutku uporabimo prave tehnologije, ki nam olajšajo implementacijo in se hkrati zavedamo ali vidimo v tej tehnologiji prihodnost tudi čez n-let.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Mala šola obogatene resničnosti - Microsoft HoloLens v praksi</title>
+				<link>https://garaza.io/event/20180118-agitavit-hololens/</link>
+				<pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20180118-agitavit-hololens/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje&lt;/strong&gt;: od 13:00-14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavata&lt;/strong&gt;: Aleksander Fujs in Borut Žnidar, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bomo predstavili zmogljivosti, lastnosti in funkcionalnosti orodja Microsoft HoloLens ter&#xA;z njim povezano tehnologijo. Kot primer rabe holografskega računalnika bomo pogledali razvoj holografsko&#xA;obogatene resničnosti za inženirsko aplikacijo Hilti Profis Engineering.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce</title>
+				<link>https://garaza.io/event/20170629-agilcon-react-native/</link>
+				<pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170629-agilcon-react-native/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-18:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce - 2.del</title>
+				<link>https://garaza.io/event/20170524-agilcon-react-native-2/</link>
+				<pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170524-agilcon-react-native-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: React Native in Salesforce - 1.del</title>
+				<link>https://garaza.io/event/20170517-agilcon-react-native-1/</link>
+				<pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170517-agilcon-react-native-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;V mobilnem svetu se inovacije dogajajo z vratolomno hitrostjo. Nova orodja, frameworki, knjižnice in arhitekturni vzorci se pojavljajo praktično na tedenskem nivoju. Le nekaterim uspe pridobiti na popularnosti in eden izmed teh je tudi React Native.&#xA;V tej dobi je za uspeh podjetja ključno, da so podjetja zmožna lansirati svoje produkte kar se da hitro in jih tako tudi vzdrževati. Še kako je pomembno, da je uporabniška izkušnja pri uporabi mobilne aplikacije kar se da prijetna in nemotena.&#xA;Težava v mobilnem svetu je razdeljenost mobilnega sveta na 2 pola (android, ios), ki podjetjem otežuje in hkrati dviguje stroške pri razvoju, če želijo svoj produkt podpreti na obeh platformah. Pri tem nam lahko pomaga React Native, ki nam omogoča razvoj aplikacije le “enkrat” in hkrati omogoča izdajo aplikacije na obe platformi hkrati brez pretiranega dodatnega razvoja. Dodaten bonus pri tem je, da aplikacijo razvijamo v zelo znanem jeziku (javascript) in ni dodatne potrebe po učenju novih jezikov.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici se bomo naučili osnov in konceptov frameworka React Native za grajenje mobilnih aplikacij in komponent v native načinu.&#xA;Spoznali bomo tudi Salesforce Mobile SDK, ki predstavlja implementacijo tehnologij, kot so REST API, OAuth2, offline hranjenje podatkov, itd. Lahko jih uporabimo kot pomoč pri povezovanju z zaledjem (Salesforce) - prenos podatkov, avtentikacija&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje brezžičnih omrežij: (Ne)varnosti WiFi-ja 2. del</title>
+				<link>https://garaza.io/event/20170420-nil-hek-wifi-2/</link>
+				<pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170420-nil-hek-wifi-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00 - 14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Maja Podbevšek, NIL d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Brezžična omrežja so se razvila z namenom zagotavljanja mobilnosti uporabnikom in kot dodatek mrežnim kablom. Nekdaj pomožna tehnologija danes prenaša več kot 60 % svetovnega Internet prometa. Brezžična omrežja imamo danes praktično že povsod - doma, v hotelu, bližnji restavraciji, v pisarni, ko se sprehajamo po ulici, itd. Mobilne naprave, tablice, prenosni računalniki imajo danes že vgrajene brezžične mrežne kartice kar pomeni, da lahko komunicirajo praktično kjerkoli in kadarkoli.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje brezžičnih omrežij: (Ne)varnosti WiFi-ja 1. del</title>
+				<link>https://garaza.io/event/20170411-nil-hek-wifi-1/</link>
+				<pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170411-nil-hek-wifi-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00 - 14:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Maja Podbevšek, NIL d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Brezžična omrežja so se razvila z namenom zagotavljanja mobilnosti uporabnikom in kot dodatek mrežnim kablom. Nekdaj pomožna tehnologija danes prenaša več kot 60 % svetovnega Internet prometa. Brezžična omrežja imamo danes praktično že povsod - doma, v hotelu, bližnji restavraciji, v pisarni, ko se sprehajamo po ulici, itd. Mobilne naprave, tablice, prenosni računalniki imajo danes že vgrajene brezžične mrežne kartice kar pomeni, da lahko komunicirajo praktično kjerkoli in kadarkoli.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Napredne 3D-teme z Babylon.js</title>
+				<link>https://garaza.io/event/20170404-3d-babylon/</link>
+				<pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170404-3d-babylon/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9-12&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Filip Samotorčan, Senior Developer, Agitavit Solutions d.o.o.&lt;/p&gt;&#xA;&lt;p&gt;Orodje Babylon.js, ki bazira na webGL in Javascriptu, je bilo sicer namenjeno za ustvarjanje spletnih računalniških iger, vendar se v praksi odlično obnese tudi pri izzivih poslovnega sveta. V zadnjih letih se je tako odprlo novo področje uporabe te 3D-knjižnice, ki ga najpogosteje označujejo z izrazom gamification. Gre za uporabo znanj, konceptov in elementov iz sveta iger v kontekste, ki s samimi igrami niso povezani. Zelo pogost primer je razvoj poslovnih aplikacij.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Let&#39;s React ...again</title>
+				<link>https://garaza.io/event/20170301-react-workshop-repeat/</link>
+				<pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170301-react-workshop-repeat/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;&#xA;&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;&#xA;&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Hekanje domačih omrežij</title>
+				<link>https://garaza.io/event/20170223-nil-hek-upnp/</link>
+				<pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170223-nil-hek-upnp/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00-15:30&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Matevž Mesojednik, Svetovalec na področju informacijske varnosti, NIL d.o.o&lt;/p&gt;&#xA;&lt;p&gt;Universal Plug and Play (UPnP) omrežni protokol omogoča povezavo med&#xA;napravami, kot so usmerjevalniki, tiskalniki, NAS strežniki, smart TV-ji,&#xA;medijskimi predvajalniki itd. UPnP je bil razvit predvsem za domače uporabnike&#xA;in ima v osnovi kar nekaj pomanjkljivosti na področju varnosti. &lt;/p&gt;&#xA;&lt;p&gt;Nastavitev UPnP na usmerjevalnikih doma in tudi v poslovnih okoljih – pogosto&#xA;puščamo privzeto. Torej vključeno. Prav to pa predstavlja varnostno&#xA;pomanjkljivost, ki je hkrati tudi funkcionalnost, saj uporabniku poenostavi&#xA;dostop do priljubljenih internetnih vsebin in storitev.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://community.rapid7.com/docs/DOC-2150&#34;&gt;Raziskave&lt;/a&gt; kažejo, da naj bi bilo&#xA;med 40 in 50 milijonov mrežnih naprav ranljivih za vsaj enega od treh načinov&#xA;napadov, ki izkoriščajo varnostne pomanjkljivosti v protokolu UPnP, kar&#xA;posledično lahko pripeljejo do kraje podatkov in vohunjenja za uporabniki.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici bo NIL-ov strokovnjak s področja varnosti povedal več o UPnP&#xA;omrežnem protokolu, preko praktičnega »heka« pa bo predstavil posledice&#xA;zlorabe, na prvi pogled nedolžne nastavitve.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Let&#39;s React</title>
+				<link>https://garaza.io/event/20170201-react-workshop/</link>
+				<pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170201-react-workshop/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 12:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Urban Cvek, Študent FRI, Shopster Indoor Solutions&lt;/p&gt;&#xA;&lt;p&gt;React je popularna JavaScript knjižnica za grajenje spletnih uporabniških vmesnikov. Leta 2011 ga je ustvaril Facebook za svoje potrebe, ter ga leta 2013 objavil kot odprto kodni projekt. V delovanju ga verjetno vsak dan vidite na Facebooku, Instagramu, Netflixu in mnogih drugih spletnih apikacijah, sedaj pa boste lahko spoznali, kako ga uporabiti tudi sami.&lt;/p&gt;&#xA;&lt;p&gt;Predstavljen je kot &amp;ldquo;V&amp;rdquo; (view) v &amp;ldquo;MVC&amp;rdquo; modelu. Izkaže pa se, da je še veliko več. &amp;ldquo;M&amp;rdquo; in &amp;ldquo;C&amp;rdquo; pa tako ali tako ne potrebujemo, saj imamo za to JavaScript.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 2.del</title>
+				<link>https://garaza.io/event/20170118-salesforce-einstein-2/</link>
+				<pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170118-salesforce-einstein-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz&#xA;Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še&#xA;preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem&#xA;prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir&#xA;energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre&#xA;in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;&#xA;&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni&#xA;inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z&#xA;vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven&#xA;način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne&#xA;inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano&#xA;globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne&#xA;objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Uporaba Salesforce Einstein-a v mobilni aplikaciji - 1.del</title>
+				<link>https://garaza.io/event/20170111-salesforce-einstein-1/</link>
+				<pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20170111-salesforce-einstein-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Simon Repar, Agilcon&lt;/p&gt;&#xA;&lt;p&gt;Za večino od nas velja, da smo o umetni inteligenci daleč največ izvedeli iz&#xA;Hollywood-a. Obstajajo roboti, ki lahko potujejo v času, da nas ubijejo še&#xA;preden imamo lahko otroke, ki bodo nekega dne vodili revolucijo proti tem&#xA;prej omenjenim robotom. Ali zlobni stroji, ki uporabljajo ljudi kot vir&#xA;energije v gigantskih tovarnah za omenjene stroje. Ubijalski roboti, modre&#xA;in rdeče tablete, zlobni stroji &amp;hellip; zveni strašno, kajne?&lt;/p&gt;&#xA;&lt;p&gt;Ampak razen če ne govorimo o filmu, to ni nekaj o čemer govorimo pri umetni&#xA;inteligenci (AI). Namen AI je v pametnejši uporabniški izkušnji z&#xA;vključevanjem inteligence v vsakdanje aplikacije.&lt;/p&gt;&#xA;&lt;p&gt;Na delavnici si bomo v praksi pogledali, kako lahko na hiter in enostaven&#xA;način razvijemo zanimivo mobilno aplikacijo, ki uporablja principe umetne&#xA;inteligence. Konkretno se bomo osredotočili na strojno učenje ter povezano&#xA;globoko učenje (Deep learning). Aplikacijo bomo naučili prepoznavati markantne&#xA;objekte v Ljubljani ali katerem koli drugem kraju.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Framework Angular 2 - 2.del</title>
+				<link>https://garaza.io/event/20161221-framework-angular-2-2/</link>
+				<pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161221-framework-angular-2-2/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;&#xA;&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.&#xA;Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Framework Angular 2 - 1.del</title>
+				<link>https://garaza.io/event/20161214-framework-angular-2-1/</link>
+				<pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161214-framework-angular-2-1/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Janez Čadež, študent FRI&lt;/p&gt;&#xA;&lt;p&gt;Angular 2 je druga različica zelo popularnega front-end frameworka Angular. Framework je odprtokoden, za njim pa stoji ekipa iz podjetja Google.&#xA;Omogoča nam hitro izdelavo naprednih spletnih aplikacij, orodje angular-cli pa nam pripomore, da kreiranje celotnega okolja za razvoj traja le nekaj minut.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako pri razvoju produkta/storitve upoštevati trg in kupca</title>
+				<link>https://garaza.io/event/20161124-lui-trg-pri-razvoju-produkta/</link>
+				<pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161124-lui-trg-pri-razvoju-produkta/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 14:00-16:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Matej Stevanovič, Ljubljanski univerzitetni inkubator (LUI)&lt;/p&gt;&#xA;&lt;p&gt;Razvoj produktov v zadnjih letih poteka tesno povezan z informacijami, ki jih&#xA;dobimo s trga. Razvijalci se vzporedno s tehničnim razvojem ukvarjajo tudi z&#xA;vsebino, ki jo bodo ponudili kupcu in se ob raziskovanju trga sprašujejo,&#xA;kakšno bolečino ima kupec in kaj kupci želijo. Zakaj je to pomembno?&#xA;Poznavanje kupca in razvoj produkta/storitve, ki jih bo kupec prepoznal kot&#xA;rešitev njegovega problema, bo ključno pripomoglo k temu, da bo produkt razvit&#xA;za kupca in da bo kupec v njem zaznal vrednost. Vrednost za kupca se kupcu&#xA;sicer sporoča kasneje, v fazi oglaševanja, vendar pa mora biti tudi ob razvoju&#xA;produkta ta vključena oz. mora razvojnik o njej razmišljati. S tem produkt&#xA;približa kupcu in mu doda komercialno dimenzijo.&lt;/p&gt;&#xA;&lt;p&gt;Izvedeli boste, &lt;strong&gt;na kaj morate biti pozorni&lt;/strong&gt; pri razvoju, &lt;strong&gt;kako vključevati&#xA;podatke s trga&lt;/strong&gt; v razvoj in &lt;strong&gt;kako raziskati trg&lt;/strong&gt;. Spoznali boste &lt;strong&gt;orodje za razvoj&#xA;vrednosti za kupca&lt;/strong&gt; in pogledali, kako se le-to vklaplja v širšo sliko poslovnega&#xA;modela, ki zajema še ostale dimenzije poslovanja. Na podlagi &lt;strong&gt;primerov&lt;/strong&gt; boste&#xA;spoznali pomembnost poznavanja vrednosti za razvijalca in pravilnega komuniciranja&#xA;vrednosti kupcu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako narediti pametnega &#34;bota&#34;?</title>
+				<link>https://garaza.io/event/20161006-ms-bot-framework/</link>
+				<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20161006-ms-bot-framework/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 13:00-17:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Martin Pregl, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Pametni asistenti, chatboti, oziroma na kratko &lt;em&gt;boti&lt;/em&gt; so z nami že mnogo let. Zakaj so ravno zdaj postali hitro razvijajoče področje? Razlog tiči v tem, da so&#xA;&amp;ldquo;messaging&amp;rdquo; aplikacije vedno popularnejše, nekateri celo trdijo, da so boti nove aplikacije. Nova paradigma pomeni novo priložnost.&lt;/p&gt;&#xA;&lt;p&gt;Spoznali bomo Microsoft Bot Framework, platformo za gradnjo pametnih botov. Ključni deli delavnice bodo:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kako lahko naredimo enostavnega bota&lt;/li&gt;&#xA;&lt;li&gt;Dodajanje kanalov (Facebook, Slack, SMS, Email…)&lt;/li&gt;&#xA;&lt;li&gt;Prepoznavanje uporabnikov&lt;/li&gt;&#xA;&lt;li&gt;Dialogi&lt;/li&gt;&#xA;&lt;li&gt;Dodajanje &amp;ldquo;pameti&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Razumevanje jezika in učenje ukazov&lt;/li&gt;&#xA;&lt;li&gt;Integracija z zalednimi storitvami&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Azure IoT v praksi</title>
+				<link>https://garaza.io/event/20160920-ms-azure-iot-v-praksi/</link>
+				<pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160920-ms-azure-iot-v-praksi/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-15:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Želite spoznati, kaj je buzz word &lt;em&gt;&amp;ldquo;internet of things&amp;rdquo;&lt;/em&gt;? Kako ga Microsoft vidi in kaj vam je kot&#xA;razvijalcem na voljo? Se želite poigrati s storitvami Microsoft Azure in napravo Raspberry PI?&#xA;Želite videti v realnem času in spremljati spremembe podatkov iz senzorjev ter hkrati razviti rešitev,&#xA;ki odreagira na te podatke? Želite obvestiti uporabnika s potisnimi sporočili, ko je dosežen pogoj?&lt;/p&gt;&#xA;&lt;p&gt;Skozi vodeno delavnico bomo spoznavali tehnološko podporo konceptu Internet of Things z uporabo tehnologij&#xA;na platformi Microsoft Azure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Poletna šola: (Ne)varni internet stvari (IoT)</title>
+				<link>https://garaza.io/event/20160906-lrk-nevarni-iot/</link>
+				<pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160906-lrk-nevarni-iot/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; 3 dni, od 9:00-15:00, 6.9. do 8.9.2016&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predavatelja:&lt;/strong&gt; Andrej Krevl (Stanford University), Boštjan Špehonja (Unistar LC)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Namenjena je:&lt;/strong&gt; študentom&lt;/p&gt;&#xA;&lt;p&gt;Laboratorij za računalniške komunikacije tudi letos organizira zanimivo in zabavno poletno šolo za študente&#xA;FRI. V prvih dveh dneh se boste naučili programirati Arduino in z njim na primer prižigati luči, komunicirati&#xA;z napravami BLE (Bluetooth low energy), sprogramirali boste tudi oblačno storitev, prek katere boste nazadnje&#xA;prižigali in ugašali luči. Zadnji dan boste postali napadalci in boste na več načinov vdrli v svoj (ali sosedov)&#xA;sistem, mu prisluškovali in ugašali luči, nazadnje pa ga boste seveda tudi primerno zavarovali, tako da boste&#xA;po zaključku poletne šole lahko mirno spali.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: Kako razviti spletno aplikacijo za 10, 1000 ali pa 10.000.000 uporabnikov? (Microsoft)</title>
+				<link>https://garaza.io/event/20160706-ms-skalabilnost-spletnih-aplikacij-azure/</link>
+				<pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160706-ms-skalabilnost-spletnih-aplikacij-azure/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Bojan Vrhovnik, Microsoft&lt;/p&gt;&#xA;&lt;p&gt;Pri gradnji aplikacij se osredotočamo na funkcionalnosti, hiter, učinkovit razvoj in čim hitrejšo prilaganje&#xA;uporabniku. Ko uporaba aplikacije raste, se s tem povečajo tudi potrebe po kapacitetah, ki jim moramo na&#xA;najhitrejši možni način ugoditi, sicer lahko to za nas predstavlja nedelovanje aplikacije in poslovno izgubo.&#xA;Uporabniki so vedno bolj zahtevni in pri raznolikem naboru rešitev na spletu moramo biti zaradi konkurence&#xA;prilagodljivi marsikateri situaciji.&lt;/p&gt;&#xA;&lt;p&gt;Na praktični &amp;ldquo;hands on&amp;rdquo; delavnici si bomo pogledali, kako lahko izkoriščamo oblačno platformo, ko število uporabnikov hitro narašča&#xA;z nekaj 10, 100, 1000 na 1.000.000 ali več ter ob tem poskrbimo za delovanje na&#xA;najenostavnejši možni način, brez popravka izvorne kode, ki jo shranjujemo v  sistemu za upravljanje z&#xA;različicami (git, mercurial, TFS, …). Poudarek je na aplikaciji in njenih funkcionalnostih, ne pa železju,&#xA;na katerem aplikacija teče.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: White Hat Hacker (NIL)</title>
+				<link>https://garaza.io/event/20160629-nil-white-hat-hacker/</link>
+				<pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160629-nil-white-hat-hacker/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;&#xA;&lt;p&gt;Podatki o prometu v omrežju pa niso uporabni samo za iskanje vzorcev. Danes večina aplikacij tako&#xA;ali drugače komunicira z oddaljenimi viri po omrežju, zato igra njihova varnost še posebej pomembno&#xA;vlogo. Vedno več podjetij se zato poslužuje neodvisnega testiranja varnosti, s katerim v kodi programov&#xA;odkrivajo luknje ali napake, ki bi jih bilo mogoče zlorabiti. Izvedba takšnih penetracijskih testov je&#xA;zahtevna, saj so testi tipično ročno prilagojeni aplikaciji, ki je predmet testiranja.&lt;/p&gt;&#xA;&lt;p&gt;Vendar obstaja tudi druga pot. Če imamo, na primer, dostop do podatkov v omrežju, kot so IP‑paketi,&#xA;lahko podatke prestrežemo in spremenimo. Če te podatke malo »pokvarimo«, lahko opazujemo, kako se aplikacija&#xA;odzove na nepričakovane vhode.&#xA;Hitro se izkaže, da zgolj s spreminjanjem naključnih bitov ne pridemo daleč. Potrebujemo strategijo&#xA;spreminjanja, ki se ne ustavi ob prvem uspehu, temveč izkoristi priložnost, da poskusi vdreti še globlje&#xA;v sistem. Takšnim algoritmom pravimo genetski, saj rešitev gradijo tako, da ohranjajo uspešne lastnosti&#xA;predhodnih generacij.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnica: AI Inspector (NIL)</title>
+				<link>https://garaza.io/event/20160628-nil-ai-inspector/</link>
+				<pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+				<guid>https://garaza.io/event/20160628-nil-ai-inspector/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Trajanje:&lt;/strong&gt; od 9:00-13:00&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Predava:&lt;/strong&gt; Jernej Južna, NIL&lt;/p&gt;&#xA;&lt;p&gt;Vsaka akcija tako zunanjih kot notranjih uporabnikov v omrežju pusti sledi v obliki prometnih podatkov.&#xA;Te lahko zajamemo in z analiziranjem razberemo stanje IT-infrastrukture oz. omrežja podjetja.&lt;/p&gt;&#xA;&lt;p&gt;Dandanes obstaja veliko rešitev, ki zmorejo v realnem času analizirati promet v omrežju.&#xA;Takšne rešitve običajno delujejo po prednastavljenih pravilih, ki v večini primerov dobro zaobjamejo&#xA;posamezne izredne dogodke (npr. vdor v sistem) in znajo nanje ustrezno reagirati. Vendar je glavna težava&#xA;takšnega pristopa ta, da rešitev potrebuje neprestane dopolnitve in popravke pravil, saj se IT-sistem in&#xA;njegova uporaba s časom spreminjata.&lt;/p&gt;&#xA;&lt;p&gt;V zadnjem času pa se uveljavlja nov pristop spremljanja prometa omrežja. Ta temelji na metodah umetne&#xA;inteligence, kjer se sistem nadzora z omenjenim izzivom spopada tako, da se uči, kaj je običajni promet&#xA;v omrežju in kdaj gre za izredne dogodke. Tak pristop ima očitno prednost, in to je samoučenje pravil,&#xA;hkrati pa se s časom samodejno prilagaja normalnemu delovanju omrežja.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
