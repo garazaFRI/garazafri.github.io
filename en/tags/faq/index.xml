@@ -14,25 +14,11 @@
 		
 			<atom:link href="https://garaza.io/en/tags/faq/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Za kakšne namene lahko uporabljamo prostore?</title>
-				<link>https://garaza.io/en/faq-en/general/uporaba-prostorov/</link>
-				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
-				<guid>https://garaza.io/en/faq-en/general/uporaba-prostorov/</guid>
-				<description>&lt;p&gt;Garaža je sestavljena iz dveh delov:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;večji osrednji &amp;ldquo;&lt;em&gt;coworking&lt;/em&gt; prostor (za cca do 15 ljudi)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tu se bodo izvajale delavnice, viharjenja, BoF sestanki, itd.&lt;/li&gt;&#xA;&lt;li&gt;del prostora je tudi kotiček s kavčem in čajno kuhinjo&lt;/li&gt;&#xA;&lt;li&gt;tri mize so električno dvižne, možno je delo stoje ali sede&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;ločena manjša soba (za cca. 5 ljudi)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;idealen za sestanke/videokonference, kjer potrebujete malo več miru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Oba prostora je možno &lt;strong&gt;rezervirati&lt;/strong&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>How is the ownership of the code / project / product handled in the garage?</title>
 				<link>https://garaza.io/en/faq/accelerator/lastnistvo/</link>
 				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
 				<guid>https://garaza.io/en/faq/accelerator/lastnistvo/</guid>
 				<description>&lt;p&gt;The student team retains &lt;strong&gt;all&lt;/strong&gt; copyrights.&lt;/p&gt;&#xA;&lt;p&gt;Also, you will &lt;strong&gt;not&lt;/strong&gt; need to name your firstborn after our faculty.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Kdo lahko dela v Garaži?</title>
-				<link>https://garaza.io/en/faq-en/general/kdo-lahko-dela/</link>
-				<pubDate>Fri, 27 May 2016 11:08:58 +0200</pubDate>
-				<guid>https://garaza.io/en/faq-en/general/kdo-lahko-dela/</guid>
-				<description>&lt;p&gt;Garaža je primarno namenjena:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;vsem študentom UL&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dodipomskim&lt;/li&gt;&#xA;&lt;li&gt;podiplomskim&lt;/li&gt;&#xA;&lt;li&gt;doktorskim študentom&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;zaposlenim na UL&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Poleg teh v njej sodelujejo kot mentorji in predavatelji tudi eksperti iz industrije.&lt;/p&gt;&#xA;&lt;p&gt;Ni pa Garaža kar &amp;ldquo;podaljšek&amp;rdquo; avle, v njej lahko delate, če se priključite enemu izmed&#xA;&lt;a href=&#34;https://garaza.io/program/&#34;&gt;programov&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Včasih ne potrebujete ključka za odklep. Na primer:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sodelujete na eni izmed brezplačnih &lt;a href=&#34;https://garaza.io/program/delavnice&#34;&gt;delavnic&lt;/a&gt; (na delavnice se morate prej prijaviti)&lt;/li&gt;&#xA;&lt;li&gt;pridete na debato v okviru &lt;a href=&#34;https://garaza.io/program/BoF-sestanki&#34;&gt;BoF sestanka&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;kakšna druga organizirana dejavnost, kjer vam prostor odklene organizator dogodka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Za popolnoma samostojno delo pa &lt;a href=&#34;https://garaza.io/en/faq/general/dostop-do-garaze/&#34;&gt;potrebujete ključek&lt;/a&gt;, s katerim&#xA;si lahko sami odklenete in zaklenete Garažo.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Who can work in the FRI garage?</title>
@@ -47,13 +33,6 @@
 				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
 				<guid>https://garaza.io/en/faq/accelerator/microgrants/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Yes, it is possible!&lt;/strong&gt; The Garage FRI has access to funds (&lt;em&gt;thank you sponsors!&lt;/em&gt;) which are indented for &lt;strong&gt;you and your&lt;/strong&gt;&#xA;projects.&lt;/p&gt;&#xA;&lt;p&gt;However such funds come with a &amp;ldquo;condition&amp;rdquo;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;after the completion of the project, the equipment will remain in the FRI Garage, where it will be available for other teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This excludes if your project contains the given equipment, in this case an arrangement can be made.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>To bring to life our project we urgently need certain equipment / software / services. Is it possible to obtain funds for this purpose?</title>
-				<link>https://garaza.io/en/faq-en/accelerator/microgrants/</link>
-				<pubDate>Fri, 27 May 2016 11:12:08 +0200</pubDate>
-				<guid>https://garaza.io/en/faq-en/accelerator/microgrants/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;Yes, this is possible!&lt;/strong&gt; FRI Garage has available funds (thanks to sponsors!), which are designed for you and your project.&lt;/p&gt;&#xA;&lt;p&gt;But this financing has one &amp;ldquo;restriction&amp;rdquo;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;after finishing the project, this equipment remains in the FRI Garage and can be used by other teams&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This does not apply if your project uses such funds as the prototype, in that case, we can come to an arrangement.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>For what purposes can we use the facilities?</title>

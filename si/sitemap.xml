@@ -18,6 +18,32 @@
                 href="https://garaza.io/faq/general/kdaj-lahko-delam/"
                 />
   </url><url>
+    <loc>https://garaza.io/programi/</loc>
+    <lastmod>2016-05-10T14:53:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garaza.io/programs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="si"
+                href="https://garaza.io/programi/"
+                />
+  </url><url>
+    <loc>https://garaza.io/programi/pospesevalnik/</loc>
+    <lastmod>2016-05-01T12:50:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garaza.io/programs/accelerator/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="si"
+                href="https://garaza.io/programi/pospesevalnik/"
+                />
+  </url><url>
     <loc>https://garaza.io/ekipe/fundhub/</loc>
     <lastmod>2016-12-08T12:50:21+02:00</lastmod>
   </url><url>
@@ -34,6 +60,19 @@
                 href="https://garaza.io/faq/general/dostop-do-garaze/"
                 />
   </url><url>
+    <loc>https://garaza.io/programi/delavnice/</loc>
+    <lastmod>2016-05-02T12:50:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garaza.io/programs/workshops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="si"
+                href="https://garaza.io/programi/delavnice/"
+                />
+  </url><url>
     <loc>https://garaza.io/ekipe/shopster/</loc>
     <lastmod>2016-12-08T12:50:21+02:00</lastmod>
   </url><url>
@@ -48,6 +87,19 @@
                 rel="alternate"
                 hreflang="si"
                 href="https://garaza.io/faq/general/uporaba-prostorov/"
+                />
+  </url><url>
+    <loc>https://garaza.io/programi/programerski-izzivi/</loc>
+    <lastmod>2016-05-10T14:53:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garaza.io/programs/programming-challenges/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="si"
+                href="https://garaza.io/programi/programerski-izzivi/"
                 />
   </url><url>
     <loc>https://garaza.io/faq/accelerator/lastnistvo/</loc>
@@ -74,6 +126,19 @@
                 rel="alternate"
                 hreflang="si"
                 href="https://garaza.io/faq/general/kdo-lahko-dela/"
+                />
+  </url><url>
+    <loc>https://garaza.io/programi/bof-sestanki/</loc>
+    <lastmod>2016-05-04T12:50:21+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://garaza.io/programs/bof-meetings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="si"
+                href="https://garaza.io/programi/bof-sestanki/"
                 />
   </url><url>
     <loc>https://garaza.io/ekipe/planet-lia/</loc>
@@ -722,16 +787,6 @@
   </url><url>
     <loc>https://garaza.io/tags/splo%C5%A1na-vpra%C5%A1anja/</loc>
     <lastmod>2016-05-27T11:08:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://garaza.io/en/tags/splo%C5%A1na-vpra%C5%A1anja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="si"
-                href="https://garaza.io/tags/splo%C5%A1na-vpra%C5%A1anja/"
-                />
   </url><url>
     <loc>https://garaza.io/post/odprtje-garaze/</loc>
     <lastmod>2016-05-25T17:00:00+01:00</lastmod>
@@ -784,22 +839,6 @@
                 hreflang="si"
                 href="https://garaza.io/ogarazi/"
                 />
-  </url><url>
-    <loc>https://garaza.io/groups/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://garaza.io/en/groups/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="si"
-                href="https://garaza.io/groups/"
-                />
-  </url><url>
-    <loc>https://garaza.io/groups/programi/</loc>
-  </url><url>
-    <loc>https://garaza.io/programi/</loc>
   </url><url>
     <loc>https://garaza.io/topics/</loc>
     <xhtml:link

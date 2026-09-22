@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Programi on Garaža FRI | Študentski tehnološki pospeševalnik</title>
+		<link>https://garaza.io/programi/</link>
+		<description>Recent content in Programi on Garaža FRI | Študentski tehnološki pospeševalnik</description>
+		<generator>Hugo</generator>
+		<language>si</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 May 2016 14:53:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/programi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tehnološki pospeševalnik</title>
+				<link>https://garaza.io/programi/pospesevalnik/</link>
+				<pubDate>Sun, 01 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programi/pospesevalnik/</guid>
+				<description>&lt;p&gt;Najpomembnejša dejavnost Garaže. Izbrane študentske ekipe v programu Pospeševalnika gradijo svoje ideje.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Delavnice &#34;Pod havbo&#34;</title>
+				<link>https://garaza.io/programi/delavnice/</link>
+				<pubDate>Mon, 02 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programi/delavnice/</guid>
+				<description>&lt;p&gt;Praktične (&amp;quot;&lt;em&gt;hands-on&lt;/em&gt;&amp;quot;) delavnice o aktualnih strokovnih temah.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programerski izzivi in druga tekmovanja</title>
+				<link>https://garaza.io/programi/programerski-izzivi/</link>
+				<pubDate>Tue, 10 May 2016 14:53:00 +0200</pubDate>
+				<guid>https://garaza.io/programi/programerski-izzivi/</guid>
+				<description>&lt;p&gt;FRI sodeluje z različnimi podjetji in v sodelovanju z njimi pripravlja za svoje študente več različnih izzivov.&#xA;Vsi študenti, ki sodelujejo v enem od izzivov, lahko v času trajanja izziva uporabljajo prostore Garaže za&#xA;delo.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Skupinsko viharjenje in BoF sestanki</title>
+				<link>https://garaza.io/programi/bof-sestanki/</link>
+				<pubDate>Wed, 04 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programi/bof-sestanki/</guid>
+				<description>&lt;p&gt;Skupinsko viharjenje (&amp;quot;&lt;em&gt;brainstorming&lt;/em&gt;&amp;quot;) in BoF sestanki sta mreženje s ciljem identificirati&#xA;ideje, ki se bodo potem uporabile v Garaži ali se v skupini zainteresiranih skupaj naučiti&#xA;kakšne nove tehnologije.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

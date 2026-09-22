@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Programs on FRI Garage | Student technology accelerator</title>
+		<link>https://garaza.io/programs/</link>
+		<description>Recent content in Programs on FRI Garage | Student technology accelerator</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 May 2016 14:53:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://garaza.io/programs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Student accelerator</title>
+				<link>https://garaza.io/programs/accelerator/</link>
+				<pubDate>Sun, 01 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programs/accelerator/</guid>
+				<description>&lt;p&gt;The most important Garage activity. Selected student teams build their ideas in the accelerator programs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>&#34;Under the hood&#34; workshops</title>
+				<link>https://garaza.io/programs/workshops/</link>
+				<pubDate>Mon, 02 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programs/workshops/</guid>
+				<description>&lt;p&gt;Practical (&amp;quot;&lt;em&gt;hands-on&lt;/em&gt;&amp;quot;) workshops on current technical topics.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Programming challenges and other competitions</title>
+				<link>https://garaza.io/programs/programming-challenges/</link>
+				<pubDate>Tue, 10 May 2016 14:53:00 +0200</pubDate>
+				<guid>https://garaza.io/programs/programming-challenges/</guid>
+				<description>&lt;p&gt;Our faculty cooperates with different companies and works with them to prepare&#xA;our students a number of different challenges. All students, who participate in one of the challenges&#xA;can for the duration of the challenge use the premises of Garage for work.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Group brainstorming and BoF sessions</title>
+				<link>https://garaza.io/programs/bof-meetings/</link>
+				<pubDate>Wed, 04 May 2016 12:50:21 +0200</pubDate>
+				<guid>https://garaza.io/programs/bof-meetings/</guid>
+				<description>&lt;p&gt;Brainstorming and BoF sessions are networking events with the aim to identify&#xA;ideas that are then used in the Garage or in a group to learn any new technology.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
